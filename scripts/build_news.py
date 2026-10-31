@@ -99,13 +99,9 @@ def render_digest(lang, d):
 <meta property="og:title" content="{esc(title)} {date}">
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="{c['og']}">
-<link rel="stylesheet" href="/styles.css">
-<link rel="stylesheet" href="/extras.css">
+<link rel="stylesheet" href="/clean.css">
 </head>
 <body>
-<div class="bg-base"></div>
-<div class="bg-grid-wrap"><div class="bg-grid"></div></div>
-<div class="bg-vignette"></div>
 <main class="news-wrap">
 <a class="back" href="/{c['index'].replace('index.html', '')}">{esc(c['back'])}</a>
 <header class="news-head">
