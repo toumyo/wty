@@ -86,6 +86,15 @@ def render_digest(lang, d):
 <meta name="description" content="{esc(c['blurb'])}">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="{url}">
+<script type="application/ld+json">{json.dumps({
+  "@context": "https://schema.org", "@type": "NewsArticle",
+  "headline": title + " " + date, "description": c["blurb"], "inLanguage": c["hreflang"],
+  "datePublished": date, "dateModified": date, "url": url,
+  "mainEntityOfPage": url, "about": ["stock market", "world economy"],
+  "author": {"@type": "Person", "name": "Taiyang Wang", "url": BASE + "/"},
+  "publisher": {"@type": "Organization", "name": "東緲合同會社", "url": BASE + "/"},
+  "citation": [s["url"] for it in d["items"] for s in it.get("sources", [])],
+}, ensure_ascii=False)}</script>
 <meta property="og:type" content="article">
 <meta property="og:title" content="{esc(title)} {date}">
 <meta property="og:url" content="{url}">

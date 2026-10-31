@@ -1,0 +1,37 @@
+# 王太陽 Taiyang Wang｜wangtaiyang.com
+
+> 位於大阪的網站設計者王太陽（Taiyang Wang）的個人網站。提供免費線上工具導覽、每日世界財經新聞整理，並經營一人制網站設計公司「東緲合同會社」，業務包括網站設計、開發、SEO 與 GEO（AI 搜尋優化）。
+
+網站有三種語言版本：繁體中文（/）、日文（/ja/）、英文（/en/）。
+
+## 關於
+
+- 所在地：日本大阪
+- 工作語言：中文、日文、英文
+- 公司：東緲合同會社（Higashi Miao Godo Kaisha），一人制
+- 業務：網站設計、開發、SEO、GEO
+
+## 線上工具
+
+- [AI 導航](https://ai.wangtaiyang.com/)：常用 AI 工具分類整理
+- [思維導圖](https://mind.wangtaiyang.com/)：線上繪製思維導圖
+- [線上草圖](https://draw.wangtaiyang.com/)：流程圖與草稿
+- [匯率換算](https://hl.wangtaiyang.com/)：多幣別換算
+- [IT 工具箱](https://ittools.wangtaiyang.com/)：開發者常用工具
+- [簡歷製作](https://r.wangtaiyang.com/)：線上製作簡歷
+- [IP 查詢](https://ip.wangtaiyang.com/)：查看公網 IP
+- [短鏈接](https://link.wangtaiyang.com/)：產生短網址
+
+## 每日財經新聞
+
+- [每日世界經濟新聞](https://wangtaiyang.com/news/)：每日整理美股、日股與重要財經新聞，附原始來源連結，由 AI 輔助整理，僅供參考，不構成投資建議。
+
+## 服務
+
+- 網站設計與開發（中文 / 日文 / 英文）
+- SEO 優化（百度、Google、Bing）
+- GEO：讓內容更容易被 ChatGPT、Perplexity、Google AI Overviews 引用
+
+## 網站地圖
+
+- https://wangtaiyang.com/sitemap.xml

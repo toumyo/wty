@@ -2,4 +2,24 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
+# AI search and assistant crawlers: allowed explicitly
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+# Chinese search engines
+User-agent: Baiduspider
+Allow: /
+User-agent: Bingbot
+Allow: /
+
 Sitemap: https://wangtaiyang.com/sitemap.xml
