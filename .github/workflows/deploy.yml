@@ -26,4 +26,4 @@ jobs:
             echo "::error::Secrets CLOUDFLARE_API_TOKEN / CLOUDFLARE_ACCOUNT_ID are empty or missing"
             exit 1
           fi
-          npx --yes wrangler@3 pages deploy dist --project-name=wangtaiyang --branch=main
+          npx --yes wrangler@3 pages deploy dist --project-name=blog2 --branch=main
