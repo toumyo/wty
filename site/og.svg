@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="orb" cx="0.85" cy="0.15" r="0.6">
+      <stop offset="0" stop-color="#c6f24e" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#c6f24e" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#ffffff" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="630" fill="#0b0d10"/>
+  <rect width="1200" height="630" fill="url(#grid)"/>
+  <rect width="1200" height="630" fill="url(#orb)"/>
+  <text x="80" y="170" font-family="JetBrains Mono, Menlo, monospace" font-size="22" fill="#c6f24e" letter-spacing="4">OSAKA · WEB DESIGN · TOOLS</text>
+  <text x="80" y="335" font-family="Fraunces, Georgia, serif" font-size="128" font-weight="600" fill="#f3f5f8">Taiyang Wang</text>
+  <text x="80" y="410" font-family="PingFang TC, Noto Sans CJK TC, sans-serif" font-size="46" fill="#c9cfd9">王太陽｜網站、工具與設計實踐</text>
+  <text x="80" y="480" font-family="Inter Tight, Helvetica, sans-serif" font-size="26" fill="#8a93a3">中文 · 日本語 · English</text>
+  <rect x="80" y="530" width="260" height="2" fill="#c6f24e"/>
+  <text x="80" y="580" font-family="JetBrains Mono, Menlo, monospace" font-size="24" fill="#8a93a3">wangtaiyang.com</text>
+</svg>
