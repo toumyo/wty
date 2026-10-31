@@ -63,30 +63,31 @@ def load_digests():
 def render_digest(lang, d):
     c = L[lang]
     date = d["date"]
-    blocks = []
-    for it in d["items"]:
+    cards = []
+    for i, it in enumerate(d["items"], 1):
         t = it[lang]
-        srcs = " · ".join(
-            f'<a href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])}</a>'
+        chips = "".join(
+            f'<a class="chip" href="{esc(s["url"])}" target="_blank" rel="noopener">{esc(s["name"])} ↗</a>'
             for s in it.get("sources", [])
         )
-        blocks.append(
-            f'<article><h2>{esc(t["title"])}</h2><p>{esc(t["summary"])}</p>'
-            f'<p class="src"><span>{esc(c["src"])}：</span>{srcs}</p></article>'
+        cards.append(
+            f'<article class="card"><div class="num">{i:02d}</div>'
+            f'<div class="body"><h2>{esc(t["title"])}</h2><p>{esc(t["summary"])}</p>'
+            f'<div class="chips"><span class="lbl">{esc(c["src"])}</span>{chips}</div></div></article>'
         )
-    title = f'{c["label"]} · {date}'
+    title = f'{c["label"]}'
     url = f"{BASE}/{path_for(lang, date)}"
     return f"""<!doctype html>
 <html lang="{c['hreflang']}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)} | wangtaiyang.com</title>
+<title>{esc(title)} {date} | wangtaiyang.com</title>
 <meta name="description" content="{esc(c['blurb'])}">
 <meta name="robots" content="index,follow">
 <link rel="canonical" href="{url}">
 <meta property="og:type" content="article">
-<meta property="og:title" content="{esc(title)}">
+<meta property="og:title" content="{esc(title)} {date}">
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="{c['og']}">
 <link rel="stylesheet" href="/styles.css">
@@ -97,10 +98,13 @@ def render_digest(lang, d):
 <div class="bg-grid-wrap"><div class="bg-grid"></div></div>
 <div class="bg-vignette"></div>
 <main class="news-wrap">
-<a class="back" href="/{c['index'] if c['index'] != 'index.html' else ''}">{esc(c['back'])}</a>
-<h1>{esc(title)}</h1>
-<p class="meta"><time datetime="{date}">{date}</time></p>
-{''.join(blocks)}
+<a class="back" href="/{c['index'].replace('index.html', '')}">{esc(c['back'])}</a>
+<header class="news-head">
+  <span class="eyebrow">{esc(title)}</span>
+  <h1>{date}</h1>
+  <p class="lead">{esc(c['blurb'])}</p>
+</header>
+<section class="cards">{''.join(cards)}</section>
 <p class="disc">{esc(c['disclaimer'])}</p>
 </main>
 </body>
