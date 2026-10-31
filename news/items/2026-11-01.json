@@ -1,0 +1,105 @@
+{
+  "date": "2026-11-01",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://krmg.com/2026/10/30/how-major-us-stock-indexes-fared-friday-10-30-2026/"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數齊跌，科技股因AI投資疑慮領跌",
+        "summary": "10月30日（週五）道瓊斯指數收於51,770.31點，下跌1.1%；標普500收於7,580.07點，下跌1.8%；那斯達克綜合指數收於25,437.00點，下跌2.9%。市場擔憂AI投資是否能帶來足夠回報，科技股承壓。"
+      },
+      "ja": {
+        "title": "米主要3指数そろって下落、AI投資への懸念でハイテク株が急落",
+        "summary": "10月30日（金）の終値は、ダウ平均が51,770.31ドル（1.1%安）、S&P500が7,580.07（1.8%安）、ナスダック総合が25,437.00（2.9%安）でした。AI投資の回収への懸念が強まり、テクノロジー株が売られました。"
+      },
+      "en": {
+        "title": "US indexes all fall as AI spending worries hit tech stocks",
+        "summary": "On Friday, October 30, the Dow closed at 51,770.31 (down 1.1%), the S&P 500 at 7,580.07 (down 1.8%) and the Nasdaq Composite at 25,437.00 (down 2.9%). Concerns that heavy AI spending may not pay off pressured technology shares."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Reuters（via Investing.com）",
+          "url": "https://www.investing.com/news/stock-market-news/intel-warning-sparks-chip-rout-as-pc-weakness-clouds-turnaround-4987123"
+        }
+      ],
+      "zh": {
+        "title": "英特爾股價重挫近三成，拖累全球晶片股",
+        "summary": "英特爾股價當日下跌28.58%，收於65.76美元，為1974年以來最差單日表現。公司預測第四季營收低於市場預期，並表示今年預期不會出現正現金流。晶片與PC相關股同步下跌，AMD跌10.88%，高通跌11.12%。"
+      },
+      "ja": {
+        "title": "インテル株が約3割急落、世界の半導体株にも波及",
+        "summary": "インテル株は28.58%安の65.76ドルで引けました。第4四半期の売上高見通しが市場予想を10億ドル以上下回り、今年のプラスの営業キャッシュフローも見込まないとしました。AMDは10.88%安、クアルコムは11.12%安となりました。"
+      },
+      "en": {
+        "title": "Intel shares plunge nearly 29%, dragging global chip stocks lower",
+        "summary": "Intel fell 28.58% to close at $65.76, its worst day since 1974. The company forecast quarterly revenue more than $1 billion below market estimates and said it did not expect positive cash flow this year. AMD fell 10.88% and Qualcomm 11.12%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "読売新聞（via Infoseek）",
+          "url": "https://news.infoseek.co.jp/article/yomiuri_20261030_gyt1t00210/"
+        }
+      ],
+      "zh": {
+        "title": "日經225指數大跌1,369點，AI投資疑慮打擊半導體股",
+        "summary": "10月30日東京股市日經225指數收於63,290.11點，下跌1,369.36點（2.12%），為四個交易日來首次下跌。AI過度投資的疑慮再度升溫，Advantest、東京電子、軟銀集團等權值股走弱。"
+      },
+      "ja": {
+        "title": "日経平均終値は1,369円安の63,290円、AI過剰投資懸念が再燃",
+        "summary": "10月30日の日経平均株価は1,369.36円安（2.12%安）の63,290.11円で終えました。4日ぶりの反落です。米国のAI関連株安を受けて半導体関連株が売られ、アドバンテストや東京エレクトロン、ソフトバンクグループなどが下げを主導しました。"
+      },
+      "en": {
+        "title": "Nikkei 225 falls 1,369 points to 63,290 as AI spending fears return",
+        "summary": "The Nikkei 225 closed at 63,290.11 on October 30, down 1,369.36 points (2.12%), snapping a run of gains. Renewed concern over excessive AI investment hit chip-related shares, with Advantest, Tokyo Electron and SoftBank Group leading the decline."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Reuters（via Investing.com）",
+          "url": "https://www.investing.com/news/economy-news/analysts-react-to-boj-decision-to-keep-rates-steady-4985754"
+        }
+      ],
+      "zh": {
+        "title": "日本銀行維持政策利率1.25%，9比1投票，市場預期12月可能升息",
+        "summary": "日本銀行決定維持政策利率於1.25%，投票結果為8比1，審議委員高田創主張升息。日銀上調通膨預測，分析師認為日銀已認定基礎通膨達到2%目標，多數分析師預期12月可能升息。"
+      },
+      "ja": {
+        "title": "日銀は政策金利1.25%を据え置き、8対1の投票結果",
+        "summary": "日本銀行は政策金利を1.25%で据え置きました。投票結果は8対1で、高田創審議委員が利上げを主張して反対しました。物価見通しは引き上げられ、多くのアナリストが12月の利上げを予想しています。"
+      },
+      "en": {
+        "title": "BOJ holds rates at 1.25% in 8-1 vote, December hike seen",
+        "summary": "The Bank of Japan kept its policy rate at 1.25% in an 8-1 vote, with board member Hajime Takata dissenting in favour of a hike. The BOJ raised its inflation forecast, and several analysts expect a rate increase at the December meeting."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP",
+          "url": "https://krmg.com/2026/10/30/how-major-us-stock-indexes-fared-friday-10-30-2026/"
+        }
+      ],
+      "zh": {
+        "title": "美國國債殖利率下跌，油價上漲",
+        "summary": "週五美股下跌期間，投資人轉向避險資產，美國公債殖利率下降，儘管油價同日走高。亞馬遜的財報也加深了市場對企業AI支出規模的擔憂。"
+      },
+      "ja": {
+        "title": "米国債利回りは低下、原油は上昇",
+        "summary": "10月30日（金）に米株が下落する中、投資家は安全資産に向かい、米国債利回りは低下しました。一方で原油価格は上昇しました。アマゾンの決算もAI支出の規模への懸念を強めました。"
+      },
+      "en": {
+        "title": "Treasury yields fall while oil rises",
+        "summary": "As US stocks fell on Friday, investors moved into safer assets and Treasury yields declined, even as oil prices rose. Amazon's profit report added to concerns about how much companies are spending on AI."
+      }
+    }
+  ]
+}
