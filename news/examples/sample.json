@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-30",
+  "items": [
+    {
+      "sources": [{"name": "Example Source", "url": "https://example.com/a"}],
+      "zh": {"title": "範例標題", "summary": "這是範例摘要，用來測試模板。"},
+      "ja": {"title": "サンプル見出し", "summary": "テンプレート確認用の要約です。"},
+      "en": {"title": "Sample headline", "summary": "A sample summary used to test the template."}
+    }
+  ]
+}
