@@ -197,6 +197,8 @@ def head(lang):
 {jsonld(lang)}
 </script>
 <link rel="stylesheet" href="/clean.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9381195976626834"
+     crossorigin="anonymous"></script>
 </head>"""
 
 
