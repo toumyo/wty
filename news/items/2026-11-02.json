@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-02",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance（收盤數據）",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數10月30日齊跌，那斯達克收盤跌2.86%",
+        "summary": "道瓊指數收於51,770.31點，下跌1.09%；標普500收於7,580.07點，下跌1.82%；那斯達克綜合指數收於25,437.00點，下跌2.86%。那斯達克10月跌幅約5.2%，為2025年3月以來最差的一個月。"
+      },
+      "ja": {
+        "title": "10月30日の米主要3指数はそろって下落、ナスダックは2.86%安",
+        "summary": "ダウ平均は51,770.31ドル（1.09%安）、S&P500は7,580.07（1.82%安）、ナスダック総合は25,437.00（2.86%安）で引けました。ナスダックの10月の下落率は約5.2%で、2025年3月以来最悪の月となりました。"
+      },
+      "en": {
+        "title": "Dow, S&P 500 and Nasdaq all close lower on October 30",
+        "summary": "The Dow closed at 51,770.31 (down 1.09%), the S&P 500 at 7,580.07 (down 1.82%) and the Nasdaq Composite at 25,437.00 (down 2.86%). The Nasdaq fell about 5.2% in October, its worst month since March 2025."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "亞馬遜財報不及預期，自由現金流出現創紀錄負值",
+        "summary": "亞馬遜第三季財報不及預期，股價下跌約2%。過去12個月自由現金流出超過420億美元，創下紀錄；該季資本支出約為770億美元。"
+      },
+      "ja": {
+        "title": "アマゾン、決算が予想を下回り株価は約2%安",
+        "summary": "アマゾンの7〜9月期決算は市場予想を下回り、株価は約2%下落しました。直近12か月のフリーキャッシュフローは420億ドル超の流出となり、過去最大です。同四半期の設備投資は約770億ドルでした。"
+      },
+      "en": {
+        "title": "Amazon shares slip after earnings miss and record cash burn",
+        "summary": "Amazon's third-quarter results missed expectations and the stock fell about 2%. Free cash flow was an outflow of more than $42 billion over the past 12 months, a record, as capital expenditure reached roughly $77 billion in the quarter."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "Alphabet財報失準，AI投資疑慮打壓科技股",
+        "summary": "Alphabet財報不及預期，市場擔心AI支出。該股週四經歷20多年來最差的單日表現，目前較52週高點回落逾20%；Meta跌幅也超過20%。"
+      },
+      "ja": {
+        "title": "アルファベット決算が未達、AI投資への懸念で大型ハイテク株が下落",
+        "summary": "アルファベットの決算は予想を下回り、AI支出への懸念が強まりました。同社株は木曜日に20年以上で最悪の1日を経験し、52週高値から20%超下落しています。メタも同様に20%超下げています。"
+      },
+      "en": {
+        "title": "Alphabet earnings miss deepens AI spending worries",
+        "summary": "Alphabet's earnings missed expectations, raising concerns about AI spending. The stock had its worst day in over 20 years on Thursday and is more than 20% below its 52-week high, while Meta has also fallen more than 20% from its high."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "Reddit與Roblox股價大跌，用戶數據走弱",
+        "summary": "Reddit股價下跌約24%，原因包括日活躍用戶減少、營收預測偏弱，以及計畫限制只有登入用戶才能瀏覽論壇。Roblox股價下跌約16%，日活躍用戶年減9%至1.38億。"
+      },
+      "ja": {
+        "title": "レディットとロブロックスが急落、利用者データが弱含み",
+        "summary": "レディット株は約24%下落し、日次アクティブユーザーの減少、弱い売上高見通し、ログインユーザーのみにフォーラム閲覧を制限する計画が背景にあります。ロブロックスは約16%安で、日次アクティブユーザーは前年比9%減の1億3,800万人でした。"
+      },
+      "en": {
+        "title": "Reddit and Roblox shares tumble on weaker user metrics",
+        "summary": "Reddit fell about 24% on lower daily active users, a weak revenue forecast and plans to limit forum access to logged-in users. Roblox dropped about 16% as daily active users fell 9% year over year to 138 million."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "油價反彈，埃克森美孚與雪佛龍股價盤中創歷史新高",
+        "summary": "受美國可能再度對伊朗動武的消息影響，油價反彈，布蘭特原油接近每桶112美元，WTI約104美元。精煉利潤率走強，埃克森美孚與雪佛龍股價一度觸及歷史高點。"
+      },
+      "ja": {
+        "title": "原油相場が反発、エクソンとシェブロンは一時史上最高値",
+        "summary": "米国がイランへの攻撃を再開する可能性が伝わり、原油価格が反発しました。ブレント原油は1バレル約112ドル、WTIは約104ドルとなりました。製油マージンの改善を受け、エクソンモービルとシェブロンの株価は一時史上最高値を付けました。"
+      },
+      "en": {
+        "title": "Oil rebounds as Exxon and Chevron touch record highs",
+        "summary": "Oil prices rebounded on signs the US could resume strikes on Iran, with Brent near $112 a barrel and WTI around $104. Stronger refining margins pushed ExxonMobil and Chevron shares to briefly touch record highs."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Brecorder（Nikkei/Reuters）",
+          "url": "https://www.brecorder.com/news/40446725/nikkei-slumps-up-to-3pc-as-tech-stocks-tumble"
+        }
+      ],
+      "zh": {
+        "title": "日經225指數10月30日收跌2.1%，報63,290.11點",
+        "summary": "日經225指數收於63,290.11點，下跌2.1%，盤中一度下跌逾3%。TOPIX約下跌1%，本週基本持平。"
+      },
+      "ja": {
+        "title": "日経平均は10月30日に2.1%安の63,290.11円で終了",
+        "summary": "日経平均株価は63,290.11円で、2.1%安で取引を終えました。場中は一時3%超下落しました。TOPIXは約1%安で、週間では横ばいとなりました。"
+      },
+      "en": {
+        "title": "Nikkei 225 closes down 2.1% at 63,290.11 on October 30",
+        "summary": "The Nikkei 225 closed at 63,290.11, down 2.1%, after falling as much as 3% intraday. The TOPIX was down about 1% on the day and roughly flat for the week."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Brecorder（Nikkei/Reuters）",
+          "url": "https://www.brecorder.com/news/40446725/nikkei-slumps-up-to-3pc-as-tech-stocks-tumble"
+        }
+      ],
+      "zh": {
+        "title": "日本半導體股領跌，Advantest與東京威力科創跌幅逾5%",
+        "summary": "Advantest下跌5.9%，東京威力科創下跌5.2%，Ibiden、Lasertec與軟銀集團也走低。市場擔心AI投資能否持續，以及美國晚間科技股財報帶來的現金消耗壓力。"
+      },
+      "ja": {
+        "title": "半導体株が下落、アドバンテストと東京エレクトロンは5%超安",
+        "summary": "アドバンテストは5.9%安、東京エレクトロンは5.2%安となり、イビデン、レーザーテック、ソフトバンクグループも下落しました。AI投資が持続可能かどうかへの懸念と、米国の決算を受けた半導体関連株の売りが背景です。"
+      },
+      "en": {
+        "title": "Japanese chip stocks lead losses as Advantest and Tokyo Electron fall",
+        "summary": "Advantest fell 5.9% and Tokyo Electron 5.2%, with Ibiden, Lasertec and SoftBank Group also lower. Investors questioned whether AI spending can be sustained, after Amazon and Intel reported heavy cash burn."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance（路透社報導）",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bank-japan-holds-rates-closing-070029017.html"
+        }
+      ],
+      "zh": {
+        "title": "日本央行維持政策利率1.25%，9人中8人同意，高田創主張升息",
+        "summary": "日本央行10月30日維持政策利率在1.25%，投票結果為8比1，審議委員高田創主張升息至1.5%但未獲通過。會議上調2027財年核心通膨預測至2.6%，並決定從2027年1月起將ETF賣出速度提高一倍以上。"
+      },
+      "ja": {
+        "title": "日銀は政策金利1.25%を据え置き、高田委員のみ利上げを主張",
+        "summary": "日銀は10月30日、政策金利を1.25%に据え置きました。投票は8対1で、高田委員が1.5%への利上げを提案しましたが否決されました。2027年度の核心CPI予測は2.6%に引き上げられ、2027年1月からETFの売却ペースを倍以上にすることも全会一致で決まりました。"
+      },
+      "en": {
+        "title": "BoJ holds rates at 1.25% in 8-1 vote, Takata dissents for a hike",
+        "summary": "The Bank of Japan kept its policy rate at 1.25% on October 30 in an 8-1 vote, with board member Hajime Takata proposing a hike to 1.5%. The bank raised its fiscal 2027 core inflation forecast to 2.6% and will more than double its pace of ETF sales from January 2027."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance（路透社報導）",
+          "url": "https://finance.yahoo.com/markets/live/fed-meeting-live-updates-interest-rates-held-steady-in-split-vote-warsh-says-politics-played-no-role-ahead-of-midterm-elections-191946928.html"
+        }
+      ],
+      "zh": {
+        "title": "聯準會10月28日維持利率於3.75%至4.00%，投票10比2",
+        "summary": "聯準會維持聯邦基金利率目標區間在3.75%至4.00%，投票10比2。麗莎·庫克與哈馬克主張升息25個基點。聲明中表示通膨仍處於高位，經濟活動呈「強勁」擴張。"
+      },
+      "ja": {
+        "title": "FRBは10月28日、政策金利を3.75〜4.00%に据え置き、投票は10対2",
+        "summary": "FRBはフェデラルファンド金利の誘導目標を3.75〜4.00%に据え置きました。投票は10対2で、クック理事とハマック総裁が0.25%の利上げを主張しました。声明は「インフレ率は依然として高い水準」とし、経済活動は「力強く」拡大していると記しました。"
+      },
+      "en": {
+        "title": "Fed holds at 3.75%–4.00% in 10-2 vote on October 28",
+        "summary": "The Fed kept its target range at 3.75% to 4.00% in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a quarter-point hike. The statement said inflation remains elevated and described economic activity as expanding at a strong pace."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance（路透社報導）",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "聯準會官員主張繼續升息，市場開始定價12月加息",
+        "summary": "聖路易斯聯儲主席Musalem與里奇蒙聯儲主席Barkin表示，需要進一步升息以抑制通膨。9月PCE通膨回升，市場目前預期12月可能加息。"
+      },
+      "ja": {
+        "title": "FRB高官が追加利上げを主張、市場は12月利上げを織り込み始める",
+        "summary": "セントルイス連銀のムサレム総裁とリッチモンド連銀のバーキン総裁は、インフレ抑制のため利上げが必要だと述べました。9月のPCEインフレ率が再び強まったことを受け、市場は12月の利上げを見込んでいます。"
+      },
+      "en": {
+        "title": "Fed officials call for more hikes; markets price a December move",
+        "summary": "St. Louis Fed President Alberto Musalem and Richmond Fed President Thomas Barkin said rates need to rise further to curb inflation. With September PCE inflation firmer, markets are pricing in a possible December hike."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Euronews（路透社報導）",
+          "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+        }
+      ],
+      "zh": {
+        "title": "歐洲央行維持存款利率2.5%，拉加德宣布提前卸任",
+        "summary": "歐洲央行10月29日維持存款利率在2.5%。9月歐元區通膨率為3.8%，高於8月的3.2%，遠高於2%目標。拉加德將於2027年2月7日卸任，比任期提前約九個月。"
+      },
+      "ja": {
+        "title": "ECBは預金金利2.5%を据え置き、ラガルド総裁は任期前の退任を発表",
+        "summary": "ECBは10月29日、預金金利を2.5%に据え置きました。9月のユーロ圏インフレ率は3.8%と8月の3.2%から上昇し、目標の2%を大きく上回っています。ラガルド総裁は2027年2月7日に退任します。"
+      },
+      "en": {
+        "title": "ECB holds deposit rate at 2.5%; Lagarde to step down early",
+        "summary": "The ECB kept its deposit rate at 2.5% on October 29. Eurozone inflation was 3.8% in September, up from 3.2% in August and well above the 2% target. Christine Lagarde will leave on February 7, 2027, about nine months before her term ends."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Euronews（路透社報導）",
+          "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+        }
+      ],
+      "zh": {
+        "title": "法國10年期國債殖利率升破5%，為2002年以來首次",
+        "summary": "法國10年期國債殖利率上週升破5%，為2002年以來首見。其與德國國債的利差約為155個基點。ING評論稱，債市已在某種程度上取代了歐洲央行的角色。"
+      },
+      "ja": {
+        "title": "フランス10年債利回りが2002年以来初めて5%超え",
+        "summary": "フランスの10年物国債利回りは先週、2002年以来初めて5%を超えました。ドイツ国債との利回り格差は約155ベーシスポイントです。ING は「債券市場がECBの役割を引き受けた」と評しています。"
+      },
+      "en": {
+        "title": "French 10-year yield tops 5% for first time since 2002",
+        "summary": "The 10-year French bond yield rose above 5% last week for the first time since 2002, with a spread of roughly 155 basis points over German bunds. ING said the bond market has taken over the ECB's job of tightening financial conditions."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://www.cbsnews.com/news/binance-hack-north-korea/"
+        },
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/"
+        }
+      ],
+      "zh": {
+        "title": "幣安遭盜取約63億美元，區塊鏈分析機構指向北韓駭客",
+        "summary": "TRM Labs估計，約63.6億美元資金從幣安十條區塊鏈的錢包被轉出，多數在約20分鐘內完成。TRM與Elliptic指向北韓駭客組織，FBI也表示同一組織為嫌疑人。幣安表示已凍結約30億美元，並將承擔客戶損失。"
+      },
+      "ja": {
+        "title": "バイナンスで約63億ドルの暗号資産が流出、北朝鮮関与との見方",
+        "summary": "TRM Labsは、10のブロックチェーン上のバイナンスのウォレットから約63.6億ドルが流出したと推計しています。大部分は約20分で移動したとされます。TRMとElliptic は北朝鮮のハッカー集団を関与先として挙げ、FBIも同じグループを名指ししました。バイナンスは約30億ドルを凍結したと発表しています。"
+      },
+      "en": {
+        "title": "Binance loses about $6.3 billion in crypto hack; North Korea blamed",
+        "summary": "TRM Labs estimates about $6.36 billion was moved out of Binance wallets across ten blockchains, mostly within about 20 minutes. TRM and Elliptic attribute the theft to North Korean hackers, and the FBI has also accused the group. Binance says about $3 billion has been frozen and it will cover customer losses."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/article/current-price-of-gold-10-30-2026/"
+        }
+      ],
+      "zh": {
+        "title": "現貨黃金10月30日下跌近3%，報每盎司3,907美元",
+        "summary": "現貨黃金價格在10月30日上午約為每盎司3,907美元，較前一日的4,025美元下跌118美元，跌幅約2.9%。文章未說明當日下跌的具體原因。"
+      },
+      "ja": {
+        "title": "現物金が10月30日に約3%下落、1オンス3,907ドル",
+        "summary": "現物金価格は10月30日午前時点で1オンス3,907ドルと、前日の4,025ドルから118ドル、約2.9%下落しました。記事では当日の下落要因は特定されていません。"
+      },
+      "en": {
+        "title": "Spot gold falls nearly 3% to $3,907 an ounce",
+        "summary": "Spot gold was at about $3,907 an ounce on the morning of October 30, down $118 or 2.9% from $4,025 the previous day. The article did not identify a specific cause for the decline."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+        }
+      ],
+      "zh": {
+        "title": "美國10年期公債殖利率回落至4.93%",
+        "summary": "10月30日美國10年期公債殖利率收於4.929%，較前一日下降0.06個百分點。同日VIX恐慌指數上升約12.9%至19.42。"
+      },
+      "ja": {
+        "title": "米10年債利回りは4.93%に低下、VIXは約13%上昇",
+        "summary": "10月30日の米10年物国債利回りは4.929%で、前日比0.06ポイント低下しました。同日のVIX指数は約12.9%上昇し19.42となりました。"
+      },
+      "en": {
+        "title": "US 10-year Treasury yield eases to 4.93%",
+        "summary": "The 10-year US Treasury yield closed at 4.929% on October 30, down 0.06 percentage point from the previous day. The VIX volatility index rose about 12.9% to 19.42 the same day."
+      }
+    }
+  ]
+}
