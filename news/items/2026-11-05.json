@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-05",
+  "items": [
+    {
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-221001197.html"}, {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"}],
+      "zh": {"title": "美股三大指數大漲 道指創中期選舉後最佳表現", "summary": "11月4日（週三）道瓊工業指數收於53,356.12點，上漲3.03%，為44年來中期選舉後的最佳表現。標普500指數上漲1.58%至7,688.62點，納斯達克綜合指數上漲1.44%至25,736.51點。市場認為選舉不確定性消退，民主黨在眾議院與參議院皆取得優勢。"},
+      "ja": {"title": "米国株3指数が急伸 ダウは中間選挙後で44年ぶりの好成績", "summary": "11月4日のダウ平均は3.03%高の53,356.12ドルで取引を終えた。中間選挙後の上昇率としては44年ぶりの好成績となった。S&P500は1.58%高の7,688.62、ナスダック総合は1.44%高の25,736.51で引けた。選挙をめぐる不透明感が後退したことが背景とされる。"},
+      "en": {"title": "US stocks rally sharply; Dow posts best post-midterm gain in 44 years", "summary": "The Dow closed up 3.03% at 53,356.12 on Nov. 4, its best performance after a midterm election in 44 years. The S&P 500 rose 1.58% to 7,688.62 and the Nasdaq Composite gained 1.44% to 25,736.51. Markets cited the easing of election uncertainty after Democrats were reported to have won both the House and Senate."}
+    },
+    {
+      "sources": [{"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}, {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"}],
+      "zh": {"title": "油價重挫 布蘭特跌回每桶100美元以下", "summary": "受中期選舉結果及伊朗衝突降溫預期影響，11月4日油價大幅下跌。路透報導指布蘭特與WTI當日均下跌約8%，布蘭特盤中下跌約10美元，為數週來首次跌破每桶100美元。本週迄今布蘭特下跌近20%。"},
+      "ja": {"title": "原油が急落 ブレントは数週間ぶりに1バレル100ドルを割る", "summary": "米中間選挙の結果とイラン紛争の緩和期待を背景に、11月4日の原油価格は大幅に下落した。ロイターによると、ブレントとWTIはともに約8%下落し、ブレントは約10ドル安で数週間ぶりに1バレル100ドルを下回った。週初来ではブレントが約20%下落したと報じられている。"},
+      "en": {"title": "Oil plunges; Brent falls below $100 a barrel", "summary": "Crude prices dropped sharply on Nov. 4 after the U.S. midterm results and hopes for de-escalation in the Iran conflict. Reuters reported Brent and WTI each fell about 8%, with Brent down roughly $10 and below $100 for the first time in weeks. Brent was reported down nearly 20% for the week to date."}
+    },
+    {
+      "sources": [{"name": "RTTNews via Panthere Group", "url": "https://www.pantheregroup.com/2026/11/04/gold-soars-as-oil-plunges-u-s-dollar-slides-after-democrats-sweep-u-s-congress/"}, {"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "黃金與白銀大漲 美元走弱推動貴金屬", "summary": "11月4日COMEX 12月黃金期貨上漲2.94%至每盎司4,056.10美元，白銀期貨上漲5.18%至52.330美元。報導指油價暴跌與美元走弱推動貴金屬上揚，油價相關的升息擔憂亦有所減弱。路透指黃金重回4,000美元上方，為8月19日以來最大單日漲幅。"},
+      "ja": {"title": "金と銀が急伸 原油急落とドル安が追い風", "summary": "11月4日、COMEXの12月限金先物は2.94%高の1オンス4,056.10ドル、銀先物は5.18%高の52.330ドルとなった。原油の急落とドル安が貴金属を押し上げ、石油関連のインフレを理由とした利上げ観測も後退したと報じられた。ロイターによると、金は4,000ドルを回復し、8月19日以来の大幅高となった。"},
+      "en": {"title": "Gold and silver surge as dollar slides", "summary": "December COMEX gold rose 2.94% to $4,056.10 an ounce and silver jumped 5.18% to $52.330 on Nov. 4. Reports cited plunging crude and a weaker dollar, along with reduced worries about oil-linked inflation prompting rate hikes. Reuters said gold climbed back above $4,000, its best day since Aug. 19."}
+    },
+    {
+      "sources": [{"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"}],
+      "zh": {"title": "科技巨頭盤中大漲 亞馬遜、微軟、蘋果領漲", "summary": "11月4日下午交易中，亞馬遜上漲7.22%，微軟上漲7.07%，蘋果上漲6.27%，Alphabet上漲4.13%。以上為盤中數字，並非收盤價。"},
+      "ja": {"title": "大型ハイテク株が盤中急騰 アマゾン・マイクロソフト・アップルが上位", "summary": "11月4日午後の取引で、アマゾンは7.22%高、マイクロソフトは7.07%高、アップルは6.27%高、アルファベットは4.13%高となった。いずれも盤中の数字で、終値ではない。"},
+      "en": {"title": "Megacap tech jumps intraday; Amazon, Microsoft, Apple lead", "summary": "In afternoon trading on Nov. 4, Amazon rose 7.22%, Microsoft 7.07%, Apple 6.27% and Alphabet 4.13%, according to TheStreet's intraday figures. These are not closing prices."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-221001197.html"}, {"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "美國10年期公債殖利率降至4.89% 美元匯率跌至9月底以來低點", "summary": "11月4日美國10年期公債殖利率下跌約6個基點至4.89%。路透報導指美元跌至9月30日以來最低，墨西哥與智利披索走強，德國公債殖利率為兩個月來低點。"},
+      "ja": {"title": "米10年債利回りが4.89%に低下 ドルは9月30日以来の安値", "summary": "11月4日、米10年国債利回りは約6ベーシスポイント低下して4.89%となった。ロイターによると、ドルは9月30日以来の安値まで下落し、メキシコとチリの通貨が上昇した。ドイツ国債利回りは2カ月ぶりの低水準となった。"},
+      "en": {"title": "US 10-year yield falls to 4.89%; dollar at lowest since Sept. 30", "summary": "The 10-year Treasury yield fell about 6 basis points to 4.89% on Nov. 4. Reuters reported the dollar sliding to its lowest since Sept. 30, while the German bund yield hit a two-month low. Mexican and Chilean pesos rallied."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-221001197.html"}, {"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"}],
+      "zh": {"title": "個股異動：FIS早盤重挫逾22% 特朗普媒體大跌約17%", "summary": "金融科技公司FIS（Fidelity National Information Services）早盤下跌22.92%，並宣布首席財務官James Kehoe將於11月5日卸任。特朗普媒體（DJT）在中期選舉結果公布後大幅下挫，Yahoo Finance報導指跌幅接近17%。"},
+      "ja": {"title": "個別株：FISが早朝に22%超安、トランプ・メディアは約17%安", "summary": "決済関連企業FIS（Fidelity National Information Services）は早朝取引で22.92%下落し、CFOのJames Kehoe氏が11月5日付で退任すると発表した。トランプ・メディア（DJT）は中間選挙の結果を受けて約17%下落したとYahoo Financeは報じている。"},
+      "en": {"title": "Individual stocks: FIS falls over 22% early; Trump Media drops nearly 17%", "summary": "Fidelity National Information Services fell 22.92% in early trading, and said CFO James Kehoe will step down effective Nov. 5. Trump Media & Technology Group (DJT) plummeted nearly 17% after the midterm results, according to Yahoo Finance."}
+    },
+    {
+      "sources": [{"name": "TheStreet", "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"}],
+      "zh": {"title": "麥當勞第三季財報優於預期 股價盤初上漲4.73%", "summary": "麥當勞第三季營收71.6億美元，同比增長1%，低於預期的72.8億美元；經調整每股盈餘3.57美元，高於預期的3.38美元。美國同店銷售下降0.2%，優於預期的下降0.5%。股價盤初上漲4.73%。"},
+      "ja": {"title": "マクドナルド7〜9月期は利益が予想上回る 株価は一時4.73%高", "summary": "第3四半期の売上高は71億6,000万ドルで前年比1%増となり、予想の72億8,000万ドルは下回った。調整後1株利益は3.57ドルで、予想の3.38ドルを上回った。米国の既存店売上高は0.2%減と、予想の0.5%減より良かった。株価は早朝取引で4.73%高となった。"},
+      "en": {"title": "McDonald's Q3 profit beats; shares up 4.73% early", "summary": "McDonald's reported third-quarter revenue of $7.16 billion, up 1% and short of the $7.28 billion expected, with adjusted EPS of $3.57 versus $3.38 forecast. U.S. same-store sales fell 0.2% against expectations of a 0.5% decline. Shares rose 4.73% in early trading."}
+    },
+    {
+      "sources": [{"name": "Motley Fool", "url": "https://www.fool.com/investing/2026/11/04/semiconductor-sell-off-the-best-chip-stocks-to-buy-right-now-before-they-skyrocket-once-again/"}],
+      "zh": {"title": "半導體股10月30日大跌 費城半導體指數單日下挫7%", "summary": "費城半導體指數10月30日單日下跌7%，起因是英特爾營收指引遠低於預期，原因是個人電腦市場萎縮。輝達當日下跌逾4%。Motley Fool報導稱，半導體板塊的這次拋售仍是近期市場的背景。"},
+      "ja": {"title": "半導体株は10月30日に急落 フィラデルフィア半導体指数は1日で7%安", "summary": "フィラデルフィア半導体指数は10月30日に1日で7%下落した。インテルの業績見通しが、PC市場の縮小を理由に大きく予想を下回ったことが背景とされる。エヌビディアも同日4%超下落した。"},
+      "en": {"title": "Chip stocks slumped Oct. 30; SOX fell 7% in one session", "summary": "The PHLX Semiconductor index fell 7% on Oct. 30 after Intel's guidance came in well below expectations due to a declining PC market. Nvidia fell more than 4% that day, according to Motley Fool. The sell-off remains the backdrop for recent chip-sector trading."}
+    },
+    {
+      "sources": [{"name": "Nikkei", "url": "https://www.nikkei.com/article/DGXZQOFL040X7TU6A101C2000000/"}, {"name": "Yomiuri Shimbun via Infoseek", "url": "https://news.infoseek.co.jp/article/yomiuri_20261104_gyt1t00259/"}, {"name": "Kabutan", "url": "https://kabutan.jp/news/marketnews/?b=n202611041275"}],
+      "zh": {"title": "日經平均收跌893日圓 報62,188點", "summary": "11月4日日經平均股價收跌893日圓，報62,188日圓。日本經濟新聞與讀賣新聞報導稱，美國中期選舉民主黨佔優是主因，AI與半導體相關股票遭到拋售。Kabutan報導指日經平均已連跌三個交易日。"},
+      "ja": {"title": "日経平均は893円安の62,188円 米中間選挙とAI・半導体株売り", "summary": "日経平均株価は11月4日、893円安の62,188円で取引を終えた。日本経済新聞と読売新聞は、米中間選挙で民主党が優勢となったことと、AI・半導体関連株への売りを主因として報じた。株価は3営業日続落となった。"},
+      "en": {"title": "Nikkei 225 falls 893 yen to 62,188 on US midterms and chip selling", "summary": "Japan's Nikkei 225 closed down 893 yen at 62,188 on Nov. 4, according to Nikkei and Yomiuri reports. Both attributed the drop to the Democratic lead in the US midterms and selling in AI and chip-related shares. Kabutan said the index fell for a third straight session."}
+    },
+    {
+      "sources": [{"name": "investingLive", "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/"}],
+      "zh": {"title": "日本央行將公布9月會議紀要 政策利率維持1.25%", "summary": "日本央行將於11月5日東京時間8時50分公布9月17至18日貨幣政策會議的完整紀要。9月日本央行升息25個基點至1.25%，為1995年以來最高，投票結果為7比2，兩名委員主張維持1%。10月會議以8比1維持利率於1.25%，高田創委員反對，主張升至1.5%。"},
+      "ja": {"title": "日銀、9月会合の議事要旨を11月5日に公表 政策金利は1.25%", "summary": "日本銀行は11月5日の東京時間8時50分に、9月17〜18日開催の金融政策決定会合の議事要旨を公表する。9月には政策金利を25ベーシスポイント引き上げて1.25%とし、1995年以来の高水準となった。10月は8対1で据え置きを決定し、高田委員が1.5%への利上げを主張した。"},
+      "en": {"title": "BoJ to release September minutes; policy rate at 1.25%", "summary": "The Bank of Japan will publish full minutes of its Sept. 17–18 meeting at 8:50 a.m. Tokyo time on Nov. 5. It raised the policy rate by 25 basis points to 1.25% in September, the highest since 1995, on a 7–2 vote. In October it held at 1.25% on an 8–1 vote, with Hajime Takata dissenting in favor of 1.5%."}
+    },
+    {
+      "sources": [{"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "英國央行週四議息 市場預期加息 英鎊逼近1.35美元", "summary": "英國央行將於週四公布利率決定，市場預期將加息，為三年多來首次。英鎊兌美元升至七週高點，接近測試1.35美元。市場定價至明年底前約有100個基點的緊縮。"},
+      "ja": {"title": "英中銀行は木曜に政策発表 利上げ観測 ポンドは7週間ぶり高値", "summary": "イングランド銀行は木曜に金融政策の決定を発表する。3年以上ぶりの利上げが予想されている。ポンドはドルに対して7週間ぶりの高値を付け、1.35ドルの節目に迫った。市場は来年末までに約100ベーシスポイントの引き締めを織り込んでいるとされる。"},
+      "en": {"title": "BoE decides Thursday, expected to hike; sterling near seven-week high", "summary": "The Bank of England announces its rate decision Thursday and is expected to hike for the first time in more than three years. Sterling rose to a seven-week high against the dollar, close to testing $1.35. Markets were pricing about 100 basis points of tightening by the end of next year."}
+    },
+    {
+      "sources": [{"name": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-03/ecb-will-probably-have-to-raise-rates-in-december-nagel-says"}, {"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "歐洲央行12月加息機率升高 德國央行行長稱可能需要升息", "summary": "德國聯邦銀行行長Nagel於11月3日表示，歐洲央行12月可能需要加息。路透市場專欄指歐元區通脹升至三年高點，相關標題稱加息幾乎已成定局。"},
+      "ja": {"title": "ECB、12月利上げの可能性が高まる ドイツ連銀ナーゲル総裁", "summary": "ドイツ連邦銀行のナーゲル総裁は11月3日、ECBは12月に利上げせざるを得ない可能性が高いと述べた。ロイターの市場コラムは、ユーロ圏の物価上昇率が3年ぶりの高水準に達したと伝え、関連見出しでは利上げはほぼ確実とされている。"},
+      "en": {"title": "ECB hike in December looks likely, Bundesbank's Nagel says", "summary": "Bundesbank President Joachim Nagel said on Nov. 3 the ECB will probably have to raise rates in December. A Reuters market column noted euro zone inflation rose to a three-year high, with related headlines describing a hike as nearly certain."}
+    },
+    {
+      "sources": [{"name": "Tradingpedia", "url": "https://www.tradingpedia.com/2026/11/04/pboc-nudges-yuan-fix-higher-as-reference-rate-edges-up/"}, {"name": "investingLive", "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/"}],
+      "zh": {"title": "人民幣中間價報6.7180 人民銀行上調外匯準備金率至6%", "summary": "中國人民銀行11月4日將人民幣兌美元中間價設為6.7180，前一交易日為6.7150，弱於路透預估的6.6811。投資快訊標題另指，人民銀行已將外匯準備金率上調至6%。"},
+      "ja": {"title": "人民元基準値は6.7180に 中国人民銀行、外貨準備率を6%に引き上げ", "summary": "中国人民銀行は11月4日、人民元の対ドル基準値を6.7180に設定した。前日の6.7150より元安方向で、ロイターの予測値6.6811も下回った。投資情報サイトの見出しでは、外貨準備率が6%に引き上げられたとも伝えられている。"},
+      "en": {"title": "PBOC sets yuan midpoint at 6.7180; FX reserve ratio raised to 6%", "summary": "The People's Bank of China set the USD/CNY midpoint at 6.7180 on Nov. 4, up from 6.7150 the previous session and weaker than Reuters' estimate of 6.6811. An investingLive headline also reported that the PBOC lifted the FX reserve ratio to 6%."}
+    },
+    {
+      "sources": [{"name": "investingLive", "url": "https://investinglive.com/central-banks/economic-and-event-calendar-in-asia-thursday-november-5-2026-we-hear-from-the-bank-of-japan/"}],
+      "zh": {"title": "澳洲儲備銀行加息25個基點 符合市場預期", "summary": "澳洲儲備銀行宣布加息25個基點，符合市場普遍預期。該消息列於investingLive的重點新聞清單中。"},
+      "ja": {"title": "豪準備銀行、0.25%の利上げを決定 市場予想どおり", "summary": "オーストラリア準備銀行は25ベーシスポイントの利上げを決定した。市場の大方の予想どおりとされる。この情報はinvestingLiveの主要ニュース一覧に掲載されている。"},
+      "en": {"title": "RBA hikes 25 basis points, as widely expected", "summary": "The Reserve Bank of Australia raised its policy rate by 25 basis points, in line with market expectations. The item appears in investingLive's list of key headlines."}
+    },
+    {
+      "sources": [{"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "伊朗衝突降溫預期拖累油價 美國宣布終止對以色列年度撥款", "summary": "路透報導稱，市場對伊朗戰事降溫的期望升溫，卡塔爾正在斡旋。特朗普表示，美國將在今年之後停止每年40億美元的對以色列資助。"},
+      "ja": {"title": "イラン紛争の緩和期待が原油を押し下げ トランプ氏、対イスラエル支援の打ち切りに言及", "summary": "ロイターによると、イラン紛争の緩和への期待が高まり、カタールが仲介に当たっている。トランプ大統領は、今年以降、対イスラエルへの年間40億ドルの支援を停止すると述べた。"},
+      "en": {"title": "Iran de-escalation hopes weigh on oil; Trump says Israel funding to end", "summary": "Reuters reported growing hopes for de-escalation in the Iran conflict, with Qatar mediating. Trump said the U.S. will stop its $4 billion annual funding of Israel after this year."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-4-221001197.html"}, {"name": "Reuters via Global Banking & Finance Review", "url": "https://www.globalbankingandfinance.com/trading-day-oil-tanks-stocks-leap-us-midterms/"}],
+      "zh": {"title": "比特幣升破80,000美元", "summary": "11月4日比特幣上漲約3%至80,000美元上方，Yahoo Finance報價為80,615.99美元，漲幅3.65%。路透指比特幣同日的上漲與美元走弱同步。"},
+      "ja": {"title": "ビットコインが8万ドル超え", "summary": "11月4日、ビットコインは約3%高となり8万ドルを上回った。Yahoo Financeの相場では80,615.99ドル、上昇率は3.65%。ロイターは、ドル安と同じ日の動きだったと伝えている。"},
+      "en": {"title": "Bitcoin tops $80,000", "summary": "Bitcoin rose about 3% above $80,000 on Nov. 4, with Yahoo Finance quoting $80,615.99, up 3.65%. Reuters noted the move came alongside a weaker dollar."}
+    }
+  ]
+}
