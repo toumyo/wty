@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "sources": [
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"},
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "美股三大指數暴跌 納指跌逾5%", "summary": "11月5日美股收盤，納斯達克綜合指數下跌5.52%，標普500指數下跌4.36%，為2025年4月以來最差的一天；道瓊斯工業指數下跌1,833.06點，跌幅3.44%。納指已跌入修正區間，較10月6日的收盤高點跌逾10%。"},
+      "ja": {"title": "米主要3指数が急落、ナスダックは5%超安", "summary": "11月5日の米国株式市場は大幅安で引けた。ナスダック総合指数は5.52%安、S&P500種指数は4.36%安で、2025年4月以来の最悪の日となった。ダウ工業株30種平均は1,833.06ドル（3.44%）安。ナスダックは10月6日の終値高値から10%以上下落し、調整局面入りした。"},
+      "en": {"title": "US stocks slump, Nasdaq falls more than 5%", "summary": "US stocks closed sharply lower on November 5. The Nasdaq Composite fell 5.52% and the S&P 500 fell 4.36%, its worst day since April 2025. The Dow lost 1,833.06 points (3.44%). The Nasdaq is now in a correction, more than 10% below its October 6 record close."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"},
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"}
+      ],
+      "zh": {"title": "半導體股重挫 輝達跌9%、美光跌17%", "summary": "費城半導體指數下跌逾12%，為2020年3月以來最大跌幅之一的半導體ETF也錄得同樣的最差單日表現。輝達收跌9.26%，AMD跌17.26%，美光跌17.46%，博通跌10.43%，英特爾跌10.33%。"},
+      "ja": {"title": "半導体株が急落、エヌビディア9%安・マイクロン17%安", "summary": "フィラデルフィア半導体株指数は12%超下落した。半導体ETFも2020年3月以来の最大級の下げとなった。エヌビディアは9.26%安、AMDは17.26%安、マイクロンは17.46%安、ブロードコムは10.43%安、インテルは10.33%安で引けた。"},
+      "en": {"title": "Chip stocks plunge; Nvidia down 9%, Micron down 17%", "summary": "The Philadelphia Semiconductor Index fell more than 12%. A semiconductor ETF had its worst day since March 2020. Nvidia closed down 9.26%, AMD fell 17.26%, Micron fell 17.46%, Broadcom fell 10.43%, and Intel fell 10.33%."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance (Reuters)", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html"},
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-nov-5-2026"}
+      ],
+      "zh": {"title": "中期選舉後民主黨勝選 AI股承壓", "summary": "美股科技與AI股在民主黨於中期選舉橫掃後拋售，市場擔憂AI數據中心的建設速度放緩，以及更嚴格的AI監管或數據中心限制。"},
+      "ja": {"title": "中間選挙後の民主党圧勝でAI株に売り", "summary": "中間選挙で民主党が議会を広く制したことを受け、AI・半導体株が売られた。AIデータセンターの建設ペースが鈍化する懸念や、AI規制・データセンター制限の強化が意識された。"},
+      "en": {"title": "AI stocks sold off after Democrats' midterm sweep", "summary": "Chip and AI stocks sold off after the Democrats' midterm election sweep. Investors feared a slower AI data-center buildout and tougher AI regulation or data-center limits."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "高通跌9.5% 手機晶片銷售下滑26%", "summary": "高通11月5日收跌9.49%至156.75美元。路透社報導稱，其手機晶片銷售下降26%，且低於市場預期。"},
+      "ja": {"title": "クアルコム9.5%安、スマホ向けチップ売上26%減", "summary": "クアルコムは9.49%安の156.75ドルで引けた。ロイターによると、スマートフォン向けチップの売上は26%減少し、市場予想を下回った。"},
+      "en": {"title": "Qualcomm falls 9.5% on 26% drop in phone chip sales", "summary": "Qualcomm closed down 9.49% at $156.75. Reuters reported that its phone chip sales fell 26% and missed estimates."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "個股表現分化 AppLovin大漲31%、MNTN暴跌55%", "summary": "AppLovin在獲利超出預期後上漲31.04%。MNTN下調2026年營收預測，股價暴跌55.06%。Krispy Kreme上調2026年營收預測至13.5億至14億美元，股價大漲30.68%。"},
+      "ja": {"title": "個別株は明暗、AppLovinは31%高・MNTNは55%安", "summary": "AppLovinは利益が市場予想を上回り31.04%高となった。MNTNは2026年の売上高見通しを引き下げ、55.06%安で引けた。Krispy Kremeは2026年の売上高見通しを13.5億〜14億ドルに引き上げ、30.68%高となった。"},
+      "en": {"title": "Stocks diverge: AppLovin up 31%, MNTN down 55%", "summary": "AppLovin rose 31.04% after beating profit estimates. MNTN fell 55.06% after cutting its 2026 revenue forecast. Krispy Kreme jumped 30.68% after raising its 2026 revenue forecast to $1.35 billion to $1.40 billion."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "Airbnb盤後漲10.8% 第三季營收增長19%", "summary": "Airbnb在11月5日盤後公布第三季營收同比增長19%，並上調2026年業績展望，盤後股價上漲10.80%。同期Lyft盤後下跌5.71%。"},
+      "ja": {"title": "エアビーアンドビー時間外10.8%高、第3四半期売上19%増", "summary": "エアビーアンドビーは第3四半期の売上高が前年同期比19%増となり、2026年の見通しを引き上げた。時間外取引で10.80%高となった。同時間帯にリフトは5.71%安。"},
+      "en": {"title": "Airbnb up 10.8% after hours on 19% revenue growth", "summary": "Airbnb reported third-quarter revenue up 19% year over year and raised its 2026 outlook. Its shares rose 10.80% after hours, while Lyft fell 5.71%."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "美國初請失業金降至18.9萬人 第三季生產率增3.6%", "summary": "美國勞工部數據顯示，截至上周的初請失業金人數降至18.9萬人，前值為19.5萬人。勞工統計局公布第三季非農勞動生產率增長3.6%，快於經濟學家預期。"},
+      "ja": {"title": "米新規失業保険申請は19万人に減少、7〜9月期の生産性は3.6%増", "summary": "米労働省によると、週間の新規失業保険申請件数は18.9万件と、前週の19.5万件から減少した。労働統計局は7〜9月期の労働生産性が3.6%増だったと発表し、エコノミスト予想を上回った。"},
+      "en": {"title": "Jobless claims fall to 189,000; Q3 productivity up 3.6%", "summary": "Initial jobless claims fell to 189,000 from 195,000, according to the Labor Department. The BLS reported third-quarter worker productivity grew 3.6%, faster than economists expected."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "英國央行加息至4% 八比一投票通過", "summary": "英格蘭銀行將基準利率由3.75%上調至4%，九名委員中八人支持，一人主張加息幅度更大。"},
+      "ja": {"title": "英中銀行、政策金利を3.75%から4%に引き上げ", "summary": "イングランド銀行は主要政策金利を3.75%から4%に引き上げた。9名の政策委員のうち8名が賛成し、1名はより大幅な利上げを主張した。"},
+      "en": {"title": "Bank of England raises rate to 4%", "summary": "The Bank of England raised its main rate to 4% from 3.75%. Eight of nine policymakers voted for the hike, and one wanted a bigger increase."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "市場押注12月加息機率降至70%", "summary": "根據CME FedWatch，市場預期美聯儲12月加息的機率為70.1%，低於周三的82.7%。"},
+      "ja": {"title": "12月FOMC利上げ確率は70%に低下", "summary": "CMEのFedWatchによると、米連邦準備制度が12月に利上げする確率は70.1%となった。前日の82.7%から低下している。"},
+      "en": {"title": "December Fed hike odds fall to 70%", "summary": "CME FedWatch odds of a December Fed rate hike fell to 70.1%, down from 82.7% on Wednesday."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance (Reuters)", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-steady-midterm-105838388.html"}
+      ],
+      "zh": {"title": "美聯儲官員暗示未來可能加息", "summary": "克利夫蘭聯儲主席Beth Hammack與里奇蒙聯儲主席Thomas Barkin在11月5日發表的言論中，暗示未來可能加息。"},
+      "ja": {"title": "米地区連銀総裁、将来の利上げを示唆", "summary": "クリーブランド連銀のハマック総裁とリッチモンド連銀のバーキン総裁が、将来の利上げの可能性を示唆した。"},
+      "en": {"title": "Fed's Hammack and Barkin hint at future hikes", "summary": "Cleveland Fed President Beth Hammack and Richmond Fed President Thomas Barkin hinted at possible future rate increases, according to Reuters."}
+    },
+    {
+      "sources": [
+        {"name": "StockTitan", "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"}
+      ],
+      "zh": {"title": "美國原油前一日暴跌8%後趨穩", "summary": "11月5日早盤，美國原油價格在周三大跌8%之後基本持平。報導未提供具體價格。"},
+      "ja": {"title": "米原油、前日8%急落後は横ばい", "summary": "11月5日朝の時点で、米国産原油は前日水曜日の8%急落の後で横ばいとなった。報道では具体的な価格は示されていない。"},
+      "en": {"title": "US crude steadies after 8% drop", "summary": "US crude oil was steady on the morning of November 5, after falling 8% on Wednesday. The report did not give a price."}
+    },
+    {
+      "sources": [
+        {"name": "Zaikei (日経平均大引け)", "url": "https://www.zaikei.co.jp/article/20261105/876303.html"},
+        {"name": "Zaikei (寄与度ランキング)", "url": "https://www.zaikei.co.jp/article/20261105/876315.html"}
+      ],
+      "zh": {"title": "日經平均收跌1.79% 連續四日下跌", "summary": "11月5日，日經平均收於61,077.90點，較前日下跌1,110.73點（1.79%），已連續四個交易日下跌。報導未明確指出單一原因，但當日美國半導體股走弱對日本AI與半導體相關股造成壓力。"},
+      "ja": {"title": "日経平均は1.79%安の61,077.90円、4日続落", "summary": "11月5日の日経平均株価は前日比1,110.73円（1.79%）安の61,077.90円で引けた。4営業日続落。米半導体株の下落が、日本のAI・半導体関連株の重荷となった。"},
+      "en": {"title": "Nikkei 225 falls 1.79% to 61,077.90, fourth straight loss", "summary": "The Nikkei 225 closed down 1,110.73 points (1.79%) at 61,077.90 on November 5, its fourth straight daily decline. Weakness in US chip stocks weighed on Japanese AI and semiconductor-related shares."}
+    },
+    {
+      "sources": [
+        {"name": "Zaikei (日経平均大引け)", "url": "https://www.zaikei.co.jp/article/20261105/876303.html"}
+      ],
+      "zh": {"title": "東證指數逆勢上漲1.16%", "summary": "同日東證股價指數（TOPIX）收於3,940.39點，上漲45.01點（1.16%），與日經平均的走勢相反。成交金額約為11.8萬億日圓，上漲股票佔72.8%。"},
+      "ja": {"title": "TOPIXは逆行高、1.16%高の3,940.39", "summary": "同日のTOPIXは45.01ポイント（1.16%）高の3,940.39で引けた。日経平均とは逆の動きで、売買代金は約11兆7,850億円。値上がり銘柄は全体の72.8%を占めた。"},
+      "en": {"title": "TOPIX rises 1.16% against the Nikkei's decline", "summary": "The TOPIX closed up 45.01 points (1.16%) at 3,940.39, moving opposite to the Nikkei. Trading value was about 11.8 trillion yen, and 72.8% of issues rose."}
+    },
+    {
+      "sources": [
+        {"name": "Zaikei (日経平均大引け)", "url": "https://www.zaikei.co.jp/article/20261105/876311.html"}
+      ],
+      "zh": {"title": "日經平均高開後轉跌 收盤前一度跌破6.1萬點", "summary": "日經平均早盤高開196.10日圓，隨後因美國半導體股下跌而轉弱。下午2點後跌幅擴大至逾1,000日圓，收盤前一度跌破61,000點。"},
+      "ja": {"title": "日経平均、高寄り後に急反落　一時6万1000円割れ", "summary": "日経平均は196.10円高で寄り付いたが、米半導体株の下落を受けて反転した。14時以降は下げ幅が1,000円を超え、引け間際には一時6万1000円を割り込んだ。"},
+      "en": {"title": "Nikkei opens higher, then reverses below 61,000", "summary": "The Nikkei opened up 196.10 yen but reversed after US chip stocks fell. The decline widened past 1,000 yen after 2 p.m., and the index briefly dipped below 61,000 near the close."}
+    },
+    {
+      "sources": [
+        {"name": "Zaikei (寄与度ランキング)", "url": "https://www.zaikei.co.jp/article/20261105/876315.html"}
+      ],
+      "zh": {"title": "Advantest與東京電子拖累日經平均約1,557日圓", "summary": "Advantest（6857）單日貢獻下跌約1,097日圓，東京電子（8035）貢獻下跌約460日圓，兩者合計約拖累指數1,557日圓。快速零售（9983）則上漲約295日圓，是最大的正面貢獻股。"},
+      "ja": {"title": "アドバンテストと東京エレクトロンが日経平均を約1,557円押し下げ", "summary": "アドバンテスト（6857）が寄与度で約1,097円、東京エレクトロン（8035）が約460円の下押しとなった。一方、ファーストリテイリング（9983）は約295円の押し上げ要因となった。"},
+      "en": {"title": "Advantest and Tokyo Electron drag Nikkei down about 1,557 yen", "summary": "Advantest (6857) cut the Nikkei by about 1,097 yen and Tokyo Electron (8035) by about 460 yen. Fast Retailing (9983) was the largest positive contributor, adding about 295 yen."}
+    },
+    {
+      "sources": [
+        {"name": "Kabutan (日経225先物 夜間取引)", "url": "https://s.kabutan.jp/news/n202611060135/"}
+      ],
+      "zh": {"title": "日經225期貨夜盤收5.74萬點 較現貨低3,677.9點", "summary": "11月6日日本時間凌晨，日經225期貨12月合約夜盤收於57,400點，下跌3,520點，較日經平均現貨收盤價低約3,678點。TOPIX期貨收於3,781點。報導未提供原因。"},
+      "ja": {"title": "日経225先物夜間取引は5万7400円、現物比3,677.9円安", "summary": "11月6日の未明、日経225先物12月限の夜間取引は3,520円安の5万7400円で引けた。現物の終値より3,677.9円安い水準。TOPIX先物は3,781となった。記事は理由を示していない。"},
+      "en": {"title": "Nikkei futures close at 57,400 in night session", "summary": "The December Nikkei 225 futures closed the overnight session down 3,520 points at 57,400 early on November 6. That was 3,677.9 points below the spot close. TOPIX futures ended at 3,781. The report did not give a reason."}
+    }
+  ]
+}
