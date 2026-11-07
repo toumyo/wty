@@ -3,6 +3,33 @@
   <url><loc>https://wangtaiyang.com/</loc><changefreq>daily</changefreq><priority>1.0</priority><xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wangtaiyang.com/"/><xhtml:link rel="alternate" hreflang="ja" href="https://wangtaiyang.com/ja/"/><xhtml:link rel="alternate" hreflang="en" href="https://wangtaiyang.com/en/"/></url>
   <url><loc>https://wangtaiyang.com/ja/</loc><changefreq>daily</changefreq><priority>1.0</priority><xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wangtaiyang.com/"/><xhtml:link rel="alternate" hreflang="ja" href="https://wangtaiyang.com/ja/"/><xhtml:link rel="alternate" hreflang="en" href="https://wangtaiyang.com/en/"/></url>
   <url><loc>https://wangtaiyang.com/en/</loc><changefreq>daily</changefreq><priority>1.0</priority><xhtml:link rel="alternate" hreflang="zh-Hant" href="https://wangtaiyang.com/"/><xhtml:link rel="alternate" hreflang="ja" href="https://wangtaiyang.com/ja/"/><xhtml:link rel="alternate" hreflang="en" href="https://wangtaiyang.com/en/"/></url>
+  <url><loc>https://wangtaiyang.com/tools/currency-converter/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/i-ching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/ip-lookup/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/mbti-test/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/minesweeper/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/numerology/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/resume-builder/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/tools/short-link/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/currency-converter/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/i-ching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/ip-lookup/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/mbti-test/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/minesweeper/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/numerology/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/resume-builder/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/ja/tools/short-link/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/currency-converter/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/i-ching/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/ip-lookup/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/mbti-test/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/minesweeper/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/numerology/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/resume-builder/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://wangtaiyang.com/en/tools/short-link/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://wangtaiyang.com/news/2026-11-06.html</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://wangtaiyang.com/ja/news/2026-11-06.html</loc><lastmod>2026-11-06</lastmod></url>
   <url><loc>https://wangtaiyang.com/en/news/2026-11-06.html</loc><lastmod>2026-11-06</lastmod></url>

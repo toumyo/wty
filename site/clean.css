@@ -107,6 +107,29 @@ p { margin: 0 0 12px; }
   .block { padding: 44px 20px; }
 }
 
+/* own-tool badge on homepage cards */
+.tool { position: relative; }
+.mine { position: absolute; top: 12px; right: 12px; font-size: 11px; font-weight: 600; color: var(--accent);
+  background: var(--accent-soft); padding: 2px 8px; border-radius: 999px; }
+
+/* ---- tool landing pages (scripts/build_tools.py) ---- */
+.tp { padding-top: 28px; padding-bottom: 56px; max-width: 860px; }
+.crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 13px; color: var(--muted); margin-bottom: 28px; }
+.crumbs a { color: var(--muted); }
+.tp-head { padding-bottom: 28px; border-bottom: 1px solid var(--line); margin-bottom: 8px; }
+.tp-head h1 { font-size: clamp(30px, 5vw, 42px); margin-top: 8px; }
+.tp-head .lead { margin-top: 14px; }
+.tp-meta { font-size: 13px; margin-top: 16px; }
+.tp-sec { padding: 28px 0 4px; }
+.tp-sec h2 { font-size: 20px; margin-bottom: 14px; }
+.tp-list, .tp-steps { margin: 0; padding-left: 22px; }
+.tp-list li, .tp-steps li { margin-bottom: 8px; }
+.faq details { border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; }
+.faq summary { cursor: pointer; font-weight: 600; }
+.faq details p { margin: 10px 0 0; color: var(--muted); }
+.tp-note { margin-top: 24px; padding: 14px 16px; background: var(--soft); border-radius: 10px; font-size: 14px; color: var(--muted); }
+.tp .tools { margin-top: 4px; }
+
 /* ---- daily news pages (used by scripts/build_news.py) ---- */
 .news-wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 64px; }
 .news-wrap .back { display: inline-block; font-size: 14px; color: var(--muted); margin-bottom: 28px; }

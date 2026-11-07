@@ -137,6 +137,12 @@ def sitemap(digests):
     for k in LANGS:
         loc = f"{BASE}/{L[k]['index'].replace('index.html', '')}"
         urls.append(f"<url><loc>{loc}</loc><changefreq>daily</changefreq><priority>1.0</priority>{alt}</url>")
+    # static pages such as the tool landing pages (scripts/build_tools.py)
+    for k in LANGS:
+        base_dir = os.path.join(SITE, L[k]["index"].replace("index.html", ""), "tools")
+        for page in sorted(glob.glob(os.path.join(base_dir, "**", "index.html"), recursive=True)):
+            rel = os.path.relpath(os.path.dirname(page), SITE).replace(os.sep, "/")
+            urls.append(f"<url><loc>{BASE}/{rel}/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>")
     for d in digests:
         for k in LANGS:
             urls.append(f"<url><loc>{BASE}/{path_for(k, d['date'])}</loc><lastmod>{d['date']}</lastmod></url>")

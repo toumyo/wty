@@ -12,6 +12,12 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
 BASE = "https://wangtaiyang.com"
 EMAIL = "wangtaiyang369@gmail.com"
+ADSENSE = ('<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9381195976626834"\n'
+           '     crossorigin="anonymous"></script>\n')
+
+# tools Taiyang built himself -> landing page slug (see scripts/build_tools.py)
+OWN = {"hl": "currency-converter", "ip": "ip-lookup", "r": "resume-builder", "mbti": "mbti-test",
+       "zhouyi": "i-ching", "lifecode": "numerology", "saolei": "minesweeper", "link": "short-link"}
 
 # host, group index, zh name, zh desc, ja name, ja desc, en name, en desc
 TOOLS = [
@@ -45,7 +51,7 @@ T = {
         h1="王太陽", h1_en="Taiyang Wang",
         lead="網站設計者，也是工具開發者。用中文、日文與英文，做結構清楚、看得懂、搜得到的網站。",
         btn_primary="看工具", btn_secondary="聯絡我",
-        tools_title="線上工具", tools_sub="免費使用，無需註冊。",
+        tools_title="線上工具", tools_sub="免費使用，無需註冊。", own_badge="自製", own_link="我自製的工具 →",
         news_title="每日財經新聞", news_sub="每天整理美股、日股與重要財經新聞，附原始來源。",
         news_empty="第一篇新聞即將發布。",
         news_all="查看全部新聞 →",
@@ -77,7 +83,7 @@ T = {
         h1="王 太陽", h1_en="Taiyang Wang",
         lead="ウェブデザイナー兼ツール開発者。中国語・日本語・英語で、構造が分かりやすく、検索されるサイトを作ります。",
         btn_primary="ツールを見る", btn_secondary="お問い合わせ",
-        tools_title="オンラインツール", tools_sub="無料で使えます。登録は不要です。",
+        tools_title="オンラインツール", tools_sub="無料で使えます。登録は不要です。", own_badge="自作", own_link="自作ツール一覧 →",
         news_title="毎日の経済ニュース", news_sub="米国株・日本株と重要な経済ニュースを毎日まとめ、元の情報源を掲載しています。",
         news_empty="最初のニュースはまもなく公開されます。",
         news_all="すべてのニュースを見る →",
@@ -109,7 +115,7 @@ T = {
         h1="Taiyang", h1_en="Wang",
         lead="Web designer and tool builder. I make multilingual sites in Chinese, Japanese and English that are clear to read and easy to find.",
         btn_primary="Browse tools", btn_secondary="Contact me",
-        tools_title="Online tools", tools_sub="Free to use, no sign-up.",
+        tools_title="Online tools", tools_sub="Free to use, no sign-up.", own_badge="Built by me", own_link="Tools I built →",
         news_title="Daily finance news", news_sub="Daily highlights on US stocks, Japanese stocks and major economic news, with original sources.",
         news_empty="The first digest will be published soon.",
         news_all="All news →",
@@ -197,9 +203,7 @@ def head(lang):
 {jsonld(lang)}
 </script>
 <link rel="stylesheet" href="/clean.css">
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9381195976626834"
-     crossorigin="anonymous"></script>
-</head>"""
+{ADSENSE}</head>"""
 
 
 def lang_switch():
@@ -219,8 +223,10 @@ def tool_groups(lang):
             if g != gi:
                 continue
             name, desc = {"zh": (zn, zd), "ja": (jn, jd), "en": (en_, ed)}[lang]
+            href = (t["path"] + "tools/" + OWN[host] + "/") if host in OWN else f"https://{host}.wangtaiyang.com/"
+            mine = f'<span class="mine">{esc(t["own_badge"])}</span>' if host in OWN else ""
             cards.append(
-                f'<a class="tool" href="https://{host}.wangtaiyang.com/">'
+                f'<a class="tool" href="{href}">{mine}'
                 f'<span class="tool-host">{esc(host)}</span>'
                 f'<strong>{esc(name)}</strong><span class="muted">{esc(desc)}</span></a>'
             )
@@ -265,6 +271,7 @@ def page(lang):
   <h2>{esc(t['tools_title'])}</h2>
   <p class="muted sub">{esc(t['tools_sub'])}</p>
   {tool_groups(lang)}
+  <p class="all"><a href="{t['path']}tools/">{esc(t['own_link'])}</a></p>
 </section>
 
 <section class="block wrap" id="news">
@@ -421,6 +428,29 @@ p { margin: 0 0 12px; }
   .hero { padding: 56px 20px 40px; }
   .block { padding: 44px 20px; }
 }
+
+/* own-tool badge on homepage cards */
+.tool { position: relative; }
+.mine { position: absolute; top: 12px; right: 12px; font-size: 11px; font-weight: 600; color: var(--accent);
+  background: var(--accent-soft); padding: 2px 8px; border-radius: 999px; }
+
+/* ---- tool landing pages (scripts/build_tools.py) ---- */
+.tp { padding-top: 28px; padding-bottom: 56px; max-width: 860px; }
+.crumbs { display: flex; flex-wrap: wrap; gap: 8px; font-size: 13px; color: var(--muted); margin-bottom: 28px; }
+.crumbs a { color: var(--muted); }
+.tp-head { padding-bottom: 28px; border-bottom: 1px solid var(--line); margin-bottom: 8px; }
+.tp-head h1 { font-size: clamp(30px, 5vw, 42px); margin-top: 8px; }
+.tp-head .lead { margin-top: 14px; }
+.tp-meta { font-size: 13px; margin-top: 16px; }
+.tp-sec { padding: 28px 0 4px; }
+.tp-sec h2 { font-size: 20px; margin-bottom: 14px; }
+.tp-list, .tp-steps { margin: 0; padding-left: 22px; }
+.tp-list li, .tp-steps li { margin-bottom: 8px; }
+.faq details { border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; margin-bottom: 10px; }
+.faq summary { cursor: pointer; font-weight: 600; }
+.faq details p { margin: 10px 0 0; color: var(--muted); }
+.tp-note { margin-top: 24px; padding: 14px 16px; background: var(--soft); border-radius: 10px; font-size: 14px; color: var(--muted); }
+.tp .tools { margin-top: 4px; }
 
 /* ---- daily news pages (used by scripts/build_news.py) ---- */
 .news-wrap { max-width: 760px; margin: 0 auto; padding: 48px 20px 64px; }

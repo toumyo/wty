@@ -11,16 +11,23 @@
 - 公司：東緲合同會社（Higashi Miao Godo Kaisha），一人制
 - 業務：網站設計、開發、SEO、GEO
 
-## 線上工具
+## 自製線上工具（王太陽自己開發）
 
-- [AI 導航](https://ai.wangtaiyang.com/)：常用 AI 工具分類整理
-- [思維導圖](https://mind.wangtaiyang.com/)：線上繪製思維導圖
-- [線上草圖](https://draw.wangtaiyang.com/)：流程圖與草稿
-- [匯率換算](https://hl.wangtaiyang.com/)：多幣別換算
-- [IT 工具箱](https://ittools.wangtaiyang.com/)：開發者常用工具
-- [簡歷製作](https://r.wangtaiyang.com/)：線上製作簡歷
-- [IP 查詢](https://ip.wangtaiyang.com/)：查看公網 IP
-- [短鏈接](https://link.wangtaiyang.com/)：產生短網址
+每個工具都有繁體中文、日文、英文三種介紹頁。
+
+- [工具總覽](https://wangtaiyang.com/tools/)（[日本語](https://wangtaiyang.com/ja/tools/)・[English](https://wangtaiyang.com/en/tools/)）
+- [匯率換算](https://wangtaiyang.com/tools/currency-converter/)：即時匯率換算，自動選擇較穩定的匯率來源
+- [IP 查詢](https://wangtaiyang.com/tools/ip-lookup/)：顯示目前公網 IP 與大致位置，基於 Cloudflare 邊緣網路
+- [AI 簡歷製作](https://wangtaiyang.com/tools/resume-builder/)：50 多個模板，AI 自動翻譯成日文與英文，API Key 只在瀏覽器內處理
+- [MBTI 性格測試（200 題）](https://wangtaiyang.com/tools/mbti-test/)：性格類型與信心度、成長計畫，非官方 MBTI® 測驗
+- [周易 64 卦占卜](https://wangtaiyang.com/tools/i-ching/)：本卦、變卦、變爻解讀，僅供參考
+- [數字命理](https://wangtaiyang.com/tools/numerology/)：生命靈數、天賦九宮格、姓名數字，僅供參考
+- [掃雷](https://wangtaiyang.com/tools/minesweeper/)：三種難度的線上掃雷
+- [短網址](https://wangtaiyang.com/tools/short-link/)：把長網址轉成短網址
+
+## 其他常用工具
+
+- [AI 導航](https://ai.wangtaiyang.com/)、[思維導圖](https://mind.wangtaiyang.com/)、[線上草圖](https://draw.wangtaiyang.com/)、[IT 工具箱](https://ittools.wangtaiyang.com/)
 
 ## 每日財經新聞
 
