@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-09",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-6-225615856.html"
+        },
+        {
+          "name": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-06-2026"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-micron-technology-jumps-as-chip-stocks-rebound-from-thursday-s-rout/"
+        }
+      ],
+      "zh": {
+        "title": "美股週五反彈 納指升1.09%",
+        "summary": "11月6日美股收盤，道瓊斯工業指數下跌0.46%至51,285.73點，標普500指數上漲0.31%至7,376.86點，納斯達克綜合指數上漲1.09%至24,579.42點。前一交易日科技股大跌後，晶片股出現反彈。"
+      },
+      "ja": {
+        "title": "米株反発 ナスダックは1.09%高",
+        "summary": "11月6日の米国株式市場で、ダウ工業株30種平均は0.46%安の51,285.73、S&P500種指数は0.31%高の7,376.86、ナスダック総合指数は1.09%高の24,579.42で引けた。前日の大幅安を受けて半導体株が買い戻された。"
+      },
+      "en": {
+        "title": "US stocks rebound; Nasdaq up 1.09%",
+        "summary": "US stocks closed mixed on November 6. The Nasdaq Composite rose 1.09% to 24,579.42 and the S&P 500 gained 0.31% to 7,376.86, while the Dow fell 0.46% to 51,285.73. Chip stocks bounced after the previous day's sharp selloff."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        },
+        {
+          "name": "Street Talk Live (STL.News)",
+          "url": "https://www.stl.news/stock-market-weekly-update-november-6-2026/"
+        }
+      ],
+      "zh": {
+        "title": "11月5日美股大跌 納指跌約5.5%",
+        "summary": "11月5日，納斯達克綜合指數下跌約5.5%，標普500指數下跌約4.4%，為2025年4月以來最差的一天。報導稱，市場擔心民主黨在中期選舉後掌控國會可能推動更嚴格的AI監管並放緩數據中心建設，Jefferies則稱此次拋售是「情緒性反應，而非基本面重置」。"
+      },
+      "ja": {
+        "title": "11月5日、ナスダック約5.5%安 AI関連株が急落",
+        "summary": "11月5日、ナスダック総合指数は約5.5%安、S&P500種指数は約4.4%安となり、2025年4月以来の最悪の日となった。報道によると、中間選挙後に民主党が議会を握ればAI規制が強まりデータセンター建設が減速するとの懸念が売りを招いた。ジェフリーズは「根本的な転換ではなく感情的な反応」と評した。"
+      },
+      "en": {
+        "title": "Nasdaq falls about 5.5% on AI-linked selloff",
+        "summary": "On November 5 the Nasdaq Composite fell about 5.5% and the S&P 500 about 4.4%, the worst day since April 2025. Reports said the selloff reflected fears that a Democratic-controlled Congress could bring tougher AI rules and slow data-center construction. Jefferies called it \"reactionary, not a fundamental reset.\""
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        },
+        {
+          "name": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/06/stock-market-today-nov-6-micron-technology-jumps-as-chip-stocks-rebound-from-thursday-s-rout/"
+        }
+      ],
+      "zh": {
+        "title": "晶片股反彈 AMD漲逾11%、英特爾漲7.7%",
+        "summary": "11月6日，AMD上漲11.04%，英特爾上漲7.71%，美光上漲5.12%至690美元。晶片股反彈只彌補了前一日部分跌幅，美光等個股的反彈被部分歸因於AI記憶體需求。"
+      },
+      "ja": {
+        "title": "半導体株が反発 AMDは11%超高、インテルは7.7%高",
+        "summary": "11月6日、AMDは11.04%、インテルは7.71%、マイクロン・テクノロジーは5.12%上昇し690ドルで引けた。反発は前日の下落の一部を取り戻したにとどまり、AIメモリー需要が買い材料になったと報じられた。"
+      },
+      "en": {
+        "title": "Chip stocks rebound: AMD up 11%, Intel up 7.7%",
+        "summary": "AMD rose 11.04%, Intel 7.71% and Micron 5.12% to $690 on November 6. The rebound recovered only part of Thursday's losses, with some reports citing AI memory demand for Micron."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        },
+        {
+          "name": "STL.News",
+          "url": "https://www.stl.news/stock-market-weekly-update-november-6-2026/"
+        }
+      ],
+      "zh": {
+        "title": "10月非農新增16.5萬人 失業率降至4.1%",
+        "summary": "美國10月非農就業人數增加16.5萬人，高於市場預期的約5.9萬人；失業率由9月的4.2%降至4.1%。平均時薪同比上升3.1%。報告公布後美國國債殖利率上升。"
+      },
+      "ja": {
+        "title": "米10月雇用統計 非農業部門16.5万人増、失業率4.1%",
+        "summary": "10月の米非農業部門雇用者数は前月比16.5万人増と、予想の約5.9万人を大きく上回った。失業率は9月の4.2%から4.1%に低下した。平均時給は前年同月比3.1%上昇し、発表後に米国債利回りは上昇した。"
+      },
+      "en": {
+        "title": "October payrolls up 165,000; unemployment 4.1%",
+        "summary": "US nonfarm payrolls rose by 165,000 in October, well above the roughly 59,000 expected, and unemployment fell to 4.1% from 4.2%. Average hourly earnings rose 3.1% from a year earlier, and Treasury yields rose after the report."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "STL.News",
+          "url": "https://www.stl.news/stock-market-weekly-update-november-6-2026/"
+        }
+      ],
+      "zh": {
+        "title": "美股本週全面收跌 納指週跌3.4%",
+        "summary": "11月2日至6日當週，標普500指數下跌2.7%，納斯達克綜合指數下跌3.4%，羅素2000指數下跌2.1%，道瓊斯指數下跌0.9%。11月3日中期選舉後，股市於11月4日反彈，隨後11月5日大幅下挫。"
+      },
+      "ja": {
+        "title": "米主要株価指数、週間で全面安 ナスダックは3.4%安",
+        "summary": "11月2日から6日までの週間で、S&P500種指数は2.7%、ナスダック総合指数は3.4%、ラッセル2000は2.1%、ダウ平均は0.9%下落した。11月3日の中間選挙後、4日に反発したが、5日に大きく値を下げた。"
+      },
+      "en": {
+        "title": "US indexes all lower for the week; Nasdaq down 3.4%",
+        "summary": "For the week of November 2 to 6, the S&P 500 fell 2.7%, the Nasdaq Composite 3.4%, the Russell 2000 2.1% and the Dow 0.9%. Stocks rallied on November 4, the day after the midterm elections, before the sharp drop on November 5."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        }
+      ],
+      "zh": {
+        "title": "財報推動個股 IonQ漲23%、Airbnb漲12%",
+        "summary": "11月6日，IonQ上漲23.42%，第三季營收同比增長336%至1.738億美元，並上調2026年營收預期。Airbnb上漲11.67%，上調2026年營收增長預期，並宣布最多120億美元的回購計畫。Cloudflare上漲9.91%，第三季營收同比增長39%。"
+      },
+      "ja": {
+        "title": "決算材料で個別株が急伸 IonQは23%高、エアビーは11%高",
+        "summary": "11月6日、IonQは23.42%上昇。第3四半期の売上高は前年同期比336%増の1億7,380万ドルで、2026年の売上高見通しを引き上げた。エアビーアンドビーは11.67%高、成長見通しを上方修正し最大120億ドルの自社株買いを発表した。クラウドフレアは9.91%高で、売上高は39%増だった。"
+      },
+      "en": {
+        "title": "Earnings lift IonQ, Airbnb and Cloudflare",
+        "summary": "IonQ rose 23.42% after third-quarter revenue jumped 336% to $173.8 million and it raised its 2026 revenue forecast. Airbnb gained 11.67% after raising its 2026 revenue growth outlook and announcing a buyback of up to $12 billion. Cloudflare rose 9.91% on 39% quarterly revenue growth."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        },
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        }
+      ],
+      "zh": {
+        "title": "日經225指數大跌5.96%至57,435點 股市進入熊市",
+        "summary": "11月6日東京股市收盤，日經225指數下跌3,643點、跌幅5.96%，收於57,435點，為連續第五個交易日下跌。CNBC報導指日經指數已進入熊市。TOPIX下跌5.90%至3,707.99點，東證33個行業板塊全部收跌。"
+      },
+      "ja": {
+        "title": "日経平均5.96%安の57,435円 弱気相場入り",
+        "summary": "11月6日の東京株式市場で日経平均株価は3,643円（5.96%）安の57,435円で引けた。5営業日連続の下落。TOPIXは5.90%安の3,707.99で、東証33業種はすべて下落した。CNBCは日経平均が弱気相場入りしたと伝えた。"
+      },
+      "en": {
+        "title": "Nikkei 225 down 5.96% to 57,435 as Tokyo enters bear market",
+        "summary": "The Nikkei 225 closed down 3,643 points, or 5.96%, at 57,435 on November 6, its fifth straight daily decline. The TOPIX fell 5.90% to 3,707.99 with all 33 sectors lower, and CNBC reported the Nikkei had entered a bear market."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        }
+      ],
+      "zh": {
+        "title": "東京股市下跌 源於AI投資回報疑慮",
+        "summary": "美股大跌後，日本投資人對AI投資回報和科技股估值的疑慮加深，減持半導體設備、電子等AI相關股票。軟銀集團、愛德萬測試和東京電子是拖累日經指數的主要個股。"
+      },
+      "ja": {
+        "title": "東京株下落の背景 AI投資の採算性への懸念",
+        "summary": "米国株の大幅安を受け、AI投資の収益性やハイテク株の割高感への懸念が広がった。投資家は半導体製造装置や電子関連などAI関連銘柄を減らした。ソフトバンクグループ、アドバンテスト、東京エレクトロンが日経平均の主な下押し要因となった。"
+      },
+      "en": {
+        "title": "Tokyo selloff driven by doubts over AI investment returns",
+        "summary": "After Wall Street's steep fall, Japanese investors cut exposure to chip-equipment, electronics and other AI-linked stocks amid doubts about AI investment returns and tech valuations. SoftBank Group, Advantest and Tokyo Electron were among the biggest drags on the Nikkei."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        }
+      ],
+      "zh": {
+        "title": "日本央行將ETF年度賣出目標提高至8,600億日圓",
+        "summary": "日本央行將ETF年度賣出目標由3,300億日圓上調至8,600億日圓。股市下跌前，市場曾預期日本央行12月可能加息，長期股市低迷可能使決策者更為謹慎。十年期日本國債殖利率下跌0.12個百分點至約2.635%。首相高市早苗表示政府正在關注市場。"
+      },
+      "ja": {
+        "title": "日銀、ETF年間売却目標を3,300億円から8,600億円に引き上げ",
+        "summary": "日本銀行はETFの年間売却目標を3,300億円から8,600億円に引き上げた。株安前は12月の利上げ観測があったが、株価の長期低迷で政策判断が慎重になる可能性がある。10年債利回りは0.12ポイント低下し約2.635%。高市首相は市場の動向を注視していると述べた。"
+      },
+      "en": {
+        "title": "BOJ raises annual ETF sales target to 860 billion yen",
+        "summary": "The Bank of Japan raised its annual ETF sales target from 330 billion yen to 860 billion yen. Before the selloff, markets had priced in a possible December rate hike, but a prolonged equity slump could make policymakers more cautious. The 10-year JGB yield fell 0.12 point to about 2.635%, and PM Sanae Takaichi said the government is monitoring markets."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        }
+      ],
+      "zh": {
+        "title": "豐田上調全年預期 任天堂股價下跌",
+        "summary": "豐田將截至2027年3月期的全年預期上調至3.57兆日圓（此前為3.25兆日圓），但將營收預期由54兆日圓下調至53.5兆日圓，當日股價仍下跌。任天堂上半年營業利益增長49%，但維持全年預期不變，股價也下跌。"
+      },
+      "ja": {
+        "title": "トヨタ、通期予想を上方修正も株価は下落 任天堂も下落",
+        "summary": "トヨタ自動車は2027年3月期の通期予想を3.25兆円から3.57兆円に引き上げた一方、売上高予想は54兆円から53.5兆円に下方修正した。任天堂は上期の営業利益が49%増となったものの通期予想を据え置き、株価は下落した。"
+      },
+      "en": {
+        "title": "Toyota raises forecast, but shares fall; Nintendo also lower",
+        "summary": "Toyota raised its full-year forecast for the year to March 2027 to 3.57 trillion yen from 3.25 trillion, while cutting its revenue forecast to 53.5 trillion yen from 54 trillion, and its shares still fell that day. Nintendo's shares also fell after it kept its full-year forecast unchanged despite a 49% rise in six-month operating profit."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        }
+      ],
+      "zh": {
+        "title": "三菱重工上調全年純利益預期15.8%",
+        "summary": "三菱重工將全年純利益預期上調15.8%至4,400億日圓。報導未說明當日股價變動。"
+      },
+      "ja": {
+        "title": "三菱重工、通期純利益予想を15.8%上方修正",
+        "summary": "三菱重工業は通期の純利益予想を15.8%引き上げ、4,400億円とした。記事では当日の株価変動は示されていない。"
+      },
+      "en": {
+        "title": "Mitsubishi Heavy raises full-year net profit forecast 15.8%",
+        "summary": "Mitsubishi Heavy Industries raised its full-year net profit forecast by 15.8% to 440 billion yen. The report does not state the share price move that day."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+        }
+      ],
+      "zh": {
+        "title": "韓國Kospi大跌逾6% 亞洲股市同步走弱",
+        "summary": "11月6日，韓國綜合股價指數（Kospi）下跌逾6%。CNBC報導指出，亞洲股市受美國科技股拋售影響而同步走弱，日經指數已進入熊市。"
+      },
+      "ja": {
+        "title": "韓国KOSPIが6%超安 アジア株も軟調",
+        "summary": "11月6日、韓国の総合株価指数（KOSPI）は6%超下落した。CNBCによると、米国のハイテク株売りの影響でアジア株も軟調となり、日経平均は弱気相場入りした。"
+      },
+      "en": {
+        "title": "Kospi falls more than 6% as Asian markets weaken",
+        "summary": "South Korea's Kospi fell more than 6% on November 6. CNBC reported that Asian markets followed Wall Street's tech selloff lower, and the Nikkei had entered a bear market."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "newsonjapan",
+          "url": "https://newsonjapan.com/article/151274.php"
+        }
+      ],
+      "zh": {
+        "title": "日圓小幅走強後回吐部分漲幅",
+        "summary": "東京時間11月6日下午5時，美元兌日圓約為157.95。日圓曾因避險需求短暫走強，隨後回吐部分漲幅。"
+      },
+      "ja": {
+        "title": "円、一時上昇後に一部値を戻す",
+        "summary": "11月6日の東京時間午後5時時点で、ドル円は157.95円付近だった。円は一時、安全資産需要から買われた後、上げの一部を失った。"
+      },
+      "en": {
+        "title": "Yen firms briefly, then gives back part of gain",
+        "summary": "At 5 p.m. Tokyo time on November 6, the dollar traded around 157.95 yen. The yen first strengthened on safe-haven demand, then gave back part of the gain."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Armstrong Economics",
+          "url": "https://www.armstrongeconomics.com/market-talk/market-talk-november-6-2026/"
+        },
+        {
+          "name": "CappNotes",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
+        }
+      ],
+      "zh": {
+        "title": "黃金約4,060美元 WTI原油約89.7美元",
+        "summary": "11月6日盤中，現貨黃金約4,060美元，較前一日下跌約0.7%；WTI原油約89.7美元，布蘭特原油約97美元。分析認為伊朗局勢與荷莫茲海峽的情況仍是油價焦點。各來源報價時間不同，數字為約值。"
+      },
+      "ja": {
+        "title": "金は約4,060ドル、WTIは約89.7ドル 中東情勢を注視",
+        "summary": "11月6日の取引時間中、金現物は約4,060ドルで前日比約0.7%安。WTI原油は約89.7ドル、ブレント原油は約97ドルだった。イラン情勢とホルムズ海峡の状況が注目されている。各ソースの時点が異なるため、数値は概算。"
+      },
+      "en": {
+        "title": "Gold near $4,060, WTI near $89.7 as Iran tensions linger",
+        "summary": "On November 6, spot gold traded near $4,060, about 0.7% lower, while WTI crude was near $89.7 and Brent near $97. Commentary pointed to Iran tensions and the Strait of Hormuz; quotes come from different times on the day, so the figures are approximate."
+      }
+    }
+  ]
+}
