@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-11",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "TradingEconomics",
+          "url": "https://tradingeconomics.com/united-states/stock-market/news/501466"
+        }
+      ],
+      "zh": {
+        "title": "美股週一反彈 道指升2.19%至52,409點",
+        "summary": "道瓊指數上漲1,123點、升2.19%，收於52,409點；標普500升約2.3%，納指升約2.7%。市場在經歷上週大跌後買盤回流，晶片股領漲。"
+      },
+      "ja": {
+        "title": "米国株、月曜は反発 ダウ2.19%高の52,409ドル",
+        "summary": "ダウ工業株30種平均は1,123ドル（2.19%）高の52,409ドルで引けました。S&P500は約2.3%高、ナスダックは約2.7%高でした。前週の大幅安の後で買いが戻り、半導体株が主導しました。"
+      },
+      "en": {
+        "title": "US stocks rebound Monday; Dow up 2.19% to 52,409",
+        "summary": "The Dow rose 1,123 points (2.19%) to close at 52,409. The S&P 500 gained about 2.3% and the Nasdaq about 2.7%, as dip-buying returned after last week's rout and chip stocks led."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TradingEconomics",
+          "url": "https://tradingeconomics.com/united-states/stock-market/news/501466"
+        }
+      ],
+      "zh": {
+        "title": "晶片股大漲 AMD升13%、應用材料升11%",
+        "summary": "AMD約升13.3%，應用材料約升11.4%，Lam Research約升10.4%，博通約升8.8%。AMD獲Oppenheimer上調至跑贏大市評級，應用材料在財報前走強。"
+      },
+      "ja": {
+        "title": "半導体株が急伸 AMDは約13%高、アプライド・マテリアルズは約11%高",
+        "summary": "AMDは約13.3%高、アプライド・マテリアルズは約11.4%高、ラムリサーチは約10.4%高、ブロードコムは約8.8%高でした。AMDはOppenheimerが「アウトパフォーム」に格上げしました。"
+      },
+      "en": {
+        "title": "Chip stocks surge: AMD up about 13%, Applied Materials about 11%",
+        "summary": "AMD rose about 13.3%, Applied Materials about 11.4%, Lam Research about 10.4% and Broadcom about 8.8%. Oppenheimer upgraded AMD to Outperform, and Applied Materials gained ahead of its earnings report."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TradingEconomics",
+          "url": "https://tradingeconomics.com/united-states/stock-market/news/501466"
+        }
+      ],
+      "zh": {
+        "title": "英偉達下跌逾4% 因一則涉及CEO的報道受關注",
+        "summary": "英偉達股價下跌逾4%，原因是一則涉及其首席執行官黃仁勳個人事務的報道引發關注。報道也提到可能促使國會收緊出口管制。"
+      },
+      "ja": {
+        "title": "エヌビディア4%超安 CEOをめぐる報道が注目を集める",
+        "summary": "エヌビディアの株価は4%超下落しました。最高経営責任者の黄仁勲氏の個人的な問題を伝える報道が注目を集めたためです。報道は議会による輸出規制の強化につながる可能性にも触れています。"
+      },
+      "en": {
+        "title": "Nvidia falls over 4% after report involving its CEO",
+        "summary": "Nvidia shares fell more than 4% after a report about CEO Jensen Huang's personal affairs drew attention. The report also suggested it could prompt tighter congressional export controls."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TradingEconomics",
+          "url": "https://tradingeconomics.com/united-states/stock-market/news/501466"
+        }
+      ],
+      "zh": {
+        "title": "民主黨奪得國會控制權 AI監管擔憂升溫",
+        "summary": "市場關注民主黨取得國會控制權後，可能加強對人工智慧行業的監管，並可能放慢AI公司的增長。"
+      },
+      "ja": {
+        "title": "民主党が議会の主導権を握り AI規制への懸念",
+        "summary": "民主党が議会の主導権を握ったことを受け、AI産業への規制強化やAI企業の成長鈍化への懸念が市場で意識されています。近時のハイテク株の変動の背景の一つです。"
+      },
+      "en": {
+        "title": "Democrats take Congress; AI regulation concerns weigh on tech",
+        "summary": "Investors are weighing the possibility of tighter AI oversight after Democrats took control of Congress, which could slow growth at AI companies. The concern is part of the backdrop to recent tech-stock swings."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TradingEconomics",
+          "url": "https://tradingeconomics.com/united-states/stock-market/news/501466"
+        },
+        {
+          "name": "AP via Fox19",
+          "url": "https://www.fox19.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/"
+        }
+      ],
+      "zh": {
+        "title": "美股10月CPI報告周二公布 市場靜待通脹數據",
+        "summary": "期貨在周二CPI報告公布前保持平穩。市場關注通脹數據對美聯儲政策路徑的影響。"
+      },
+      "ja": {
+        "title": "10月CPIを火曜に発表 市場は物価指標を注視",
+        "summary": "米株価指数先物は、火曜日に発表される10月の消費者物価指数（CPI）を前に小動きとなりました。市場は物価指標が米金融政策に与える影響に注目しています。"
+      },
+      "en": {
+        "title": "Stocks steady ahead of October CPI report",
+        "summary": "Stock futures held steady ahead of Tuesday's October consumer price index report. Investors are watching the inflation data for its implications for Federal Reserve policy."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP via Fox19",
+          "url": "https://www.fox19.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/"
+        }
+      ],
+      "zh": {
+        "title": "11月5日美股大跌 標普500跌4.4%為2025年以來最差",
+        "summary": "標普500指數下跌4.4%（334.89點）至7,353.73點，為2025年4月「解放日」關稅衝擊以來最差單日表現。道指跌1,833點至51,523點，納指跌5.5%至24,315點，英偉達跌9.3%。"
+      },
+      "ja": {
+        "title": "11月5日の米株は大幅安 S&P500は4.4%安、2025年4月以来最悪",
+        "summary": "S&P500種株価指数は4.4%（334.89ポイント）安の7,353.73で引けました。2025年4月の「解放の日」関税発表以来の最悪の日となりました。ダウは1,833ドル安の51,523ドル、ナスダック総合は5.5%安の24,315、エヌビディアは9.3%安でした。"
+      },
+      "en": {
+        "title": "Nov 5 sell-off: S&P 500 falls 4.4%, worst day since April 2025",
+        "summary": "The S&P 500 fell 4.4% (334.89 points) to 7,353.73, its worst day since the April 2025 'Liberation Day' tariffs. The Dow dropped 1,833 points to 51,523 and the Nasdaq Composite fell 5.5% to 24,315, with Nvidia down 9.3%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex Securities",
+          "url": "https://media.monex.co.jp/articles/-/30479"
+        },
+        {
+          "name": "Gold Online / Gentosha",
+          "url": "https://gentosha-go.com/articles/-/83298"
+        }
+      ],
+      "zh": {
+        "title": "日經平均周二大漲1,684點 收於60,459點",
+        "summary": "日經225指數上漲1,684.08點、約2.9%，收於60,459.58點，連續兩個交易日升幅超過2%。美股隔夜走強、AI相關股上升及費城半導體指數大漲6.9%是主要支撐。TOPIX收於3,893點，上升75點。"
+      },
+      "ja": {
+        "title": "日経平均1,684円高の60,459円 2日連続で2%超の上昇",
+        "summary": "日経平均株価は1,684.08円（約2.9%）高の60,459.58円で引けました。2日連続で2%を超える上昇です。前日の米国株高やAI関連株の上昇、SOX指数の6.9%高が支えとなりました。TOPIXは75ポイント高の3,893で引けました。"
+      },
+      "en": {
+        "title": "Nikkei jumps 1,684 points to 60,459 on Tuesday",
+        "summary": "The Nikkei 225 rose 1,684.08 points (about 2.9%) to close at 60,459.58, its second straight gain of over 2%. Overnight strength in US stocks, gains in AI-related shares and a 6.9% rise in the Philadelphia Semiconductor index supported the market. TOPIX closed at 3,893, up 75 points."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex Securities",
+          "url": "https://media.monex.co.jp/articles/-/30479"
+        }
+      ],
+      "zh": {
+        "title": "軟銀集團大漲13.9% 帶動日股反彈",
+        "summary": "軟銀集團股價上漲13.9%至3,872日圓，受美股AI行情及有報道稱AI開發商Anthropic將於下週上市所帶動。軟銀一隻股票便推動日經平均上升約380點。"
+      },
+      "ja": {
+        "title": "ソフトバンクグループ13.9%高 日本株の反発を主導",
+        "summary": "ソフトバンクグループは13.9%高の3,872円で引けました。米国のAI関連株の上昇と、AI開発企業Anthropicが来週上場するとの報道が材料視されました。同社だけで日経平均を約380円押し上げたとされています。"
+      },
+      "en": {
+        "title": "SoftBank Group jumps 13.9%, leading Tokyo rebound",
+        "summary": "SoftBank Group rose 13.9% to 3,872 yen, driven by the US AI rally and a report that AI developer Anthropic will list next week. The stock alone reportedly lifted the Nikkei by about 380 yen."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex Securities",
+          "url": "https://media.monex.co.jp/articles/-/30479"
+        }
+      ],
+      "zh": {
+        "title": "國際電氣大漲14.4% 中期純利增長66%",
+        "summary": "國際電氣股價上漲14.4%至5,576日圓並觸及漲停。其2027年3月期中期純利增長66%至259億日圓，與預期相符，業績說明會反應良好。"
+      },
+      "ja": {
+        "title": "KOKUSAI ELECTRIC 14.4%高、ストップ高 中間純利66%増",
+        "summary": "KOKUSAI ELECTRICは14.4%高の5,576円でストップ高となりました。2027年3月期の中間純利益は66%増の259億円で、会社予想と整合的でした。決算説明会の評価も好感されました。"
+      },
+      "en": {
+        "title": "KOKUSAI ELECTRIC surges 14.4% to limit-up on 66% profit rise",
+        "summary": "KOKUSAI ELECTRIC rose 14.4% to 5,576 yen, hitting its daily limit. Its interim net profit for the year to March 2027 rose 66% to 25.9 billion yen, in line with forecasts, and its earnings briefing was well received."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/business/business-news/2026/11/05/japan039s-nikkei-tumbles-on-tech-rout-despite-strength-in-wider-market"
+        }
+      ],
+      "zh": {
+        "title": "11月5日日股大跌 日經平均跌1.8% 豐田漲16.7%",
+        "summary": "日經225指數下跌1.8%，161隻成分股上漲、64隻下跌。半導體設備股大跌，Advantest跌14.7%，東京電子跌9.4%；豐田因上調業績預期上漲16.7%。TOPIX上漲1.2%。"
+      },
+      "ja": {
+        "title": "11月5日の日経平均は1.8%安 半導体株が急落、トヨタは16.7%高",
+        "summary": "日経平均株価は1.8%安でした。構成銘柄のうち161銘柄が上昇、64銘柄が下落しました。アドバンテストは14.7%安、東京エレクトロンは9.4%安と急落しました。一方、トヨタ自動車は業績予想の上方修正を受けて16.7%高、TOPIXは1.2%高でした。"
+      },
+      "en": {
+        "title": "Nikkei falls 1.8% on Nov 5 tech rout; Toyota jumps 16.7%",
+        "summary": "The Nikkei 225 fell 1.8%, with 161 components rising and 64 falling. Advantest dropped 14.7% and Tokyo Electron fell 9.4%, while Toyota rose 16.7% after raising its profit forecast. The TOPIX gained 1.2%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP via KTTC",
+          "url": "https://www.kttc.com/2026/10/28/federal-reserve-keeps-interest-rates-unchanged-ahead-midterms-despite-elevated-inflation/?outputType=amp"
+        }
+      ],
+      "zh": {
+        "title": "美聯儲10月維持利率不變 兩名官員主張加息",
+        "summary": "美聯儲於10月28日維持利率不變，兩名官員（庫克與哈馬克）投票支持加息25個基點。CME FedWatch顯示12月8至9日會議加息的概率接近85%。失業率為4.2%。"
+      },
+      "ja": {
+        "title": "FRB、10月は金利据え置き 2名が利上げを主張",
+        "summary": "FRBは10月28日に政策金利を据え置きました。リサ・クック理事とベス・ハマック総裁が25ベーシスポイントの利上げを主張して反対票を投じました。CMEフェドウォッチによると、12月8〜9日の会合で利上げとなる確率は約85%です。失業率は4.2%でした。"
+      },
+      "en": {
+        "title": "Fed holds rates in October; two officials back a hike",
+        "summary": "The Federal Reserve kept rates unchanged on October 28, with two officials (Lisa Cook and Beth Hammack) dissenting in favor of a quarter-point hike. CME FedWatch odds of a hike at the December 8–9 meeting were nearly 85%, and unemployment was 4.2%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "investingLive",
+          "url": "https://investinglive.com/central-banks/boj-minutes-board-backed-further-hikes-flagged-50-oil-surge-as-government-urged-caution/"
+        }
+      ],
+      "zh": {
+        "title": "日本央行議事要旨：多數委員支持進一步加息",
+        "summary": "日本央行9月會議以7比2投票將政策利率上調25個基點至1.25%。議事要旨顯示委員會多數支持進一步加息，原油價格自7月以來上漲約50%，日圓升值約5%。10月會議維持利率不變。"
+      },
+      "ja": {
+        "title": "日銀の議事要旨 多数の委員が追加利上げを支持",
+        "summary": "日銀は9月会合で7対2の賛成多数により政策金利を0.25%引き上げ、1.25%としました。議事要旨によると、委員会の多数は追加利上げを支持しました。原油価格は7月以降約50%上昇し、円は約5%上昇しました。10月会合では金利を据え置いています。"
+      },
+      "en": {
+        "title": "BoJ minutes: board backed further hikes",
+        "summary": "The BoJ raised its policy rate by 25 basis points to 1.25% in September in a 7–2 vote. The minutes show a majority backed further hikes, noting crude oil up about 50% since July and the yen up about 5%. The BoJ held rates steady in October."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Energy Connects (Bloomberg)",
+          "url": "https://www.energyconnects.com/news/oil/2026/november/gold-extends-rebound-above-4-100-as-dollar-and-yields-decline/"
+        },
+        {
+          "name": "Fox19 (AP)",
+          "url": "https://www.fox19.com/2026/11/05/brutal-sell-off-ai-stocks-sends-wall-street-reeling-sp-500-sees-worst-day-since-2025-liberation-day-tariffs/"
+        }
+      ],
+      "zh": {
+        "title": "布蘭特原油跌穿100美元後回升至98美元",
+        "summary": "布蘭特原油於11月4日跌破100美元，為10月初以來首次。11月5日油價上漲3.9%至98.29美元。市場反覆受美伊和平談判消息影響。"
+      },
+      "ja": {
+        "title": "ブレント原油、一時100ドル割れ後に98ドル台へ反発",
+        "summary": "ブレント原油先物は11月4日に約1カ月ぶりに100ドルを割り込みました。11月5日には3.9%高の98.29ドルとなりました。米イラン間の和平交渉の報道に反応して、原油相場は変動しています。"
+      },
+      "en": {
+        "title": "Brent dips below $100, then rebounds to $98",
+        "summary": "Brent crude fell below $100 a barrel on November 4 for the first time since early October, then rose 3.9% to $98.29 on November 5. Prices have been swinging on reports about US–Iran peace talks."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Energy Connects (Bloomberg)",
+          "url": "https://www.energyconnects.com/news/oil/2026/november/gold-extends-rebound-above-4-100-as-dollar-and-yields-decline/"
+        }
+      ],
+      "zh": {
+        "title": "現貨黃金升至約4,139美元 美元與債券收益率回落",
+        "summary": "現貨黃金在11月5日上漲約1.9%至每盎司4,139.29美元，盤中一度接近4,146美元。黃金前一日已大漲逾3%，美元及美債收益率回落提供支持。白銀報53.11美元。"
+      },
+      "ja": {
+        "title": "金現物1.9%高の4,139ドル台 ドル安・金利低下が支え",
+        "summary": "金現物相場は11月5日に1.9%高の1オンス4,139.29ドルとなり、一時は約4,146ドルまで上昇しました。前日にも3%超上昇しています。ドルと米国債利回りの低下が支援材料となりました。銀は53.11ドルでした。"
+      },
+      "en": {
+        "title": "Spot gold climbs to about $4,139 as dollar and yields ease",
+        "summary": "Spot gold rose 1.9% to $4,139.29 an ounce on November 5, touching near $4,146 intraday, after jumping more than 3% the previous day. A weaker dollar and lower Treasury yields supported prices. Silver was at $53.11."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NST (Reuters)",
+          "url": "https://www.nst.com.my/amp/business/economy/2026/11/1568718/oil-slips-more-1-cent-talks-continue-ending-iran-war"
+        }
+      ],
+      "zh": {
+        "title": "美伊停戰談判持續 油價回落",
+        "summary": "在美伊結束衝突的談判持續的消息下，油價小幅回落。市場關注談判能否緩解中東供應風險。"
+      },
+      "ja": {
+        "title": "米イラン停戦協議が継続 原油は小幅安",
+        "summary": "米国とイランの戦争終結に向けた協議が続くとの報道を受け、原油価格は小幅に下落しました。市場は協議が中東の供給リスクの緩和につながるかを注視しています。"
+      },
+      "en": {
+        "title": "Oil slips as US–Iran talks on ending war continue",
+        "summary": "Oil prices eased slightly as talks on ending the US–Iran conflict continued. Markets are watching whether the negotiations can ease supply risks in the Middle East."
+      }
+    }
+  ]
+}
