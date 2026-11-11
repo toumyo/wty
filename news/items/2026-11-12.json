@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-12",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Vista Partners",
+          "url": "https://vistapglobal.com/stock-market-today-november-11-2026-nasdaq-leads-veterans-day-rally-as-ai-shares-rebound-ant-be-cost-crwv-eprx-googl-modd-nvda-ser-spcx/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "zh": {
+        "title": "美股11日收高 納指漲1.6%、標普500升1.3%",
+        "summary": "納斯達克綜合指數收於25,466.19點，升1.60%；標普500收於約7,619點，升1.31%；道瓊指數收於約52,486點，升0.49%。晶片和AI基礎設施股帶動反彈，市場因10月通脹數據高於預期而仍擔心美聯儲加息。"
+      },
+      "ja": {
+        "title": "11日の米株、ナスダック1.6%高 S&P500は1.3%高",
+        "summary": "ナスダック総合指数は1.60%高の25,466.19で引けました。S&P500は1.31%高の約7,619、ダウ平均は0.49%高の約52,486でした。AI関連インフラ株や半導体株が主導した一方、10月の物価指標が予想を上回り、利上げ観測は残りました。"
+      },
+      "en": {
+        "title": "US stocks rally on Nov. 11; Nasdaq up 1.6%, S&P 500 up 1.3%",
+        "summary": "The Nasdaq Composite closed at 25,466.19, up 1.60%. The S&P 500 finished near 7,619, up 1.31%, and the Dow rose 0.49% to about 52,486. Chip and AI-infrastructure stocks led, though hotter-than-expected inflation kept Fed rate-hike bets alive."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Vista Partners",
+          "url": "https://vistapglobal.com/stock-market-today-november-11-2026-nasdaq-leads-veterans-day-rally-as-ai-shares-rebound-ant-be-cost-crwv-eprx-googl-modd-nvda-ser-spcx/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "zh": {
+        "title": "CoreWeave股價大漲約24% 第三季營收增168%",
+        "summary": "CoreWeave公布第三季營收超預期並上調全年展望，第三季營收按年增長168%至37億美元。公司還披露約90億美元客戶預付款和押金，緩解了市場對AI數據中心資金來源的擔憂。"
+      },
+      "ja": {
+        "title": "CoreWeaveが約24%高 7〜9月期の売上高は168%増",
+        "summary": "CoreWeaveは7〜9月期の売上高が予想を上回り、通期の見通しを引き上げました。売上高は前年同期比168%増の37億ドルでした。約90億ドルの顧客からの前払い金・預託金も明らかになり、AIデータセンターの資金調達への懸念が和らぎました。"
+      },
+      "en": {
+        "title": "CoreWeave jumps about 24% after Q3 revenue beat and raised outlook",
+        "summary": "CoreWeave reported third-quarter revenue of $3.7 billion, up 168% year over year, and raised its full-year outlook. It also disclosed about $9 billion in customer prepayments and deposits, easing worries about how AI data-center buildouts are funded."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "zh": {
+        "title": "輝達收報173.73美元 11月仍累計下跌約12%",
+        "summary": "輝達股價收漲2.92%，報173.73美元。不過該股11月以來仍累計下跌約12%，公司董事會因一宗與其行政人員有關的爭議而啟動獨立調查。"
+      },
+      "ja": {
+        "title": "エヌビディア2.92%高の173.73ドル 11月は約12%安",
+        "summary": "エヌビディアは2.92%高の173.73ドルで引けました。ただ、11月に入ってからの下落率は約12%です。CEOに関わる問題をめぐり、取締役会が独立した調査を始めたと報じられています。"
+      },
+      "en": {
+        "title": "Nvidia closes up 2.92% at $173.73 but still down about 12% in November",
+        "summary": "Nvidia rose 2.92% to close at $173.73, but the stock remains down roughly 12% for November. The board has launched an independent investigation following a controversy involving the company's CEO."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Vista Partners",
+          "url": "https://vistapglobal.com/stock-market-today-november-11-2026-nasdaq-leads-veterans-day-rally-as-ai-shares-rebound-ant-be-cost-crwv-eprx-googl-modd-nvda-ser-spcx/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-11-dow-sp-500-nasdaq-nvidia-treasurys-veterans-day-140638547.html"
+        }
+      ],
+      "zh": {
+        "title": "電力與存儲股走強 Bloom Energy盤中漲約16%",
+        "summary": "受CoreWeave業績提振，AI用電概念的Bloom Energy盤中升約16%。Sandisk、美光和SK海力士等存儲股漲幅均超過10%，AMD和博通也走強。"
+      },
+      "ja": {
+        "title": "AI電力・メモリー関連株が上昇 ブルームエナジーは一時16%高",
+        "summary": "CoreWeaveの好決算を受け、AI向け電力需要への期待からブルームエナジーが日中に約16%上昇しました。サンディスク、マイクロン、SKハイニックスはいずれも10%超上がり、AMDとブロードコムも買われました。"
+      },
+      "en": {
+        "title": "AI power and memory names rally; Bloom Energy up about 16% intraday",
+        "summary": "Bloom Energy rose about 16% at midday on AI power-demand optimism following CoreWeave's results. Sandisk, Micron and SK Hynix each gained more than 10%, while AMD and Broadcom also rallied."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Vista Partners",
+          "url": "https://vistapglobal.com/stock-market-today-november-11-2026-nasdaq-leads-veterans-day-rally-as-ai-shares-rebound-ant-be-cost-crwv-eprx-googl-modd-nvda-ser-spcx/"
+        }
+      ],
+      "zh": {
+        "title": "好市多宣布30美元特別股息及40億美元回購",
+        "summary": "好市多宣布每股30美元的特別現金股息，並重新批准40億美元的股票回購計劃。"
+      },
+      "ja": {
+        "title": "コストコ、1株30ドルの特別配当と40億ドル規模の自己株買いを発表",
+        "summary": "コストコは1株30ドルの特別現金配当と、再承認された40億ドルの自己株式取得枠を発表しました。"
+      },
+      "en": {
+        "title": "Costco announces $30 special dividend and $4 billion buyback",
+        "summary": "Costco announced a $30-per-share special cash dividend and a reauthorized $4 billion share repurchase program."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NewsOnJapan",
+          "url": "https://newsonjapan.com/article/151328.php"
+        }
+      ],
+      "zh": {
+        "title": "日經225指數11日收報61,248.59點 升1.31%",
+        "summary": "日經225指數收報61,248.59點，升789.01點或1.31%，為連續第三個交易日上漲。東證指數升0.92%至3,929.39點，半導體和AI相關股帶動大市，儘管美股前一日因通脹數據偏高而回落。"
+      },
+      "ja": {
+        "title": "日経平均11日終値 61,248.59円、1.31%高",
+        "summary": "日経平均株価は789.01円（1.31%）高の61,248.59円で引けました。3営業日続伸です。TOPIXは0.92%高の3,929.39でした。前日の米国株安にもかかわらず、半導体やAI関連株が買われました。"
+      },
+      "en": {
+        "title": "Nikkei 225 closes up 1.31% at 61,248.59 on Nov. 11",
+        "summary": "The Nikkei 225 rose 789.01 points, or 1.31%, to close at 61,248.59, its third straight daily gain. TOPIX gained 0.92% to 3,929.39, with semiconductor and AI-related shares leading despite a weaker Wall Street the previous day."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NewsOnJapan",
+          "url": "https://newsonjapan.com/article/151315.php"
+        }
+      ],
+      "zh": {
+        "title": "日經225指數10日升2.87% 軟銀集團漲近14%",
+        "summary": "日經225指數升1,684.08點或2.87%，收報60,459.58點，重回6萬點之上。軟銀集團漲近14%，對指數升幅貢獻最大；Advantest和東京電子也大幅上漲。"
+      },
+      "ja": {
+        "title": "日経平均10日は2.87%高 ソフトバンクGは約14%高",
+        "summary": "日経平均株価は1,684.08円（2.87%）高の60,459.58円で、3営業日ぶりに6万円台を回復しました。ソフトバンクグループは約14%上昇し、指数上昇の約4分の1を占めました。アドバンテストと東京エレクトロンも大きく上がりました。"
+      },
+      "en": {
+        "title": "Nikkei rises 2.87% on Nov. 10; SoftBank Group up nearly 14%",
+        "summary": "The Nikkei 225 gained 1,684.08 points, or 2.87%, to 60,459.58, back above 60,000 after three sessions below it. SoftBank Group rose nearly 14% and accounted for almost a quarter of the index gain, while Advantest and Tokyo Electron also surged."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NewsOnJapan",
+          "url": "https://newsonjapan.com/article/151328.php"
+        }
+      ],
+      "zh": {
+        "title": "路透企業短觀 製造業景氣判斷升至+27",
+        "summary": "路透日本製造業景氣判斷指數升至+27，高於前值+22，為2021年8月以來最高。同日日圓兌美元徘徊在158.8至158.9之間。"
+      },
+      "ja": {
+        "title": "ロイター短観 製造業景況感は+27に改善",
+        "summary": "ロイター短観の製造業景況判断指数は前回の+22から+27に上昇し、2021年8月以来の高水準となりました。同日の円相場は1ドル158円台後半で推移しました。"
+      },
+      "en": {
+        "title": "Reuters Tankan manufacturing sentiment rises to +27, highest since Aug. 2021",
+        "summary": "The Reuters Tankan manufacturing index rose to +27 from +22, its highest since August 2021. The yen traded around 158.8 to 158.9 per dollar on the same day."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NewsOnJapan",
+          "url": "https://newsonjapan.com/article/151328.php"
+        }
+      ],
+      "zh": {
+        "title": "日產汽車4至9月淨虧損397億日圓 下調銷量預期",
+        "summary": "日產汽車公布2026年4至9月期間淨虧損397億日圓，去年同期虧損為2,219億日圓。公司同時下調了汽車銷量展望。"
+      },
+      "ja": {
+        "title": "日産、4〜9月期は397億円の最終赤字 販売見通しを下方修正",
+        "summary": "日産自動車の2026年4〜9月期の純損益は397億円の赤字でした（前年同期は2,219億円の赤字）。同社は車両販売の見通しも引き下げました。"
+      },
+      "en": {
+        "title": "Nissan posts ¥39.7 billion net loss for April–September and cuts sales outlook",
+        "summary": "Nissan reported a net loss of ¥39.7 billion for April to September 2026, narrower than the ¥221.9 billion loss a year earlier. It also cut its vehicle sales outlook."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Vista Partners",
+          "url": "https://vistapglobal.com/stock-market-today-november-11-2026-nasdaq-leads-veterans-day-rally-as-ai-shares-rebound-ant-be-cost-crwv-eprx-googl-modd-nvda-ser-spcx/"
+        },
+        {
+          "name": "Kitco",
+          "url": "https://www.kitco.com/news/article/2026-11-10/gold-prices-down-2-day-us-cpi-rises-more-expected"
+        }
+      ],
+      "zh": {
+        "title": "美國10月CPI高於預期 加息押注升溫",
+        "summary": "美國10月消費者物價指數環比升0.4%，核心CPI環比升0.3%，高於市場預期。通脹數據令交易員更傾向押注美聯儲下月加息，黃金同日因此下跌約2%。"
+      },
+      "ja": {
+        "title": "米10月CPIが予想を上回る 12月利上げ観測が強まる",
+        "summary": "米国10月の消費者物価指数は前月比0.4%上昇、コアCPIは0.3%上昇で、予想を上回りました。市場では12月の利上げ観測が強まり、金価格は同日に約2%下落しました。"
+      },
+      "en": {
+        "title": "US October CPI runs hotter than expected; December Fed hike odds rise",
+        "summary": "US headline CPI rose 0.4% month over month in October and core CPI rose 0.3%, above expectations. Traders moved toward a December Fed rate hike, and gold fell about 2% on the day."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Kitco (Reuters)",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-10-29/central-banks-take-breather-though-more-hikes-are-come"
+        }
+      ],
+      "zh": {
+        "title": "美聯儲10月維持利率不變 市場預計12月或加息",
+        "summary": "美聯儲於10月28日維持利率不變，稱通脹“仍然偏高”。Reuters報道，當時市場認為12月加息的可能性約為80%。"
+      },
+      "ja": {
+        "title": "FRB10月は金利据え置き 12月利上げの織り込みは約80%",
+        "summary": "FRBは10月28日に政策金利を据え置き、インフレは「依然として高い水準にある」と述べました。ロイターによると、その時点で市場は12月の利上げをおよそ80%織り込んでいました。"
+      },
+      "en": {
+        "title": "Fed holds rates in late October; markets priced ~80% chance of December hike",
+        "summary": "The Federal Reserve held rates on October 28 and said inflation 'remained elevated.' Reuters reported that markets then priced roughly an 80% chance of a December hike."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Kitco (Reuters)",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-10-29/central-banks-take-breather-though-more-hikes-are-come"
+        },
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/economy/fed-ecb-and-boj-to-make-rate-decisions-amid-inflation-risks/4101047"
+        }
+      ],
+      "zh": {
+        "title": "歐央行“鷹派維持”利率 警告通脹風險上升",
+        "summary": "歐洲央行10月29日維持利率不變，但措辭偏鷹，警告通脹風險正在上升。日本央行此前於9月將政策利率升至1.25%。"
+      },
+      "ja": {
+        "title": "ECBは金利据え置きも「タカ派的」 インフレリスク上昇を警告",
+        "summary": "ECBは10月29日に金利を据え置きましたが、インフレリスクが高まっていると警告し、タカ派的な姿勢を示しました。日銀は9月に政策金利を1.25%に引き上げています。"
+      },
+      "en": {
+        "title": "ECB holds with a hawkish tone, warns inflation risks are rising",
+        "summary": "The ECB kept rates unchanged on October 29 but struck a hawkish tone, warning that inflation risks were rising. Separately, the Bank of Japan had raised its policy rate to 1.25% in September."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Kitco (Reuters)",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-10-29/central-banks-take-breather-though-more-hikes-are-come"
+        }
+      ],
+      "zh": {
+        "title": "加拿大央行加息25個基點至2.5% 為三年多來首次加息",
+        "summary": "加拿大央行於10月28日加息25個基點至2.5%，這是其三年多來首次加息。央行同時將2027年通脹預測由2.0%上調至3.1%。"
+      },
+      "ja": {
+        "title": "カナダ中銀が0.25%利上げ 2.5%に 3年超ぶり",
+        "summary": "カナダ銀行は10月28日に0.25%利上げして2.5%としました。3年余りぶりの利上げです。2027年の物価見通しは2.0%から3.1%に引き上げられました。"
+      },
+      "en": {
+        "title": "Bank of Canada raises rates 25 bps to 2.5%, first hike in over three years",
+        "summary": "The Bank of Canada raised its policy rate by 25 basis points to 2.5% on October 28, its first increase in more than three years. It also lifted its 2027 inflation forecast to 3.1% from 2.0%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/economy/fed-ecb-and-boj-to-make-rate-decisions-amid-inflation-risks/4101047"
+        }
+      ],
+      "zh": {
+        "title": "日本9月CPI升2.1% 核心通脹連續高於2%",
+        "summary": "日本9月消費者物價指數同比升2.1%，符合預期。核心通脹升破2%，為九個月來首次。"
+      },
+      "ja": {
+        "title": "9月の全国CPI 2.1%上昇 コアは9カ月ぶりに2%超",
+        "summary": "日本の9月の消費者物価指数は前年同月比2.1%上昇し、市場予想と一致しました。コアCPIは9カ月ぶりに2%を上回りました。"
+      },
+      "en": {
+        "title": "Japan's September CPI up 2.1%; core inflation tops 2% for first time in nine months",
+        "summary": "Japan's CPI rose 2.1% year over year in September, in line with estimates. Core inflation exceeded 2% for the first time in nine months."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/economy/fed-ecb-and-boj-to-make-rate-decisions-amid-inflation-risks/4101047"
+        }
+      ],
+      "zh": {
+        "title": "法國10年期國債收益率升至5.07% 高於美國",
+        "summary": "法國10年期國債收益率升至5.07%，為2002年以來新高，並首次自2013年以來高於美國10年期國債收益率。法國政局與財政風險是主要背景。"
+      },
+      "ja": {
+        "title": "仏10年債利回り5.07%で2002年以来の高水準 米国債を上回る",
+        "summary": "フランスの10年国債利回りは5.07%に上昇し、2002年以来の高水準となりました。2013年以来初めて米10年債利回りを上回りました。財政懸念とデモの激化が背景とされています。"
+      },
+      "en": {
+        "title": "French 10-year yield rises to 5.07%, above US yield for first time since 2013",
+        "summary": "France's 10-year government bond yield climbed to 5.07%, its highest since 2002, and rose above the US 10-year yield for the first time since 2013. Public-finance worries and protests were cited as drivers."
+      }
+    }
+  ]
+}
