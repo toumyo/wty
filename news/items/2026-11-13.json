@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-13",
+  "items": [
+    {
+      "sources": [{"name": "Vista Partners", "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"}],
+      "zh": {"title": "美股三大指數收跌", "summary": "11月12日美股收低，標普500指數下跌0.35%至7,592.40點，道瓊工業指數下跌0.36%至52,297.09點，納斯達克綜合指數下跌0.39%至25,366.09點。該報道將殖利率上升、通膨疑慮及輝達領導層變動列為主要背景。"},
+      "ja": {"title": "米主要3指数はそろって下落", "summary": "11月12日の米株式市場は下落し、S&P500種指数は0.35%安の7,592.40、ダウ工業株30種平均は0.36%安の52,297.09、ナスダック総合指数は0.39%安の25,366.09で引けました。米国債利回りの上昇、インフレ懸念、エヌビディアの経営陣交代が背景として挙げられています。"},
+      "en": {"title": "US major indexes all close lower", "summary": "US stocks closed lower on November 12, with the S&P 500 down 0.35% at 7,592.40, the Dow down 0.36% at 52,297.09, and the Nasdaq Composite down 0.39% at 25,366.09. The report cites rising Treasury yields, renewed inflation concerns and a leadership change at Nvidia as the main backdrop."}
+    },
+    {
+      "sources": [{"name": "Vista Partners", "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"}, {"name": "TheStreet Pro", "url": "https://pro.thestreet.com/stock-market-today/2026-11-12"}],
+      "zh": {"title": "美國10年期公債殖利率升至5.10%", "summary": "10年期美國公債殖利率較前一日上升0.10個百分點至5.10%。同日30年期公債拍賣表現疲弱，最終殖利率為5.441%，投標倍數降至2.36。"},
+      "ja": {"title": "米10年債利回りが5.10%に上昇", "summary": "米10年国債利回りは前日比0.10ポイント高い5.10%となりました。同日実施された30年債入札は低調で、最終利回りは5.441%、応札倍率は2.36に低下しました。"},
+      "en": {"title": "US 10-year Treasury yield rises to 5.10%", "summary": "The 10-year US Treasury yield rose 0.10 percentage point to 5.10%. A 30-year bond auction the same day was weak, with a high yield of 5.441% and a bid-to-cover ratio of 2.36."}
+    },
+    {
+      "sources": [{"name": "Vista Partners", "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"}, {"name": "Eurasia Business News", "url": "https://eurasiabusinessnews.com/2026/11/12/stock-market-today-november-12-2026-nvidia-stock-tumbles-after-jensen-huang-exit-ai-shares-face-leadership-shock/"}, {"name": "TheStreet Pro", "url": "https://pro.thestreet.com/stock-market-today/2026-11-12"}],
+      "zh": {"title": "輝達領導層變動，AI股承壓", "summary": "報道稱黃仁勳已辭去輝達執行長職務，財務長Colette Kress擔任臨時執行長，輝達股價因此大幅下跌，盤前跌幅超過10%。Bernstein的Stacy Rasgon將該公司目標價由400美元下調至200美元。"},
+      "ja": {"title": "エヌビディアの経営陣交代でAI株が圧迫", "summary": "報道によると、ジェンスン・ファン氏がCEOを退任し、CFOのコレット・クレス氏が暫定CEOに就任しました。これを受けエヌビディアの株価は大きく下落し、取引開始前の時点で10%超下げました。バーンスタインのスタシー・ラスゴン氏は目標株価を400ドルから200ドルに引き下げています。"},
+      "en": {"title": "Nvidia leadership change weighs on AI stocks", "summary": "Reports say Jensen Huang has resigned as Nvidia's CEO, with CFO Colette Kress serving as interim CEO. Nvidia shares fell sharply, down more than 10% premarket, and Bernstein's Stacy Rasgon cut his price target from $400 to $200."}
+    },
+    {
+      "sources": [{"name": "Vista Partners", "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"}],
+      "zh": {"title": "原油上漲，金價下跌", "summary": "12月交割原油期貨上漲2.57%至每桶88.75美元。報道指出，川普表示美國「不再需要與伊朗達成協議」，令荷莫茲海峽的不確定性上升，油價因此走高；同日黃金下跌3.07%至3,877.80美元。"},
+      "ja": {"title": "原油は上昇、金は下落", "summary": "12月限の原油先物は2.57%高の1バレル88.75ドルとなりました。トランプ大統領が米国は「もはやイランとの合意を必要としない」と述べ、ホルムズ海峡をめぐる不透明感が強まったことが背景とされています。金は3.07%安の3,877.80ドルでした。"},
+      "en": {"title": "Oil rises, gold falls", "summary": "December crude futures rose 2.57% to $88.75 a barrel. The report says oil climbed after President Trump said the US \"no longer needed a deal with Iran,\" which raised uncertainty over the Strait of Hormuz, while gold fell 3.07% to $3,877.80."}
+    },
+    {
+      "sources": [{"name": "StockAnalysis", "url": "https://stockanalysis.com/news/us-cpi-rises-october-2026/"}, {"name": "Vista Partners", "url": "https://vistapglobal.com/stock-market-today-november-12-2026-stocks-fall-as-treasury-yields-hit-5-10-oil-rises-and-nvidia-faces-leadership-reset-amd-crwv-eprx-googl-modd-msft-nvda-ser-spcx-ttek-ual/"}],
+      "zh": {"title": "10月美國CPI高於預期", "summary": "美國10月消費者物價指數（CPI）較前月上漲0.4%，高於市場預期；核心CPI上漲0.3%。報道稱，通膨數據的反彈引發市場對聯準會政策路徑的擔憂。"},
+      "ja": {"title": "10月の米CPIは市場予想を上回る", "summary": "米国の10月消費者物価指数（CPI）は前月比0.4%上昇し、市場予想を上回りました。変動の大きい項目を除いたコアCPIは0.3%上昇しました。"},
+      "en": {"title": "US October CPI comes in above forecasts", "summary": "US consumer prices rose 0.4% in October, above forecasts, while core inflation rose 0.3%. The inflation rebound has added to market concern about the Federal Reserve's policy path."}
+    },
+    {
+      "sources": [{"name": "TheStreet Pro", "url": "https://pro.thestreet.com/stock-market-today/2026-11-12"}, {"name": "News On Japan", "url": "https://newsonjapan.com/article/151344.php"}],
+      "zh": {"title": "聯準會官員偏向緊縮，市場預期12月或加息", "summary": "克利夫蘭聯準會主席哈默克表示：「我們需要轉向限制性的政策立場。」報道指出，過去一周發表講話的10位官員中有9位傾向於進一步收緊政策。News On Japan 引述的資料稱，約90%的投資者預期12月將加息25個基點。"},
+      "ja": {"title": "FRB高官は引き締め寄り、12月利上げ観測", "summary": "クリーブランド連銀のハマック総裁は「制限的な政策スタンスへ移行する必要がある」と述べました。報道では、直近1週間に発言した10人の当局者のうち9人が引き締めに傾いているとされています。News On Japanは、投資家の約90%が12月に0.25%の利上げを予想していたと伝えています。"},
+      "en": {"title": "Fed officials lean hawkish, December hike seen as likely", "summary": "Cleveland Fed's Hammack said \"we need to move to a restrictive stance of policy.\" TheStreet reports that nine of the 10 officials who spoke in the past week lean toward tightening, and News On Japan says about 90% of investors expected a quarter-point hike in December."}
+    },
+    {
+      "sources": [{"name": "TheStreet Pro", "url": "https://pro.thestreet.com/stock-market-today/2026-11-12"}],
+      "zh": {"title": "美國初請失業金人數為20萬人", "summary": "截至11月7日當周，美國首次申請失業救濟金人數為20萬人，高於市場預估的19.5萬人。續請人數為169.7萬人（截至10月31日當周）。"},
+      "ja": {"title": "米新規失業保険申請は20万件", "summary": "11月7日終わりの週の新規失業保険申請件数は20万件で、市場予想の19.5万件を上回りました。継続受給者数は169万7,000人（10月31日終わりの週）です。"},
+      "en": {"title": "US initial jobless claims at 200,000", "summary": "Initial jobless claims were 200,000 for the week ended November 7, versus an estimate of 195,000. Continuing claims were 1,697,000 for the week ended October 31."}
+    },
+    {
+      "sources": [{"name": "News On Japan", "url": "https://newsonjapan.com/article/151344.php"}, {"name": "Ad-hoc-news (JIJI Press data)", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/nikkei-225-falls-0-70-prozent-to-60-819-36-as-nvidia-concerns-weigh-on-ai-stocks/70497603"}],
+      "zh": {"title": "日經225指數收跌0.70%", "summary": "日經225指數11月12日收於60,819.36點，下跌429.23點，即0.70%。TOPIX上漲0.20%至3,937.33點。報道指出，日經指數前三個交易日累計上漲逾3,800點，本日結束三連漲。"},
+      "ja": {"title": "日経平均は0.70%安で終了", "summary": "日経平均株価は11月12日、429.23円安（0.70%安）の60,819.36円で取引を終えました。TOPIXは0.20%高の3,937.33でした。日経平均は直近3営業日で3,800円超上昇しており、本日は3日続伸が止まりました。"},
+      "en": {"title": "Nikkei 225 closes down 0.70%", "summary": "The Nikkei 225 closed at 60,819.36 on November 12, down 429.23 points or 0.70%, while TOPIX rose 0.20% to 3,937.33. The index had gained more than 3,800 points over the prior three sessions, so the day ended a three-day winning streak."}
+    },
+    {
+      "sources": [{"name": "Ad-hoc-news (JIJI Press data)", "url": "https://www.ad-hoc-news.de/boerse/news/marktberichte/nikkei-225-falls-0-70-prozent-to-60-819-36-as-nvidia-concerns-weigh-on-ai-stocks/70497603"}, {"name": "Share Talk", "url": "https://www.share-talk.com/what-happened-overnight-thursday-12th-november-2026/"}],
+      "zh": {"title": "輝達疑慮拖累日本AI相關股", "summary": "日經指數下跌主要受輝達相關疑慮拖累，AI與晶片相關股走弱。在報道提及的Wall Street消息中，有關輝達董事會討論黃仁勳職位的消息，令美股晶片股在前一交易日的盤後交易中下跌。"},
+      "ja": {"title": "エヌビディア懸念が日本のAI関連株を圧迫", "summary": "日経平均の下落は、エヌビディアをめぐる懸念からAI・半導体関連株が売られたことが主因とされています。報道では、同社取締役会がジェンスン・ファン氏の去就を協議しているとの報道を受け、前日の米国株の時間外取引で同社株が下落したと伝えています。"},
+      "en": {"title": "Nvidia concerns weigh on Japan's AI-linked stocks", "summary": "The Nikkei's decline was driven mainly by concerns over Nvidia, which pressured AI and chip-related shares. Reports said Nvidia's board was discussing CEO Jensen Huang's position, and its shares fell in after-hours trading the previous day."}
+    },
+    {
+      "sources": [{"name": "News On Japan", "url": "https://newsonjapan.com/article/151344.php"}],
+      "zh": {"title": "日圓逼近1美元兌160日圓", "summary": "美元兌日圓一度逼近160日圓，為約兩個月來對日圓最強的水準。報道將其歸因於美國10月CPI高於預期，以及市場對聯準會12月加息的預期。日本財務省副大臣Atsushi Mimura表示，近期匯率變動「過快」。"},
+      "ja": {"title": "ドル円は160円に接近", "summary": "ドル円は一時160円近くまで上昇し、約2カ月ぶりのドル高・円安水準となりました。米10月CPIが予想を上回ったことや、12月の米利上げ観測が背景とされています。財務副大臣の三村淳氏は、最近の為替変動は「過度に速い」と述べました。"},
+      "en": {"title": "Dollar nears 160 yen", "summary": "The dollar approached 160 yen, its strongest level against the yen in about two months, attributed to stronger-than-expected US October CPI and expectations of a December Fed hike. Vice Finance Minister Atsushi Mimura said recent currency moves had been \"excessively rapid.\""}
+    },
+    {
+      "sources": [{"name": "News On Japan", "url": "https://newsonjapan.com/article/151344.php"}],
+      "zh": {"title": "日本10月企業物價指數同比上漲7.1%", "summary": "日本銀行於11月12日公布，10月企業物價指數（CGPI）同比上漲7.1%。該數據反映批發物價的持續上行壓力。"},
+      "ja": {"title": "10月の企業物価指数は前年比7.1%上昇", "summary": "日本銀行は11月12日、10月の企業物価指数が前年同月比7.1%上昇したと発表しました。卸売段階の物価上昇圧力が続いていることを示す数字です。"},
+      "en": {"title": "Japan's October wholesale prices up 7.1% y/y", "summary": "The Bank of Japan reported on November 12 that the corporate goods price index rose 7.1% year on year in October, showing continued upward pressure on wholesale prices."}
+    },
+    {
+      "sources": [{"name": "News On Japan", "url": "https://newsonjapan.com/article/151344.php"}],
+      "zh": {"title": "Resonac大漲，伊藤忠創歷史新高", "summary": "Resonac股價盤中一度大漲23%，此前公司上調2026年度核心營業利益預測至2,500億日圓。伊藤忠商事股價創歷史新高，上半年純利潤增長16%。日產汽車股價下跌約5%，因其上半年錄得淨虧損。"},
+      "ja": {"title": "レゾナックが急騰、伊藤忠は上場来高値", "summary": "レゾナックは2026年度のコア営業利益予想を2,500億円に上方修正したことを受け、一時23%高となりました。伊藤忠商事は上半期純利益が16%増加し、株価は上場来高値を付けました。日産自動車は上半期に純損失を計上し、株価は約5%安となりました。"},
+      "en": {"title": "Resonac jumps, Itochu hits record high", "summary": "Resonac rose as much as 23% intraday after raising its FY2026 core operating profit forecast to 250 billion yen. Itochu hit a record high after a 16% rise in first-half net profit, while Nissan fell about 5% after posting a first-half net loss."}
+    }
+  ]
+}
