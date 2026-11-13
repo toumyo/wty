@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-14",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "AP (via WHDH)",
+          "url": "https://whdh.com/news/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數收盤互有漲跌",
+        "summary": "11月13日道瓊指數上漲0.1%，收於52,347.55點；標普500指數下跌0.4%，收於7,561.67點；納斯達克綜合指數下跌0.9%，收於25,136.27點。標普500指數本週仍上漲2.5%。"
+      },
+      "ja": {
+        "title": "米主要3指数は終値で明暗分かれる",
+        "summary": "11月13日の米株式市場で、ダウ工業株30種平均は0.1%高の52,347.55、S&P500種指数は0.4%安の7,561.67、ナスダック総合指数は0.9%安の25,136.27で引けました。S&P500種は今週2.5%上昇しました。"
+      },
+      "en": {
+        "title": "US indexes close mixed; Dow edges up",
+        "summary": "On November 13 the Dow rose 0.1% to 52,347.55, the S&P 500 fell 0.4% to 7,561.67 and the Nasdaq Composite fell 0.9% to 25,136.27. The S&P 500 still gained 2.5% over the week."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "科技股承壓，輝達與半導體股下跌",
+        "summary": "輝達收跌2.01%，市值收在4兆美元以下。超微（AMD）收跌約8.8%，博通收跌約4.8%。那斯達克指數的跌幅主要來自科技與人工智慧相關股票。"
+      },
+      "ja": {
+        "title": "ハイテク株安、エヌビディアと半導体株が下落",
+        "summary": "エヌビディアは2.01%安で引け、時価総額は4兆ドルを下回りました。AMDは約8.8%安、ブロードコムは約4.8%安でした。ナスダックの下落は主にAI関連・半導体株によるものです。"
+      },
+      "en": {
+        "title": "Tech and chip stocks slide; Nvidia down 2%",
+        "summary": "Nvidia closed down 2.01%, with its market value below $4 trillion. AMD fell about 8.8% and Broadcom about 4.8%. The Nasdaq's drop was driven mainly by AI-related and chip stocks."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NVIDIA 8-K (SEC)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+        }
+      ],
+      "zh": {
+        "title": "輝達執行長黃仁勳辭任，財務長暫代",
+        "summary": "輝達於11月12日發布公告，黃仁勳即日起辭去總裁、執行長及董事職務。財務長Colette Kress暫代執行長，公告未說明辭職原因。輝達將於11月17日公布2027財年第三季財報。"
+      },
+      "ja": {
+        "title": "エヌビディアのフアン・ジャケンCEOが辞任、CFOが暫定CEOに",
+        "summary": "エヌビディアは11月12日の発表で、ジェンスン・フアン氏が社長、CEO、取締役を即日辞任したと明らかにしました。コレット・クレス最高財務責任者が暫定CEOを務めます。発表は辞任理由に触れていません。同社は11月17日に2027年度第3四半期決算を発表する予定です。"
+      },
+      "en": {
+        "title": "Nvidia CEO Jensen Huang resigns; CFO named interim CEO",
+        "summary": "In a November 12 release, Nvidia said Jensen Huang resigned as President, CEO and director, effective immediately. CFO Colette Kress is interim CEO, and the release gave no reason. Nvidia will report fiscal Q3 2027 results on November 17."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP (via WHDH)",
+          "url": "https://whdh.com/news/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"
+        },
+        {
+          "name": "Investrade",
+          "url": "https://investrade.com/market-review-november-13-2026/"
+        }
+      ],
+      "zh": {
+        "title": "10年期美債殖利率升至5.15%",
+        "summary": "11月13日10年期美國公債殖利率升至5.15%，高於前一交易日的5.10%，盤中一度觸及5.17%，為10月以來最高。2年期殖利率升至4.87%。"
+      },
+      "ja": {
+        "title": "米10年債利回りが5.15%に上昇",
+        "summary": "11月13日の米10年債利回りは前日の5.10%から5.15%に上昇し、盤中には5.17%まで上がって10月以来の高水準となりました。2年債利回りは4.87%でした。"
+      },
+      "en": {
+        "title": "US 10-year Treasury yield rises to 5.15%",
+        "summary": "The US 10-year Treasury yield rose to 5.15% on November 13 from 5.10% the prior day, touching an intraday high of 5.17%, its highest since October. The 2-year yield rose to 4.87%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP (via WHDH)",
+          "url": "https://whdh.com/news/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "10月生產者物價指數月增0.3%，低於預期",
+        "summary": "10月生產者物價指數（PPI）月增0.3%，低於市場預估的0.4%，年增6.5%。"
+      },
+      "ja": {
+        "title": "10月の生産者物価指数は前月比0.3%上昇、予想を下回る",
+        "summary": "10月の米生産者物価指数（PPI）は前月比0.3%上昇し、市場予想の0.4%を下回りました。前年比は6.5%です。"
+      },
+      "en": {
+        "title": "October PPI rises 0.3% m/m, below forecast",
+        "summary": "US October producer prices rose 0.3% month over month, below the 0.4% expected, and were up 6.5% year over year."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "RealEstateNews",
+          "url": "https://realestatenews.com/2026/11/10/higher-than-expected-inflation-boosts-odds-of-bigger-fed-hike"
+        }
+      ],
+      "zh": {
+        "title": "10月消費者物價指數月增0.4%，高於預期",
+        "summary": "美國10月消費者物價指數（CPI）月增0.4%，高於0.3%的預測值，於11月10日公布。食品上漲0.4%，住房上漲0.3%。"
+      },
+      "ja": {
+        "title": "10月の消費者物価は前月比0.4%上昇、予想上回る",
+        "summary": "米10月の消費者物価指数（CPI）は前月比0.4%上昇し、予想の0.3%を上回りました。11月10日に発表され、食品は0.4%、住居は0.3%上昇しました。"
+      },
+      "en": {
+        "title": "October CPI rises 0.4% m/m, above forecast",
+        "summary": "US October CPI rose 0.4% month over month against a 0.3% forecast, released November 10. Food rose 0.4% and shelter 0.3%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "RealEstateNews",
+          "url": "https://realestatenews.com/2026/11/10/higher-than-expected-inflation-boosts-odds-of-bigger-fed-hike"
+        }
+      ],
+      "zh": {
+        "title": "市場預期12月聯準會可能升息",
+        "summary": "截至11月10日，CME FedWatch工具顯示市場認為12月9日會議升息25個基點的機率為90.5%，升息50個基點的機率為9.5%。"
+      },
+      "ja": {
+        "title": "12月FOMCでの利上げ観測が強まる",
+        "summary": "11月10日時点のCMEフェドウォッチによると、12月9日の会合で0.25%の利上げとなる確率は90.5%、0.5%の利上げとなる確率は9.5%と見積もられていました。"
+      },
+      "en": {
+        "title": "Markets price a likely December Fed hike",
+        "summary": "As of November 10, CME FedWatch put the chance of a 25-basis-point hike at the December 9 meeting at 90.5%, and of a 50-basis-point hike at 9.5%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Investrade",
+          "url": "https://investrade.com/market-review-november-13-2026/"
+        },
+        {
+          "name": "AP (via WHDH)",
+          "url": "https://whdh.com/news/stocks-fall-but-wall-street-notches-a-winning-week-after-several-turbulent-days/"
+        }
+      ],
+      "zh": {
+        "title": "西德州原油與布蘭特原油小幅收跌",
+        "summary": "11月13日西德州中質原油（WTI）收於每桶88.56美元，下跌0.18美元，跌幅0.2%。布蘭特原油收於每桶95.84美元。"
+      },
+      "ja": {
+        "title": "原油は小幅安、WTIは88.56ドル",
+        "summary": "11月13日のWTI原油先物は0.18ドル安の1バレル88.56ドルで決済されました。北海ブレントは95.84ドルで決済されました。"
+      },
+      "en": {
+        "title": "Crude edges lower; WTI settles at $88.56",
+        "summary": "WTI crude settled at $88.56 a barrel on November 13, down $0.18 or 0.2%. Brent settled at $95.84."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Investrade",
+          "url": "https://investrade.com/market-review-november-13-2026/"
+        }
+      ],
+      "zh": {
+        "title": "黃金期貨小幅上漲，收於3,886.30美元",
+        "summary": "12月黃金期貨上漲1.00美元，收於每盎司3,886.30美元，結束連續三日下跌。"
+      },
+      "ja": {
+        "title": "金先物は小幅高、3,886.30ドル",
+        "summary": "12月限の金先物は1.00ドル高の1オンス3,886.30ドルで引けました。3営業日続落の後の反発です。"
+      },
+      "en": {
+        "title": "Gold futures tick up to $3,886.30",
+        "summary": "December gold futures rose $1.00 to $3,886.30 an ounce, snapping a three-day losing streak."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Investrade",
+          "url": "https://investrade.com/market-review-november-13-2026/"
+        }
+      ],
+      "zh": {
+        "title": "比特幣跌破7萬美元",
+        "summary": "比特幣在11月13日下跌，跌破70,000美元。"
+      },
+      "ja": {
+        "title": "ビットコインが7万ドルを下回る",
+        "summary": "11月13日、ビットコインは下落し、70,000ドルを割り込みました。"
+      },
+      "en": {
+        "title": "Bitcoin falls below $70,000",
+        "summary": "Bitcoin fell below $70,000 on November 13."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "Modine股價大漲逾27%，傳三星洽談收購",
+        "summary": "彭博社報導三星電子與Modine洽談收購，Modine股價11月13日收漲27.95%。三星表示無法證實該報導。"
+      },
+      "ja": {
+        "title": "モダインが27%超高、サムスンによる買収協議報道",
+        "summary": "ブルームバーグは、サムスン電子がモダインの買収を協議していると報じ、モダイン株は11月13日に27.95%高で引けました。サムスンは報道を確認できないとしています。"
+      },
+      "en": {
+        "title": "Modine jumps 28% on report of Samsung takeover talks",
+        "summary": "Modine shares closed up 27.95% on November 13 after Bloomberg reported Samsung Electronics was in takeover talks with the company. Samsung said it could not confirm the report."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "Cerebras股價上漲11%，第三季營收創新高",
+        "summary": "Cerebras第三季營收達2.108億美元，創歷史新高，並上調全年展望。股價11月13日收漲11.22%。"
+      },
+      "ja": {
+        "title": "セレブラスが11%高、7〜9月期は過去最高売上",
+        "summary": "セレブラス・システムズは第3四半期の売上高が2億1,080万ドルと過去最高となり、見通しも引き上げました。株価は11月13日に11.22%高で引けました。"
+      },
+      "en": {
+        "title": "Cerebras shares rise 11% on record Q3 revenue",
+        "summary": "Cerebras reported record third-quarter revenue of $210.8 million and raised its outlook. Shares closed up 11.22% on November 13."
+      }
+    }
+  ]
+}
