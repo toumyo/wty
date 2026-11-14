@@ -1,0 +1,45 @@
+{
+  "date": "2026-11-15",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Investing.com (InvestingLive)",
+          "url": "https://investinglive.com/central-banks/recap-boj-s-ueda-sees-inflation-near-2-but-flags-upside-risks-as-energy-costs-bite"
+        }
+      ],
+      "zh": {
+        "title": "植田總裁：通膨接近2%，但上行風險仍存",
+        "summary": "日本銀行植田總裁11月8日在華盛頓 IMF 研討會上表示，基調性通膨應可維持在2%左右，但存在上行風險。能源成本推動的物價上漲預計將在明年初加速，他也認為薪資成長與2%的通膨相符。"
+      },
+      "ja": {
+        "title": "植田総裁、物価は2%近辺も上振れリスクを指摘",
+        "summary": "植田日銀総裁は11月8日、ワシントンでのIMFセミナーで、基調的な物価は2%程度で推移すると述べつつ、上振れリスクがあると指摘しました。エネルギー要因の物価上昇は来年初めにかけて加速する見通しで、賃金は2%の物価と整合的との認識も示しています。"
+      },
+      "en": {
+        "title": "BOJ's Ueda sees inflation near 2% but flags upside risks",
+        "summary": "Speaking at an IMF seminar in Washington on November 8, BOJ Governor Ueda said underlying inflation should stay around 2% but with upside risks. Energy-driven price increases are expected to accelerate into early next year, and he said wages are consistent with 2% inflation."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "HeyGoTrade",
+          "url": "https://www.heygotrade.com/en/news/weekly-economic-outlook-2026-11-09/"
+        }
+      ],
+      "zh": {
+        "title": "標普500第三季財報盈餘成長率達31.4%",
+        "summary": "根據 FactSet 數據，截至11月6日，標普500指數成分股已有88%公布第三季財報，綜合盈餘成長率為31.4%。該數據引自一篇本週經濟數據前瞻文章。"
+      },
+      "ja": {
+        "title": "S&P500種の7〜9月期利益成長率は31.4%",
+        "summary": "FactSetのデータによると、11月6日時点でS&P500種構成企業の88%が第3四半期の決算を発表し、合算の利益成長率は31.4%となりました。数値は今週の経済指標の見通し記事で引用されたものです。"
+      },
+      "en": {
+        "title": "S&P 500 Q3 blended earnings growth at 31.4%",
+        "summary": "As of November 6, 88% of S&P 500 companies had reported Q3 results, with blended earnings growth of 31.4%, according to FactSet data cited in a week-ahead preview. The figure comes from a market preview article published November 9."
+      }
+    }
+  ]
+}
