@@ -1,0 +1,329 @@
+{
+  "date": "2026-11-16",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "美股週五收盤：道指微升，標普與納指下跌",
+        "summary": "11月13日（週五），道指上漲0.10%至52,347.55點，標普500指數下跌0.40%至7,561.67點，納斯達克綜合指數下跌0.91%至25,136.27點。標普與納指受科技股拋售拖累。"
+      },
+      "ja": {
+        "title": "米株11月13日：ダウは小幅高、S&P500とナスダックは下落",
+        "summary": "11月13日（金）、ダウ平均は0.10%高の52,347.55、S&P500は0.40%安の7,561.67、ナスダック総合は0.91%安の25,136.27で引けました。半導体株の売りがS&P500とナスダックを押し下げました。"
+      },
+      "en": {
+        "title": "US stocks Nov 13: Dow edges up, S&P 500 and Nasdaq fall",
+        "summary": "On Friday, November 13, the Dow rose 0.10% to 52,347.55, the S&P 500 fell 0.40% to 7,561.67 and the Nasdaq Composite fell 0.91% to 25,136.27. Tech and chip stocks weighed on the S&P 500 and Nasdaq."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "name": "Eurasia Business News",
+          "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+        }
+      ],
+      "zh": {
+        "title": "輝達執行長黃仁勳卸任，晶片股大跌",
+        "summary": "輝達（NVDA）收跌2.01%至162.85美元，AMD下跌約8.75%，博通下跌約4.76%。黃仁勳將卸任執行長，財務長Colette Kress暫任執行長。"
+      },
+      "ja": {
+        "title": "エヌビディアCEOの退任で半導体株が急落",
+        "summary": "エヌビディアは2.01%安の162.85ドルで引けました。AMDは約8.75%、ブロードコムは約4.76%下落しました。ジェンスン・フアンCEOが退任し、CFOのコリン・クレスが暫定CEOに就任します。"
+      },
+      "en": {
+        "title": "Nvidia CEO Jensen Huang steps down as chip stocks slide",
+        "summary": "Nvidia fell 2.01% to $162.85, AMD dropped about 8.75% and Broadcom about 4.76%. CEO Jensen Huang is stepping down, with CFO Colette Kress becoming interim CEO."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        },
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "10月PPI月增0.3%低於預期，但年增6.5%創近三年新高",
+        "summary": "10月生產者物價指數（PPI）月增0.3%，低於市場預期的0.4%，但年增6.5%，為2022年11月以來最大年增幅。核心PPI月增0.5%，與9月持平，報告使市場對聯準會下月加息的預期更為明確。"
+      },
+      "ja": {
+        "title": "10月PPIは前月比0.3%上昇、予想を下回る一方、前年比6.5%",
+        "summary": "10月の生産者物価指数（PPI）は前月比0.3%上昇し、予想の0.4%を下回りました。ただし前年比は6.5%上昇し、2022年11月以来の大きな伸びとなりました。コアPPIは前月比0.5%上昇し、FRBの次回利上げ観測を強める内容でした。"
+      },
+      "en": {
+        "title": "October PPI rose 0.3% m/m, below forecast, but up 6.5% y/y",
+        "summary": "October producer prices rose 0.3% month over month, below the 0.4% expected, but were up 6.5% year over year, the largest annual rise since November 2022. Core PPI rose 0.5% month over month, matching September, and the report kept the Fed on track to hike next month."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "美國10年期公債殖利率升至5.17%，市場計價12月加息",
+        "summary": "10年期美國公債殖利率盤中升至5.17%，為10月以來最高。交易員已將12月聯準會會議加息計入定價。"
+      },
+      "ja": {
+        "title": "米10年債利回り5.17%、10月以来の高水準",
+        "summary": "米10年債利回りは日中に5.17%まで上昇し、10月以来の高水準となりました。市場は12月のFOMCでの利上げを織り込み始めています。"
+      },
+      "en": {
+        "title": "US 10-year yield hits 5.17%, December hike priced in",
+        "summary": "The US 10-year Treasury yield reached 5.17% intraday, its highest since October, and traders priced in a rate hike at the December meeting."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "本週美股上漲約2%，Modine大漲28%",
+        "summary": "道指本週約上漲2%，標普500約上漲2.5%，納指上漲逾2%，CNBC引述稱為8月以來最佳一週。個股方面，Modine（MOD）上漲27.86%，彭博社報導三星洽談收購，三星未能證實。"
+      },
+      "ja": {
+        "title": "今週の米株は約2%高、Modineは28%高",
+        "summary": "ダウは週間で約2%高、S&P500は約2.5%高、ナスダックは2%超の上昇となりました。CNBCによると、主要指数の週間上昇は8月以来の大きさです。個別株では、Modine（MOD）が27.86%高となり、ブルームバーグがサムスンによる買収交渉を報じました（サムスンは確認していません）。"
+      },
+      "en": {
+        "title": "US indexes gain about 2% this week; Modine jumps 28%",
+        "summary": "The Dow rose about 2% this week, the S&P 500 about 2.5% and the Nasdaq more than 2%, the best week since early August according to CNBC. Modine (MOD) rose 27.86% after Bloomberg reported Samsung in takeover talks, which Samsung could not confirm."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex",
+          "url": "https://media.monex.co.jp/articles/-/30508"
+        }
+      ],
+      "zh": {
+        "title": "日經平均收漲322日圓至61,142點，TOPIX連漲五日",
+        "summary": "11月13日東京股市，日經平均收於61,142日圓，上漲322日圓。盤中一度升幅超過1,000日圓，但午後回落。TOPIX收於3,941點，上漲4點，為連續第五個交易日上漲。"
+      },
+      "ja": {
+        "title": "日経平均は322円高の61,142円、TOPIXは5日続伸",
+        "summary": "11月13日の東証では、日経平均が322円高の61,142円で引けました。寄り付き後には一時1,000円超高となりましたが、午後は伸び悩みました。TOPIXは4ポイント高の3,941で、5営業日連続の上昇です。"
+      },
+      "en": {
+        "title": "Nikkei closes up 322 yen at 61,142; TOPIX rises fifth day",
+        "summary": "The Nikkei 225 closed up 322 yen at 61,142 on November 13, after an intraday gain of more than 1,000 yen faded in the afternoon. TOPIX rose 4 points to 3,941, its fifth straight gain."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex",
+          "url": "https://media.monex.co.jp/articles/-/30508"
+        }
+      ],
+      "zh": {
+        "title": "Amada大漲逾21%，Dynamic Map Platform升22%",
+        "summary": "Amada（6113）上調2027年3月期營業利潤預測至580億日圓（此前為480億），股價一度升至2,794日圓，上漲21.8%。Dynamic Map Platform（336A）同日上漲21.9%至1,320日圓。"
+      },
+      "ja": {
+        "title": "アマダが21.8%高、ダイナミックマップ基盤も21.9%高",
+        "summary": "アマダ（6113）は2027年3月期の営業利益予想を480億円から580億円に引き上げ、株価は一時21.8%高の2,794円まで上昇しました。ダイナミックマップ基盤（336A）も21.9%高の1,320円となりました。"
+      },
+      "en": {
+        "title": "Amada (6113) jumps 21.8%; Dynamic Map Platform rises 21.9%",
+        "summary": "Amada (6113) raised its FY3/2027 operating profit forecast to 58.0 billion yen from 48.0 billion and hit 2,794 yen (+21.8%) intraday. Dynamic Map Platform (336A) rose 21.9% to 1,320 yen."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex",
+          "url": "https://media.monex.co.jp/articles/-/30508"
+        }
+      ],
+      "zh": {
+        "title": "Mercari利潤翻倍但股價下跌8.9%",
+        "summary": "Mercari（4385）收於3,438日圓，下跌8.9%。儘管利潤翻倍，市場仍擔憂其交易總額（GMV）與月活躍用戶（MAU）持平。"
+      },
+      "ja": {
+        "title": "メルカリは増益も8.9%安、GMVとMAUの横ばいが懸念",
+        "summary": "メルカリ（4385）は利益が倍増したものの、流通総額（GMV）と月間アクティブユーザー（MAU）が横ばいであることが懸念され、8.9%安の3,438円で引けました。"
+      },
+      "en": {
+        "title": "Mercari falls 8.9% despite doubled profit",
+        "summary": "Mercari (4385) fell 8.9% to 3,438 yen despite doubling profit, as concerns over flat GMV and monthly active users weighed on the stock."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Monex",
+          "url": "https://media.monex.co.jp/articles/-/30508"
+        }
+      ],
+      "zh": {
+        "title": "東京股市：日圓走弱與韓股上漲支撐盤面",
+        "summary": "東京股市早盤受日圓走弱與韓國股市上漲支撐。市場認為輝達執行長更迭已大致反映在股價中，下一個焦點為11月17日的輝達財報與大型銀行財報。"
+      },
+      "ja": {
+        "title": "東京市場：円安進行と韓国株高が支えに",
+        "summary": "東京市場は円安進行と韓国株の上昇を背景に、朝方は買いが先行しました。エヌビディアのCEO交代は「いったん織り込まれた」とされ、次の材料は11月17日のエヌビディア決算とメガバンクの決算です。"
+      },
+      "en": {
+        "title": "Tokyo: weaker yen and Korean gains support the open",
+        "summary": "Tokyo stocks opened higher on yen weakness and gains in Korean shares. The Nvidia CEO change was described as largely priced in, with Nvidia's results due November 17 and megabank earnings the next catalysts."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "FXStreet",
+          "url": "https://www.fxstreet.com/analysis/hawks-fly-in-as-feds-waller-puts-50bps-hike-on-table-and-ecbs-lane-backs-hike-202611101041"
+        }
+      ],
+      "zh": {
+        "title": "聯準會沃勒把加息50個基點列入選項，ECB加息派獲支持",
+        "summary": "FXStreet報導，聯準會的沃勒（Waller）把50個基點加息列為選項，歐洲央行內部主張加息的一派也獲得支持。"
+      },
+      "ja": {
+        "title": "FRBのウォラー氏は50bp利上げを選択肢に、ECBでも利上げ支持",
+        "summary": "FXStreetによると、FRBのウォラー理事は50ベーシスポイントの利上げを選択肢に挙げ、ECB内でも利上げを支持する意見が出ています。"
+      },
+      "en": {
+        "title": "Fed's Waller puts 50bp hike on table; ECB hawks back a hike",
+        "summary": "FXStreet reported that Fed Governor Waller put a 50 basis point hike on the table, and that the hawkish camp at the ECB backs raising rates."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TMGM",
+          "url": "https://www.tmgm.com/en-eu/analysis/market-insight/morning-brief-2026-11-05"
+        }
+      ],
+      "zh": {
+        "title": "英國央行加息至4%，聯準會威廉斯稱通膨過高",
+        "summary": "英國央行（BoE）加息，政策利率升至4%。聯準會的威廉斯（Williams）表示通膨仍然過高。"
+      },
+      "ja": {
+        "title": "英中銀は4%へ利上げ、FRBのウィリアムズ氏はインフレ過熱を指摘",
+        "summary": "イングランド銀行（BoE）が利上げを行い、政策金利を4%に引き上げました。FRBのウィリアムズ総裁は、インフレはなお高すぎるとの見方を示しました。"
+      },
+      "en": {
+        "title": "BoE lifts rate to 4%; Fed's Williams says inflation too high",
+        "summary": "The Bank of England raised its policy rate to 4%, and the Fed's Williams said inflation remains too high."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TMGM",
+          "url": "https://www.tmgm.com/en-in/analysis/market-insight/morning-brief-2026-11-04"
+        },
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "布蘭特原油美國大選後跌逾10%，油價仍處高位",
+        "summary": "布蘭特原油在美國大選後下跌超過10%。不過11月13日的市況報導指出，油價仍然偏高。"
+      },
+      "ja": {
+        "title": "ブレント原油は米大統領選後に10%超下落、なお高止まり",
+        "summary": "ブレント原油は米大統領選後に10%以上下落しました。ただし11月13日の市況では、原油価格は依然として高い水準にあると報じられました。"
+      },
+      "en": {
+        "title": "Brent falls over 10% after US elections, but oil stays elevated",
+        "summary": "Brent crude fell more than 10% after the US elections. Coverage on Friday, November 13, said oil prices remained elevated."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Eurasia Business News",
+          "url": "https://eurasiabusinessnews.com/2026/11/14/stock-market-today-november-13-2026-tech-stocks-fall-as-nvidia-earnings-and-anthropic-ipo-loom/"
+        },
+        {
+          "name": "Monex",
+          "url": "https://media.monex.co.jp/articles/-/30508"
+        }
+      ],
+      "zh": {
+        "title": "市場聚焦輝達財報與Anthropic首次公開募股",
+        "summary": "市場報導指出，輝達財報與Anthropic即將到來的首次公開募股（IPO）成為本週科技股的關注焦點。"
+      },
+      "ja": {
+        "title": "エヌビディア決算とAnthropicのIPOが注目材料に",
+        "summary": "エヌビディアの決算と、Anthropicの新規株式公開（IPO）が控えており、ハイテク株の注目材料となっています。"
+      },
+      "en": {
+        "title": "Nvidia earnings and Anthropic IPO loom over tech stocks",
+        "summary": "Nvidia's earnings and the upcoming Anthropic IPO were flagged as key focus points for tech stocks."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-13-dow-sp-500-nasdaq-nvidia-ppi-141451558.html"
+        }
+      ],
+      "zh": {
+        "title": "匯豐將輝達評級下調至持有，目標價降至170美元",
+        "summary": "匯豐（HSBC）將輝達評級下調至持有，目標價由365美元下調至170美元。"
+      },
+      "ja": {
+        "title": "HSBCがエヌビディアを「ホールド」に引き下げ、目標株価170ドル",
+        "summary": "HSBCはエヌビディアの投資判断を「ホールド」に引き下げ、目標株価を365ドルから170ドルに引き下げました。"
+      },
+      "en": {
+        "title": "HSBC cuts Nvidia to Hold, target to $170 from $365",
+        "summary": "HSBC cut its rating on Nvidia to Hold and lowered its target price to $170 from $365."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ],
+      "zh": {
+        "title": "美國聯邦航空局收市前下令全國暫停離港班機",
+        "summary": "美國聯邦航空局（FAA）在收盤前數分鐘下令全國暫停離港航班，航空股隨後走弱。"
+      },
+      "ja": {
+        "title": "FAAが引け直前に全米で出発便の運航停止を命令、航空株安",
+        "summary": "米連邦航空局（FAA）は取引終了の数分前、全米で出発便の運航停止を命じ、航空株が下落しました。"
+      },
+      "en": {
+        "title": "FAA orders nationwide ground stop minutes before US close",
+        "summary": "The FAA ordered a nationwide ground stop on departing flights just minutes before the US close, and airline shares slipped."
+      }
+    }
+  ]
+}
