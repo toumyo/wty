@@ -1,0 +1,47 @@
+{
+  "date": "2026-11-17",
+  "items": [
+    {
+      "sources": [{"name": "U.S. Press News (syndicated)", "url": "https://www.uspress.news/u-s-stock-market-today-november-16-2026/"}],
+      "zh": {"title": "美股三大指數齊跌，AI與半導體股拖累", "summary": "11月16日（週一），道瓊指數下跌739.38點，收於51,608.17點，跌1.41%。標普500指數下跌145.08點，收於7,416.59點，跌1.92%。那斯達克綜合指數下跌626.51點，收於24,509.76點，跌2.49%，跌幅最大。報道稱，市場對AI投資、半導體公司及科技股估值的擔憂再度升溫。"},
+      "ja": {"title": "米主要3指数そろって下落、AI・半導体株が重荷", "summary": "11月16日（月）のダウ工業株30種平均は739.38ドル安の51,608.17ドルで終えた（-1.41%）。S&P500種は145.08ポイント安の7,416.59（-1.92%）、ナスダック総合指数は626.51ポイント安の24,509.76（-2.49%）と、下げ幅が最も大きかった。AI投資への懸念、半導体株、技術株の割高感が改めて意識されたと報じられている。"},
+      "en": {"title": "All three major U.S. indexes fall as AI and chip stocks weigh", "summary": "On Monday, November 16, the Dow fell 739.38 points, or 1.41%, to close at 51,608.17. The S&P 500 dropped 145.08 points, or 1.92%, to 7,416.59, and the Nasdaq Composite lost 626.51 points, or 2.49%, to 24,509.76, the steepest decline of the three. Reports cite renewed concern about AI investment, semiconductor companies and elevated technology valuations."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance / Zacks", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-news-nov-16-132700717.html"}],
+      "zh": {"title": "上週五美股：道指微漲，那指與標普下跌，晶片股走弱", "summary": "11月13日（週五），道瓊指數上漲0.1%（50.46點），收於52,347.55點；標普500指數下跌0.4%，收於7,561.67點；那斯達克綜合指數下跌0.9%，收於25,136.27點。費城半導體指數下跌3.4%，AMD下跌8.8%，博通（AVGO）下跌4.8%。本週道瓊上漲2.1%，那斯達克與標普500則分別下跌2.3%與2.5%。"},
+      "ja": {"title": "前週末の米株：ダウは小幅高、ナスダックとS&Pは反落、半導体株は軟調", "summary": "11月13日（金）のダウ工業株30種平均は0.1%（50.46ドル）高の52,347.55ドルで終えた。S&P500種は0.4%安の7,561.67、ナスダック総合指数は0.9%安の25,136.27だった。フィラデルフィア半導体指数は3.4%安、AMDは8.8%安、ブロードコムは4.8%安。週間ではダウが2.1%高、ナスダックとS&P500はそれぞれ2.3%、2.5%安となった。"},
+      "en": {"title": "Last Friday on Wall Street: Dow edges up while Nasdaq and S&P 500 slip, chip stocks weaken", "summary": "On Friday, November 13, the Dow rose 0.1%, or 50.46 points, to 52,347.55. The S&P 500 fell 0.4% to 7,561.67 and the Nasdaq Composite dropped 0.9% to 25,136.27. The Philadelphia Semiconductor Index fell 3.4%, with AMD down 8.8% and Broadcom down 4.8%. For the week, the Dow gained 2.1%, while the Nasdaq and S&P 500 fell 2.3% and 2.5%."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance Japan", "url": "https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc"}, {"name": "OANDA Japan", "url": "https://www.oanda.jp/lab-education/market_news/mn_1044145_202611161747/"}],
+      "zh": {"title": "日經225指數收跌2.42%，跌破6萬點", "summary": "11月16日東京股市收盤，日經225指數收於59,662.02點，下跌1,480.33點，跌幅2.42%，為9日以來首次收於6萬點以下。個股中，Advantest（6857）下跌11.12%，是拖累指數的主要因素。報道稱，AI及半導體相關股遭到拋售。"},
+      "ja": {"title": "日経平均は2.42%安、6万円を割り込む", "summary": "11月16日の東京株式市場で日経平均株価は1,480.33円安の59,662.02円で取引を終えた（-2.42%）。9日以来、初めての6万円割れの終値となった。個別では、アドバンテスト（6857）が11.12%下落し、指数を最も押し下げた。AI・半導体関連株に売りが出たと報じられている。"},
+      "en": {"title": "Nikkei 225 falls 2.42% and closes below 60,000", "summary": "The Nikkei 225 closed at 59,662.02 on November 16, down 1,480.33 points, or 2.42%. It was the first close below 60,000 since November 9. Advantest (6857) fell 11.12% and was the largest drag on the index, with reports citing selling in AI- and semiconductor-linked stocks."}
+    },
+    {
+      "sources": [{"name": "Yahoo Finance Japan", "url": "https://finance.yahoo.co.jp/news/detail/6189337debf2ca5512049f354e825106179e60bc"}],
+      "zh": {"title": "TOPIX跌1.02%；日本7至9月GDP初值年率-0.1%", "summary": "11月16日TOPIX收於3,901.37點，下跌40.20點，跌幅1.02%。另據報道，日本2026年7至9月實際GDP初值為年率-0.1%，是四個季度以來首次出現收縮。"},
+      "ja": {"title": "TOPIXは1.02%安、7〜9月期GDP速報は年率-0.1%", "summary": "11月16日のTOPIXは40.20ポイント安の3,901.37で終えた（-1.02%）。また、2026年7〜9月期の実質GDP速報値は年率-0.1%となり、4四半期ぶりのマイナス成長だったと報じられている。"},
+      "en": {"title": "TOPIX falls 1.02%; Japan's July–September GDP preliminary at -0.1% annualized", "summary": "The TOPIX closed at 3,901.37 on November 16, down 40.20 points, or 1.02%. Separately, Japan's preliminary real GDP for July to September 2026 showed a 0.1% annualized contraction, the first decline in four quarters, according to reports."}
+    },
+    {
+      "sources": [{"name": "OANDA Japan", "url": "https://www.oanda.jp/lab-education/market_news/mn_1044145_202611161747/"}],
+      "zh": {"title": "東京市場收盤時日圓在1美元=159日圓附近", "summary": "11月16日東京市場收盤前後，美元兌日圓在159日圓附近交易。市場同時關注日本股市的AI相關股走勢。"},
+      "ja": {"title": "東京市場の引け際、ドル円は159円台で推移", "summary": "11月16日の東京市場の引け前後、ドル円は1ドル=159円台で推移したと報じられている。株式市場ではAI関連株の動向にも注目が集まった。"},
+      "en": {"title": "Dollar-yen trades around 159 yen as Tokyo session closes", "summary": "Around the close of trading in Tokyo on November 16, the dollar traded near 159 yen. Attention also remained on AI-linked stocks in the Japanese market."}
+    },
+    {
+      "sources": [{"name": "The Edge Malaysia", "url": "https://theedgemalaysia.com/node/825218"}],
+      "zh": {"title": "美國國債殖利率走高，市場加碼押注聯準會加息", "summary": "11月10日，美國兩至五年期國債殖利率上升逾10個基點，10年期國債殖利率上升5個基點至4.94%。報道稱，通膨數據偏熱，核心CPI月增0.3%，整體CPI月增0.4%；就業報告顯示工資增長意外加速。市場加碼押注2027年中前至少再加息兩次，聯準會理事沃勒表示支持加息。聯準會9月加息25個基點，10月維持利率不變。"},
+      "ja": {"title": "米国債利回り上昇、利上げ観測が強まる", "summary": "11月10日、米国の2〜5年債利回りは10ベーシスポイント超上昇し、10年債利回りは5ベーシスポイント高い4.94%となった。インフレ指標が強く、コアCPIは前月比0.3%、総合CPIは0.4%上昇した。賃金の伸びも予想外に加速したと報じられている。市場は2027年半ばまでに少なくとも2回の利上げを織り込み始め、FRBのウォラー理事は利上げを支持した。FRBは9月に0.25%の利上げを行い、10月は据え置いた。"},
+      "en": {"title": "U.S. Treasury yields rise as traders add to Fed hike bets", "summary": "On November 10, two- to five-year Treasury yields rose more than 10 basis points and the 10-year yield climbed 5 basis points to 4.94%. Reports cite hot inflation, with core CPI up 0.3% month on month and headline CPI up 0.4%, and an unexpected jump in wage growth. Traders added to bets on at least two Fed hikes by mid-2027, and Fed Governor Christopher Waller backed a hike. The Fed raised rates by a quarter point in September and held in October."}
+    },
+    {
+      "sources": [{"name": "Renaissance Capital", "url": "https://www.renaissancecapital.com/IPO-Center/News/122657/anthropic-sets-terms-for-61-billion-ipo-targeting-a-1.2-trillion-market-cap"}],
+      "zh": {"title": "Anthropic 公布IPO條款，擬募資610億美元，目標市值1.2兆美元", "summary": "據Renaissance Capital報道，Anthropic計劃發行約8.25億股，發行價區間為每股70至78美元，募資約610億美元。按中間價計，完全稀釋後市值約1.2兆美元。同時另有260億美元私募配售，認購方包括AMD、博通、Google、美光、微軟、NVIDIA與台積電。公司截至2026年9月30日的12個月營收為353億美元，預計本週在納斯達克以代碼ANT掛牌。"},
+      "ja": {"title": "Anthropic、IPO条件を提示　調達額610億ドル、目標時価総額1.2兆ドル", "summary": "Renaissance Capitalの報道によると、Anthropicは約8億2,500万株を1株70〜78ドルで発行し、約610億ドルを調達する計画。中間値での完全希薄化ベースの時価総額は約1.2兆ドルとなる。同時に260億ドルの私募配分があり、AMD、ブロードコム、Google、マイクロン、マイクロソフト、NVIDIA、TSMCが参加する。2026年9月30日までの12か月の売上高は353億ドルで、今週中にナスダックにティッカー「ANT」で上場する見通しと報じられている。"},
+      "en": {"title": "Anthropic sets IPO terms: $61 billion raise, $1.2 trillion target market cap", "summary": "According to Renaissance Capital, Anthropic plans to offer about 825 million shares at $70 to $78 per share, raising roughly $61 billion. At the midpoint, the fully diluted market value is about $1.2 trillion. A concurrent $26 billion private placement includes AMD, Broadcom, Google, Micron, Microsoft, NVIDIA and TSMC. Revenue for the 12 months ended September 30, 2026 was $35.3 billion, and the stock is expected to trade this week on Nasdaq under the ticker ANT."}
+    }
+  ]
+}
