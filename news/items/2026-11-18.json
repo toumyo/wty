@@ -1,0 +1,385 @@
+{
+  "date": "2026-11-18",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/stock-market"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數收跌，標普500跌至7月以來新低",
+        "summary": "11月17日（週二）科技股拋售拖累美股。標普500指數下跌1%，收於7月以來最低；那斯達克下跌0.7%，道瓊指數收跌1.85%，報50,651點。"
+      },
+      "ja": {
+        "title": "米株三指数が下落、S&P500は7月以来の安値",
+        "summary": "11月17日（火）、ハイテク株の売りが相場を押し下げました。S&P500は1%安となり7月以来の安値を付け、ナスダックは0.7%安、ダウは1.85%安の50,651ポイントで引けました。"
+      },
+      "en": {
+        "title": "US stocks close lower as S&P 500 hits lowest since July",
+        "summary": "Tech stocks led a sell-off on Nov 17. The S&P 500 fell 1% to its lowest level since July, the Nasdaq slipped 0.7%, and the Dow closed down 1.85% at 50,651."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/news"
+        }
+      ],
+      "zh": {
+        "title": "科技股承壓：AI晶片出口限制、輝達領導層動盪與系統故障",
+        "summary": "美國限制中國企業遠端使用先進AI晶片與伺服器，輝達因黃仁勳下台陷入領導層動盪，市場擔憂AI投資前景。微軟辦公軟體故障與美國情報機構網路中斷也加劇了對科技股的不安。"
+      },
+      "ja": {
+        "title": "AI株売りの背景：中国向けAI半導体規制とエヌビディアの経営混乱",
+        "summary": "米国が中国企業による先端AIチップ・サーバーへの遠隔アクセスを制限する措置を打ち出したことや、エヌビディアの黄仁勳CEO退任に伴う経営の混乱が、半導体株を中心に売りを招きました。マイクロソフトの業務ソフトの障害や米国情報機関のネットワーク障害も不安材料となりました。"
+      },
+      "en": {
+        "title": "Tech sell-off drivers: China AI-chip curbs and Nvidia leadership turmoil",
+        "summary": "The US moved to limit Chinese companies' remote access to advanced AI chips and servers, while Nvidia faced leadership turmoil after CEO Jensen Huang's departure. Investors also weighed a Microsoft productivity-software bug and a network outage at a US intelligence agency."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/news"
+        }
+      ],
+      "zh": {
+        "title": "輝達財報優於預期，盤後股價一度漲逾4%",
+        "summary": "輝達10月季度每股盈餘為2.68美元，高於市場預期的2.47美元；營收較去年同期倍增，財測也優於預期。消息公布後，股價盤後一度上漲4%。"
+      },
+      "ja": {
+        "title": "エヌビディア決算は予想上回る、時間外で一時4%高",
+        "summary": "10月期の1株利益は2.68ドルで、市場予想の2.47ドルを上回りました。売上高は倍増し、見通しも市場予想を上回りました。時間外取引では一時4%高となりました。"
+      },
+      "en": {
+        "title": "Nvidia beats earnings expectations; shares up to 4% after hours",
+        "summary": "Nvidia reported October-quarter EPS of $2.68 versus $2.47 expected. Sales doubled and guidance came in above expectations, and shares rose as much as 4% in after-hours trading."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/news"
+        }
+      ],
+      "zh": {
+        "title": "市場押注美聯準會12月升息，機率逾九成",
+        "summary": "利率期貨顯示，美聯準會12月升息25個基點的機率超過90%。10月核心CPI高於預期，多位聯準會官員釋出鷹派信號，期貨也計入到明年7月前再升息三次。"
+      },
+      "ja": {
+        "title": "12月の米利上げを織り込む動き、確率は90%超",
+        "summary": "金利先物は、12月に0.25%ポイント利上げされる確率を90%超と織り込んでいます。10月の核CPIが予想を上回り、連銀関係者のタカ派発言も相次ぎました。来年7月までに3回の利上げも織り込まれています。"
+      },
+      "en": {
+        "title": "Markets price a December Fed hike",
+        "summary": "Interest-rate futures imply more than a 90% chance of a 25bp increase in December, after core October CPI came in hotter than expected and Fed officials sounded hawkish. About three hikes are priced by July next year."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/news"
+        }
+      ],
+      "zh": {
+        "title": "美國建商信心降至2012年以來最低",
+        "summary": "NAHB／富國銀行房市指數11月為25，低於10月的29，為2012年4月以來最低。46%的建商在11月降價，為疫情以來最多。"
+      },
+      "ja": {
+        "title": "米住宅建設業者の景況感、2012年以来の低水準",
+        "summary": "NAHB／ウェルズ・ファーゴの住宅市場指数は11月に25となり、10月の29から低下しました。2012年4月以来の低水準です。建設業者の46%が11月に価格を引き下げ、パンデミック以降で最多となりました。"
+      },
+      "en": {
+        "title": "US homebuilder sentiment falls to a 14-year low",
+        "summary": "The NAHB housing market index fell to 25 in November from 29, its lowest since April 2012. 46% of builders cut prices in November, the most since the pandemic."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/japan/stock-market"
+        }
+      ],
+      "zh": {
+        "title": "日經225連跌兩個交易日，AI相關股拖累",
+        "summary": "11月17日日經225指數下跌約1.3%，收於59,000點附近，為連續第二個交易日下跌。受美股科技股下挫及美國對中AI晶片限制的消息影響，鎧俠、愛德萬測試、軟銀集團等AI相關股領跌。"
+      },
+      "ja": {
+        "title": "日経平均は2日続落、AI関連株が重荷",
+        "summary": "11月17日の日経平均は約1.3%安の59,000円近辺で引けました。2営業日続落です。米株安や、米国の対中AIチップ規制の報道を受け、キオクシア、アドバンテスト、ソフトバンクグループなどAI関連株が売られました。"
+      },
+      "en": {
+        "title": "Nikkei 225 falls for a second session",
+        "summary": "The Nikkei 225 dropped about 1.3% on Nov 17 to near 59,000, its second straight loss. AI-linked stocks such as Kioxia, Advantest and SoftBank Group led declines after Wall Street fell and reports of new US curbs on China's remote access to AI chips."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/japan/news"
+        }
+      ],
+      "zh": {
+        "title": "日本7至9月GDP年率負成長0.1%，內需疲弱",
+        "summary": "日本2026年第三季經濟年率萎縮0.1%，低於市場預期的成長0.1%，為一年來首次下滑。私人消費疲弱，出口一年來首度減少，進口則因原油採購來源調整而增加。"
+      },
+      "ja": {
+        "title": "7〜9月期GDPは年率0.1%減、1年ぶりのマイナス",
+        "summary": "7〜9月期の実質GDPは年率0.1%減となり、市場予想のプラス0.1%を下回りました。個人消費は弱く、輸出は1年ぶりに減少しました。中東情勢を背景とした原油調達先の変更で輸入が増えたことも、成長を押し下げました。"
+      },
+      "en": {
+        "title": "Japan's Q3 GDP shrinks 0.1% annualized, first decline in a year",
+        "summary": "Japan's economy contracted 0.1% annualized in Q3 2026, missing expectations of 0.1% growth. Private consumption was weak and exports fell for the first time in a year, while imports rose as crude procurement shifted amid Middle East tensions."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/japan/currency"
+        }
+      ],
+      "zh": {
+        "title": "日圓逼近160關口，財務相警告過度貶值",
+        "summary": "美元兌日圓在159.5附近徘徊，接近市場關注的160水準，市場擔憂可能再度出現匯市干預。財務大臣片山皋月再次表示，政府將與美方密切協調，必要時採取適當措施。"
+      },
+      "ja": {
+        "title": "円は1ドル159円台、財務相が過度な円安をけん制",
+        "summary": "円相場は1ドル159円台で推移し、市場が介入の目安として注目する160円に接近しています。片山財務相は過度な円安への警戒感を示し、米国と緊密に連携しながら必要に応じて適切な措置を取る方針を示しました。"
+      },
+      "en": {
+        "title": "Yen near 160 per dollar; finance minister warns on excess weakness",
+        "summary": "The yen traded around 159.5 per dollar, close to the 160 level that could prompt intervention. Finance Minister Satsuki Katayama warned against excessive moves and said Tokyo would coordinate with Washington and act as needed."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/japan/news"
+        }
+      ],
+      "zh": {
+        "title": "日本央行加息預期升溫，10年期公債殖利率約2.88%",
+        "summary": "日本央行政策利率為1.25%。議事摘要顯示多數政策委員支持進一步升息，但委員淺田統一郎主張謹慎掌握升息時機。10年期公債殖利率維持在2.88%附近，接近三週高點。"
+      },
+      "ja": {
+        "title": "日銀の追加利上げ観測強まる、10年債利回りは2.88%近辺",
+        "summary": "日銀の政策金利は1.25%です。主な意見では多くの委員が追加利上げを支持している一方、浅田委員は利上げの時期に慎重な姿勢を示しました。10年債利回りは約2.88%で、3週間ぶりの高水準圏にあります。"
+      },
+      "en": {
+        "title": "BOJ hike expectations build; JGB 10-year yield near 2.88%",
+        "summary": "The BOJ policy rate is 1.25%. The Summary of Opinions showed broad support for further hikes, while board member Toichiro Asada urged caution on timing. The 10-year JGB yield held near 2.88%, close to three-week highs."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/japan/news"
+        }
+      ],
+      "zh": {
+        "title": "Anthropic上市受矚目，認購據報約為發行量六倍",
+        "summary": "市場關注Anthropic本週的首次公開募股（IPO）。據報導，其訂單約為可供認購股份的六倍，顯示投資人對AI企業的需求強勁，也成為觀察AI板塊情緒的指標。"
+      },
+      "ja": {
+        "title": "Anthropicの新規上場に注目、需要は発行株数の約6倍と報道",
+        "summary": "今週に予定されるAnthropicの新規株式公開（IPO）に市場の関心が集まっています。報道によると注文は販売予定株数の約6倍に達しており、AI関連株への投資意欲を測る材料として見られています。"
+      },
+      "en": {
+        "title": "Anthropic IPO draws attention; orders reported at about six times supply",
+        "summary": "Markets are watching Anthropic's IPO expected this week. Reports say orders are roughly six times the shares available, a gauge of investor appetite for AI-related stocks."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/euro-area/news"
+        }
+      ],
+      "zh": {
+        "title": "歐洲央行加息預期升溫，歐元兌美元接近1.10",
+        "summary": "歐洲央行副行長Boris Vujčić表示，市場對2027年進一步升息的預期可能合理。歐元兌美元在1.10附近徘徊，接近2025年3月以來的低點，市場預期美聯準會升息幅度將大於歐洲央行。"
+      },
+      "ja": {
+        "title": "ECB追加利上げ観測、ユーロは1.10ドル近辺で推移",
+        "summary": "ECBのヴヤチッチ副総裁は、2027年の追加利上げに対する市場の予想が正当化される可能性があると述べました。ユーロは1.10ドル近辺と、2025年3月以来の安値圏で推移しています。"
+      },
+      "en": {
+        "title": "ECB hike expectations rise; euro near $1.10",
+        "summary": "ECB Vice President Boris Vujčić said market expectations for further 2027 hikes could prove justified. The euro traded near $1.10, close to its weakest level since March 2025."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/euro-area/news"
+        }
+      ],
+      "zh": {
+        "title": "歐元區第三季GDP季增0.4%，就業人數持平",
+        "summary": "歐元區2026年第三季GDP季增0.4%、年增1.3%。就業人數基本持平，結束了21個季度的就業成長。歐盟委員會將2026年歐元區經濟成長預測上調至1.2%，但警告財政赤字可能擴大。"
+      },
+      "ja": {
+        "title": "ユーロ圏7〜9月期GDPは前期比0.4%増、雇用は横ばい",
+        "summary": "ユーロ圏の7〜9月期GDPは前期比0.4%増、前年同期比1.3%増でした。雇用者数はほぼ横ばいとなり、21四半期続いた増加が途絶えました。欧州委員会は2026年の成長率見通しを1.2%に引き上げました。"
+      },
+      "en": {
+        "title": "Euro-area Q3 GDP rises 0.4%, employment stalls",
+        "summary": "Euro-area GDP grew 0.4% quarter on quarter and 1.3% year on year in Q3 2026, while employment was broadly flat, ending 21 quarters of gains. The European Commission raised its 2026 growth forecast to 1.2%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/gold"
+        }
+      ],
+      "zh": {
+        "title": "金價徘徊約3,850美元，接近一年多來低點",
+        "summary": "現貨黃金11月17日在每盎司約3,860美元附近交易，接近週一觸及的一年多來低點3,830美元。美元接近19個月高點，CME FedWatch顯示12月升息機率約93%，壓抑了黃金價格。"
+      },
+      "ja": {
+        "title": "金は1オンス3,850ドル台で低迷、1年超ぶりの安値圏",
+        "summary": "11月17日の金相場は1オンス約3,860ドルで推移し、前日に付けた1年超ぶりの安値3,830ドル付近にあります。ドル高と利上げ観測が重しとなっています。"
+      },
+      "en": {
+        "title": "Gold hovers near one-year lows",
+        "summary": "Spot gold traded near $3,860 an ounce on Nov 17, close to Monday's over-one-year low of $3,830, as the dollar stayed near a 19-month high and CME FedWatch showed about a 93% chance of a December hike."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/crude-oil"
+        }
+      ],
+      "zh": {
+        "title": "原油回升至86美元附近，荷莫茲海峽局勢緊張",
+        "summary": "WTI原油11月17日回升至接近86美元/桶，前一日下跌3.2%。伊朗威脅美軍與商船，美國第三艘航母抵達波斯灣，荷莫茲海峽傳出油輪遭襲起火。另一方面，國際能源署預估本季供應過剩約200萬桶/日。布蘭特原油約93美元。"
+      },
+      "ja": {
+        "title": "原油は1バレル86ドル近辺に反発、中東情勢の緊迫が材料",
+        "summary": "WTI原油は11月17日に1バレル86ドル近くまで反発し、前日の3.2%安から戻しました。イランによる米軍・商船への威嚇や、ホルムズ海峡での石油タンカー被弾が背景です。一方、IEAは今期の供給過剰を日量約200万バレルと予測しています。"
+      },
+      "en": {
+        "title": "Oil rebounds toward $86 on Middle East tensions",
+        "summary": "WTI rose toward $86 a barrel on Nov 17 after a 3.2% drop the previous day, as Iran threatened US forces and shipping and a tanker was struck in the Strait of Hormuz. The IEA projects a roughly 2 million bpd surplus this quarter; Brent was near $93."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/china/news"
+        }
+      ],
+      "zh": {
+        "title": "中國10月經濟數據全面放緩，固定資產投資降8.1%",
+        "summary": "中國10月工業產出年增4.8%，零售銷售年增0.4%，均低於預期。1至10月固定資產投資年減8.1%，其中房地產投資減21.6%。城鎮調查失業率降至5.1%，新屋價格跌幅收窄至2.4%。"
+      },
+      "ja": {
+        "title": "中国10月の経済指標が軒並み鈍化、固定資産投資は8.1%減",
+        "summary": "10月の中国の鉱工業生産は前年同月比4.8%増、小売売上高は0.4%増と、いずれも市場予想を下回りました。1〜10月の固定資産投資は8.1%減で、不動産投資は21.6%減と落ち込みが続いています。"
+      },
+      "en": {
+        "title": "China's October data slow across the board",
+        "summary": "Industrial output rose 4.8% y/y and retail sales 0.4%, both below expectations. Fixed-asset investment fell 8.1% in January–October and property investment fell 21.6%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/china/news"
+        }
+      ],
+      "zh": {
+        "title": "上證指數跌至一年多低點，中美俄峰會與晶片管制受關注",
+        "summary": "上證綜指11月17日收跌0.5%，報3,584.6點，連續第四個交易日下跌，為一年多來最低。美國加強先進AI晶片出口管制，市場等待11月19日在深圳舉行的中、美、俄三國領導人首次會晤。"
+      },
+      "ja": {
+        "title": "上海総合は1年超ぶりの安値、米中露首脳会談とAI半導体規制に注目",
+        "summary": "上海総合指数は11月17日に0.5%安の3,584.6で引け、4営業日続落して1年超ぶりの安値を付けました。米国が先端AI半導体の輸出規制を強化するなか、11月19日に深圳で予定される中国・米国・ロシア首脳の初の三者会談が注目されています。"
+      },
+      "en": {
+        "title": "Shanghai Composite hits lowest in over a year",
+        "summary": "The index closed down 0.5% at 3,584.6 on Nov 17, its fourth straight loss, as the US tightened AI-chip export rules. Markets are awaiting the first Xi–Trump–Putin trilateral meeting in Shenzhen on Nov 19."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/china/news"
+        }
+      ],
+      "zh": {
+        "title": "中國第三季經常帳順差創紀錄，達2,761億美元",
+        "summary": "中國2026年第三季經常帳順差為2,761億美元，高於去年同期的2,025億美元，為歷史新高。出口年增25.3%，創下1.2133兆美元的新高，進口年增24.7%。"
+      },
+      "ja": {
+        "title": "中国の7〜9月期経常黒字は過去最高の2,761億ドル",
+        "summary": "中国の2026年7〜9月期の経常収支黒字は2,761億ドルと、過去最高を更新しました。輸出は前年同期比25.3%増の1兆2,133億ドルと過去最高、輸入は24.7%増でした。"
+      },
+      "en": {
+        "title": "China's Q3 current-account surplus hits a record $276.1 billion",
+        "summary": "China's Q3 2026 current-account surplus widened to $276.1 billion, up from $202.5 billion a year earlier. Exports rose 25.3% y/y to a record $1,213.3 billion, while imports rose 24.7%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/euro-area/news"
+        }
+      ],
+      "zh": {
+        "title": "歐洲股市周二大跌，科技股與德意志銀行領跌",
+        "summary": "11月17日Euro STOXX 50下跌2%至6,215點，STOXX 600下跌1.7%。ASML與SAP跌近6%，德意志銀行因內部文件外洩報導下跌6%。市場擔憂AI基礎設施投資與對中國的晶片限制。"
+      },
+      "ja": {
+        "title": "欧州株は大幅安、ASMLとSAPが急落、ドイツ銀行も6%安",
+        "summary": "11月17日、ユーロ・ストックス50は2%安の6,215、STOXX 600は1.7%安で引けました。AI関連株やソフトウェア株が売られ、ASMLとSAPは約6%下落しました。ドイツ銀行は内部文書の流出報道を受けて6%安となりました。"
+      },
+      "en": {
+        "title": "European stocks slump on tech and bank losses",
+        "summary": "The Euro STOXX 50 fell 2% to 6,215 and the STOXX 600 lost 1.7% on Nov 17. ASML and SAP each fell nearly 6%, and Deutsche Bank dropped 6% after a major leak of internal files."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/news"
+        }
+      ],
+      "zh": {
+        "title": "聯準會官員釋放鷹派信號，市場關注FOMC紀要",
+        "summary": "聖路易聯準會主席Musalem表示，央行未來數月可能需要升息多達四次；克利夫蘭聯準會主席Hammack則偏好漸進升息。美元指數接近2025年4月以來高點，FOMC紀要將於11月18日公布。"
+      },
+      "ja": {
+        "title": "米連銀のタカ派発言相次ぐ、18日公表のFOMC議事要旨に注目",
+        "summary": "セントルイス連銀のムサレム総裁は、今後数か月で最大4回の利上げが必要になる可能性に言及しました。クリーブランド連銀のハマック総裁は小幅な段階的利上げを支持しています。ドル指数は2025年4月以来の高水準圏にあります。"
+      },
+      "en": {
+        "title": "Hawkish Fed signals ahead of minutes",
+        "summary": "St. Louis Fed's Musalem said the Fed may need to raise rates as many as four times in coming months, while Cleveland's Hammack favored gradual hikes. The dollar index hovered near its highest since April 2025, and FOMC minutes are due Wednesday."
+      }
+    }
+  ]
+}
