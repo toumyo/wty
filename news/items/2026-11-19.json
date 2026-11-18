@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-19",
+  "items": [
+    {
+      "sources": [
+        {"name": "Alain Guillot", "url": "https://www.alainguillot.com/stock-market-recap-november-18-2026/"},
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"}
+      ],
+      "zh": {"title": "美股收盤：道瓊跌1.11%，那指小漲0.42%", "summary": "11月18日（週三），道瓊工業指數收在50,198.17點，下跌561.25點（-1.11%）；標普500指數收在7,323.63點，下跌0.23%；那斯達克綜合指數收在24,429.89點，上漲0.42%，結束兩日連跌。"},
+      "ja": {"title": "米国株終値：ダウ1.11%安、ナスダックは0.42%高", "summary": "11月18日（水）のダウ工業株30種平均は561.25ドル安の50,198.17で引けました。S&P500は0.23%安の7,323.63、ナスダック総合指数は0.42%高の24,429.89で、2営業日続落の後に反発しました。"},
+      "en": {"title": "US stocks close: Dow down 1.11%, Nasdaq up 0.42%", "summary": "On Wednesday, Nov. 18, the Dow fell 561.25 points to 50,198.17 (-1.11%). The S&P 500 fell 0.23% to 7,323.63, while the Nasdaq Composite rose 0.42% to 24,429.89, ending a two-day losing streak."}
+    },
+    {
+      "sources": [
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"},
+        {"name": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"}
+      ],
+      "zh": {"title": "聯準會會議紀要：幾乎所有官員認為可能需要再升息", "summary": "10月27至28日的FOMC會議紀要顯示，委員會以10比2的投票結果維持聯邦基金利率區間在3.75%至4.00%。幾乎所有與會者認為，若經濟按預期發展，進一步升息可能是必要的；理事Lisa Cook與克里夫蘭聯準銀行總裁Beth Hammack當時主張升息四分之一個百分點。"},
+      "ja": {"title": "FOMC議事要旨：ほぼ全員が追加利上げの可能性を示唆", "summary": "10月27〜28日のFOMCの議事要旨によると、委員会は10対2の投票で政策金利の誘導目標を3.75〜4.00%に据え置きました。経済が想定通りに推移すれば追加利上げが必要になりうると、ほぼすべての参加者が見ています。Lisa Cook理事とBeth Hammackクリーブランド連銀総裁は10月の会合で0.25ポイントの利上げを支持していました。"},
+      "en": {"title": "Fed minutes: nearly all officials see further hikes likely", "summary": "Minutes from the Oct. 27-28 FOMC meeting, released Wednesday, show the committee voted 10-2 to hold the funds rate at 3.75%-4.00%. Nearly all participants said further increases are likely if the economy evolves as expected, and Governor Lisa Cook and Cleveland Fed President Beth Hammack favored a quarter-point hike in October."}
+    },
+    {
+      "sources": [
+        {"name": "Alain Guillot", "url": "https://www.alainguillot.com/stock-market-recap-november-18-2026/"},
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"}
+      ],
+      "zh": {"title": "輝達財報優於預期，股價仍連續走低", "summary": "輝達季度營收1,158億美元，年增103%，每股盈餘2.68美元高於預期的2.47美元，並宣布1,500億美元回購計畫。股價仍下跌，代理執行長Colette Kress表示，已入帳24億美元對中國Hopper晶片的銷售，但出貨已停止，且未預期未來來自中國的營收。"},
+      "ja": {"title": "エヌビディア、好決算も株価は続落", "summary": "エヌビディアの四半期売上高は1,158億ドルで前年同期比103%増、1株利益は予想の2.47ドルを上回る2.68ドルでした。1,500億ドルの自社株買いも発表しましたが、株価は下落しました。暫定CEOのColette Kress氏は、中国向けHopper販売24億ドルを計上したものの出荷は停止され、今後の中国収入は見込んでいないと述べました。"},
+      "en": {"title": "Nvidia beats on earnings, but shares keep sliding", "summary": "Nvidia reported quarterly revenue of $115.8 billion, up 103% year over year, and EPS of $2.68 versus $2.47 expected, and it announced a $150 billion buyback. Shares still fell; interim CEO Colette Kress said $2.4 billion of China Hopper sales were recorded, shipments have stopped, and no China revenue is projected going forward."}
+    },
+    {
+      "sources": [
+        {"name": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-coreweave-slides-as-nvidia-s-blowout-earnings-fail-to-ease-debt-concerns/"}
+      ],
+      "zh": {"title": "CoreWeave股價收跌4.13%，債務疑慮未消", "summary": "CoreWeave收在每股47.83美元，下跌4.13%，盤中因輝達財報而上漲的漲幅全部消失，市場仍擔心其債務與融資。該公司將2026年營收預期上調至130億至133億美元，並以2028年轉虧為盈為目標。"},
+      "ja": {"title": "CoreWeave、負債への懸念で4.13%安", "summary": "CoreWeaveの株価は4.13%安の47.83ドルで引けました。エヌビディア決算を受けた寄り付き後の上昇は消え、負債と資金調達への懸念が残りました。2026年の売上高見通しは130億〜133億ドルに引き上げられ、2028年の黒字化を目標としています。"},
+      "en": {"title": "CoreWeave slides 4.13% on debt worries", "summary": "CoreWeave closed at $47.83, down 4.13%, after its premarket gains from Nvidia's earnings faded on debt and financing concerns. The company raised 2026 revenue guidance to $13.0-13.3 billion and targets profitability in 2028."}
+    },
+    {
+      "sources": [
+        {"name": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"}
+      ],
+      "zh": {"title": "醫療保險股重挫，聯合健康跌10%", "summary": "美國聯邦政府提議擴大Medicare Advantage的審核，並追回2018年以來的不當支付，受此影響，聯合健康股價下跌10.21%，Humana下跌約13%，醫療保險股拖累道瓊指數。"},
+      "ja": {"title": "医療保険株が急落、ユナイテッドヘルスは10%安", "summary": "米連邦政府がMedicare Advantageの審査拡大と2018年以降の不適切な支払いの回収を提案したことを受け、ユナイテッドヘルスは10.21%安、Humanaは約13%安となりました。医療保険株の下落がダウを押し下げました。"},
+      "en": {"title": "Managed-care stocks slump; UnitedHealth down 10%", "summary": "After a federal proposal to expand Medicare Advantage audits and recover improper payments back to 2018, UnitedHealth fell 10.21% and Humana fell about 13%. Heavy selling in managed healthcare weighed on the Dow."}
+    },
+    {
+      "sources": [
+        {"name": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"},
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"}
+      ],
+      "zh": {"title": "TJX大漲8%，Target銷售優於預期", "summary": "TJX股價上漲8.05%，因可比銷售表現強勁並上調全年展望。Target第三季銷售額271億美元，年增7.1%，可比銷售增5.6%，每股盈餘2.65美元（含0.50美元關稅退款效益）。"},
+      "ja": {"title": "TJXは8%高、ターゲットは売上が予想を上回る", "summary": "TJXは既存店売上の好調と通期見通しの引き上げを受けて8.05%高となりました。ターゲットの売上高は271億ドル（前年比7.1%増）、既存店売上は5.6%増、1株利益は2.65ドル（関税還付による0.50ドルを含む）でした。"},
+      "en": {"title": "TJX jumps 8% as Target beats on sales", "summary": "TJX rose 8.05% after stronger comparable sales and higher full-year guidance. Target reported sales of $27.1 billion, up 7.1%, with comparable sales up 5.6% and diluted EPS of $2.65, including a $0.50 tariff-refund benefit."}
+    },
+    {
+      "sources": [
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"},
+        {"name": "Alain Guillot", "url": "https://www.alainguillot.com/stock-market-recap-november-18-2026/"}
+      ],
+      "zh": {"title": "Anthropic首次公開募股定價在即", "summary": "Anthropic（代號ANT）的IPO預計於11月18日晚間定價，11月19日掛牌。報導中的初步價格區間為每股70至78美元，發行8.25億股，另有260億美元私募配售。以上為報導中的擬議條件，實際定價可能不同。"},
+      "ja": {"title": "Anthropic、新規株式公開の価格決定が迫る", "summary": "Anthropic（ティッカー：ANT）のIPOは11月18日夕方に価格決定され、11月19日に上場する見込みです。報道された暫定価格レンジは1株70〜78ドル、発行株数は8億2,500万株で、260億ドルの私募も予定されています。これらは報道された想定条件であり、確定価格は異なる可能性があります。"},
+      "en": {"title": "Anthropic IPO set to price", "summary": "Anthropic's IPO (ticker ANT) was expected to price Wednesday evening and begin trading Thursday, Nov. 19. Reported preliminary terms are a $70-$78 range on 825 million shares, plus a $26 billion private placement; these are proposed terms and the final price may differ."}
+    },
+    {
+      "sources": [
+        {"name": "Alain Guillot", "url": "https://www.alainguillot.com/stock-market-recap-november-18-2026/"},
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"}
+      ],
+      "zh": {"title": "美債殖利率約5.07%，黃金與原油下跌", "summary": "11月18日收盤時，10年期美債殖利率約5.07%，較前一日下降約4個基點。12月期黃金收在3,741.90美元，下跌3.17%；1月期原油收在82.31美元，下跌2.76%。"},
+      "ja": {"title": "米10年債利回りは約5.07%、金と原油は下落", "summary": "11月18日の引けで米10年債利回りは約5.07%と、前日から約4bp低下しました。12月限の金先物は3.17%安の3,741.90ドル、1月限のWTI原油は2.76%安の82.31ドルで決済されました。"},
+      "en": {"title": "10-year yield near 5.07%; gold and oil fall", "summary": "At the Nov. 18 close, the 10-year Treasury yield was about 5.07%, down roughly 4 basis points. December gold futures settled at $3,741.90 (-3.17%), and January crude settled at $82.31 (-2.76%)."}
+    },
+    {
+      "sources": [
+        {"name": "LA NACION", "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-monday-11162026-nid16112026/"}
+      ],
+      "zh": {"title": "11月16日美股大跌，那指重挫2.5%", "summary": "11月16日（週一），標普500指數下跌145.08點（-1.9%），收在7,416.59點，為連續第三個下跌日；那斯達克綜合指數下跌2.5%，道瓊指數下跌1.4%。輝達股價重挫，市場關注黃仁勳辭任執行長後的走勢，原油與美債殖利率也出現波動。"},
+      "ja": {"title": "11月16日の米株は大幅安、ナスダックは2.5%安", "summary": "11月16日（月）のS&P500は145.08ポイント（1.9%）安の7,416.59で、3営業日続落となりました。ナスダック総合指数は2.5%安、ダウは1.4%安でした。エヌビディアが急落し、黄仁勲氏の退任後の動向が注目されました。"},
+      "en": {"title": "US stocks slump Nov. 16; Nasdaq down 2.5%", "summary": "On Monday, Nov. 16, the S&P 500 fell 1.9% to 7,416.59, its third straight loss. The Nasdaq Composite dropped 2.5% and the Dow fell 1.4% to 51,608.17, as Nvidia sold off following CEO Jensen Huang's resignation the prior week."}
+    },
+    {
+      "sources": [
+        {"name": "World Gold Council", "url": "https://www.gold.org/goldhub/gold-focus/2026/11/weekly-markets-monitor-waller-dollar"},
+        {"name": "Motley Fool", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/18/stock-market-today-nov-18-s-and-p-500-breaks-key-support-as-fed-minutes-signal-more-rate-hikes-ahead/"}
+      ],
+      "zh": {"title": "美國10月CPI超預期，華勒可能主張12月升息50個基點", "summary": "美國10月消費者物價指數月增0.4%，高於預期的0.3%。聯準會理事華勒提出12月升息50個基點的可能性。美元指數創下19個月來新高，美元與殖利率上升對黃金形成壓力。"},
+      "ja": {"title": "米10月CPIは予想上回る、ウォラー理事は12月50bp利上げに言及", "summary": "米10月の消費者物価指数は前月比0.4%上昇し、予想の0.3%を上回りました。ウォラーFRB理事は12月に50ベーシスポイントの利上げの可能性に言及しました。ドル指数は19カ月ぶりの高水準となり、金にとって逆風となりました。"},
+      "en": {"title": "October CPI tops forecasts; Waller floats 50bp December hike", "summary": "US consumer prices rose 0.4% month over month in October, versus 0.3% expected. Governor Waller raised the prospect of a 50-basis-point hike in December, and the dollar hit a 19-month high, a headwind for gold."}
+    },
+    {
+      "sources": [
+        {"name": "Zacks", "url": "https://www.zacks.com/stock/news/3030162/stock-market-news-for-nov-16-2026"}
+      ],
+      "zh": {"title": "美國10月PPI年增6.5%，為2022年11月以來最大升幅", "summary": "美國10月生產者物價指數月增0.5%，年增6.5%，為2022年11月以來最大的年增幅。生產端通膨壓力持續，市場因此提高對聯準會進一步升息的關注。"},
+      "ja": {"title": "米10月PPI、前年比6.5%上昇で2022年11月以来の大きさ", "summary": "米10月の生産者物価指数は前月比0.5%上昇、前年比では6.5%上昇しました。前年比の伸びは2022年11月以来の大きさで、追加利上げへの警戒が強まりました。"},
+      "en": {"title": "October PPI up 6.5% year over year, largest since Nov. 2022", "summary": "US producer prices rose 0.5% month over month and 6.5% year over year in October, the largest annual increase since November 2022. The data kept attention on the possibility of further Fed tightening."}
+    },
+    {
+      "sources": [
+        {"name": "Vista Global", "url": "https://vistapglobal.com/u-s-stock-market-today-november-18-2026-dow-falls-561-points-nasdaq-rises-ahead-of-anthropic-ipo-ant-eprx-googl-modd-nvda-ser-tgt/"}
+      ],
+      "zh": {"title": "美國新屋開工增9.9%，建照核發減7.4%", "summary": "美國新屋開工年化率增加9.9%至130.9萬戶；建築許可年化率減少7.4%至129.5萬戶，其中獨棟住宅許可減少8.7%至77.2萬戶。報導指出，開工數據的變化在誤差範圍內。"},
+      "ja": {"title": "米住宅着工は9.9%増、建築許可は7.4%減", "summary": "米の住宅着工件数は年率で9.9%増の130.9万戸となりました。建築許可件数は7.4%減の129.5万戸で、うち戸建ては8.7%減の77.2万戸でした。報道によると、着工の増加は誤差の範囲内とされています。"},
+      "en": {"title": "US housing starts up 9.9%; permits down 7.4%", "summary": "Housing starts rose 9.9% to a 1.309 million annual rate, though the report said the change was within the margin of error. Building permits fell 7.4% to 1.295 million, and single-family permits fell 8.7% to 772,000."}
+    },
+    {
+      "sources": [
+        {"name": "NewsOnJapan", "url": "https://newsonjapan.com/article/151414.php"}
+      ],
+      "zh": {"title": "日經平均11月17日下跌1.34%，收在58,860點", "summary": "11月17日東京股市，日經225指數收在58,860.43點，下跌801.59點（-1.34%）；TOPIX下跌1.57%，收在3,840.02點。報導指AI投資疑慮、美國半導體出口限制收緊，以及日本經濟疲弱是主要壓力，愛德萬測試是拖累最大的個股。"},
+      "ja": {"title": "日経平均、11月17日は1.34%安の58,860円で引け", "summary": "11月17日の東京市場で日経平均は801.59円（1.34%）安の58,860.43円で引けました。TOPIXは1.57%安の3,840.02でした。AI投資への懸念、米国の半導体輸出規制強化、日本経済の弱さが重しとなり、アドバンテストが最大の下押し要因となりました。"},
+      "en": {"title": "Nikkei falls 1.34% to 58,860 on Nov. 17", "summary": "The Nikkei 225 closed at 58,860.43 on Nov. 17, down 801.59 points (-1.34%), while TOPIX fell 1.57% to 3,840.02. Cited causes were AI investment concerns, tighter US semiconductor export restrictions and Japan's weak growth, with Advantest the largest drag."}
+    },
+    {
+      "sources": [
+        {"name": "NewsOnJapan", "url": "https://newsonjapan.com/article/151432.php"}
+      ],
+      "zh": {"title": "日經平均11月18日反彈0.28%，收在59,024點", "summary": "日經平均11月18日收在59,024.28點，上漲163.85點（+0.28%）。報導指出，早盤受輝達帶動的上漲後來漲幅收窄。此為該報導側邊欄的數據，尚未與交易所正式數據逐一核對。"},
+      "ja": {"title": "日経平均、11月18日は0.28%高の59,024円", "summary": "11月18日の日経平均は163.85円（0.28%）高の59,024.28円で引けました。報道によると、エヌビディア主導の早朝の上昇は後に縮小しました。この数値は同記事の関連欄に掲載されたもので、取引所の公式データとは照合していません。"},
+      "en": {"title": "Nikkei rebounds 0.28% to 59,024 on Nov. 18", "summary": "The Nikkei 225 closed at 59,024.28 on Nov. 18, up 163.85 points (+0.28%), after an early Nvidia-driven rally faded. This figure is taken from a sidebar on the cited article and has not been checked against exchange data."}
+    },
+    {
+      "sources": [
+        {"name": "NewsOnJapan", "url": "https://newsonjapan.com/article/151414.php"}
+      ],
+      "zh": {"title": "日本第三季GDP初值年化負0.1%，為連續四季來首次下滑", "summary": "日本政府公布第三季GDP初值，年化減少0.1%，是連續四季增長後的首次下滑。民間消費減少0.3%（季增），企業設備投資增加1.6%。"},
+      "ja": {"title": "日本の7〜9月期GDP速報は年率0.1%減、4四半期ぶりのマイナス", "summary": "日本の7〜9月期GDP速報値は年率0.1%減となり、4四半期ぶりのマイナスとなりました。個人消費は前期比0.3%減、設備投資は1.6%増でした。"},
+      "en": {"title": "Japan Q3 GDP contracts 0.1% annualized, first drop in four quarters", "summary": "Japan's preliminary third-quarter GDP fell 0.1% annualized, the first decline after four quarters of growth. Private consumption fell 0.3% quarter over quarter, while business investment rose 1.6%."}
+    },
+    {
+      "sources": [
+        {"name": "NewsOnJapan", "url": "https://newsonjapan.com/article/151432.php"}
+      ],
+      "zh": {"title": "日本10月貿易逆差4,765億日圓，連續六個月赤字", "summary": "財務省公布，日本10月貿易逆差為4,765億日圓，為連續第六個月赤字。出口年增20.5%至11.77兆日圓，進口年增21.6%至12.25兆日圓，報導歸因於中東局勢推升原油價格。"},
+      "ja": {"title": "10月の貿易赤字は4,765億円、6カ月連続の赤字", "summary": "財務省の発表によると、10月の貿易収支は4,765億円の赤字で、6カ月連続の赤字となりました。輸出は前年比20.5%増の11.77兆円、輸入は21.6%増の12.25兆円でした。中東情勢による原油高が背景とされています。"},
+      "en": {"title": "Japan's October trade deficit: 476.5 billion yen, sixth straight month", "summary": "Japan posted a 476.5 billion yen trade deficit in October, its sixth consecutive monthly deficit. Exports rose 20.5% and imports rose 21.6% year over year, with high crude prices tied to Middle East instability cited as a driver."}
+    },
+    {
+      "sources": [
+        {"name": "NewsOnJapan", "url": "https://newsonjapan.com/article/151414.php"}
+      ],
+      "zh": {"title": "日圓兌美元接近159，日本10年期公債殖利率約2.88%", "summary": "11月17日下午3點，東京外匯市場美元兌日圓約為159.12，前一日約為159.52。日本10年期公債殖利率約為2.88%至2.89%，11月9日約為2.67%。"},
+      "ja": {"title": "円相場は1ドル159円前後、日本の10年債利回りは約2.88%", "summary": "11月17日午後3時の東京市場でドル円は約159.12円で、前日の約159.52円から推移しました。日本の10年債利回りは約2.88〜2.89%で、11月9日の約2.67%から上昇しています。"},
+      "en": {"title": "Yen near 159 per dollar; JGB 10-year yield about 2.88%", "summary": "At 3 p.m. Tokyo time on Nov. 17, the dollar traded near 159.12 yen, versus about 159.52 the prior day. The 10-year JGB yield was about 2.88%-2.89%, up from about 2.67% on Nov. 9."}
+    }
+  ]
+}
