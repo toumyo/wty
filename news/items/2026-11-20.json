@@ -1,0 +1,325 @@
+{
+  "date": "2026-11-20",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "LA NACION (News Services / AFP)",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數齊跌，標普500連跌六日",
+        "summary": "11月19日（週四）標普500指數下跌2%，收於7,175.83點，為連續第六個交易日下跌，也是2024年以來最長的連跌。報導指出，AI股增長前景引發的信心動搖是主因，標普500成分股中逾九成下跌。標普500已較上月創下的紀錄高點下跌8.2%。"
+      },
+      "ja": {
+        "title": "米株式市場は大幅安、S&P500は6日続落",
+        "summary": "11月19日のS&P500は2%安の7,175.83で、6営業日連続の下落となり、2024年以降で最長の連続安です。AI関連株の成長期待の後退が背景とされ、構成銘柄の9割超が下落しました。先月の最高値からは8.2%下回っています。"
+      },
+      "en": {
+        "title": "US stocks slide as S&P 500 extends losing streak to six days",
+        "summary": "The S&P 500 fell 2% to 7,175.83 on November 19, its sixth straight loss and longest since 2024, with more than 90% of index members declining. AFP reported the sell-off came as investor confidence in AI growth waned, leaving the index 8.2% below its record set last month."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "LA NACION (News Services / AFP)",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/"
+        }
+      ],
+      "zh": {
+        "title": "道指跌逾1,100點，納指跌2.3%",
+        "summary": "道瓊工業指數下跌1,101.11點（2.2%）至49,097.06點，納斯達克綜合指數下跌2.3%至23,879.20點，羅素2000指數下跌2.2%。本週道指累計下跌6.2%，納指累計下跌5%。"
+      },
+      "ja": {
+        "title": "ダウは1,100ドル超安、ナスダックは2.3%安",
+        "summary": "ダウ工業株30種平均は1,101.11ドル（2.2%）安の49,097.06ドルで引けました。ナスダック総合指数は2.3%安の23,879.20、ラッセル2000は2.2%安でした。今週はダウが6.2%、ナスダックが5%下落しています。"
+      },
+      "en": {
+        "title": "Dow falls over 1,100 points; Nasdaq drops 2.3%",
+        "summary": "The Dow Jones Industrial Average fell 1,101.11 points (2.2%) to 49,097.06 and the Nasdaq Composite lost 2.3% to 23,879.20 on November 19. For the week, the Dow is down 6.2% and the Nasdaq 5%."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/anthropic-ipo-live-ant-first-trading-day-2026"
+        },
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190D20Z11C26A1000000/"
+        }
+      ],
+      "zh": {
+        "title": "Anthropic 以 ANT 代碼在納斯達克掛牌，首日收盤較發行價高17%",
+        "summary": "Anthropic 股票於11月19日在納斯達克以 ANT 代碼開始交易，首筆成交價為111.50美元，較83美元的發行價高34.3%。當日收盤報97.17美元，較發行價高17.1%。此次IPO發行9.8億股，總額約813億美元。"
+      },
+      "ja": {
+        "title": "アンソロピック、ナスダックに上場 初日終値は公開価格比17%高",
+        "summary": "AI開発のアンソロピック（ティッカーはANT）が11月19日にナスダックで取引を開始しました。初値は111.50ドルで、公開価格83ドルを34.3%上回りました。終値は97.17ドルで、公開価格比17.1%高です。IPOでは9億8,000万株が発行されました。"
+      },
+      "en": {
+        "title": "Anthropic debuts on Nasdaq as ANT, closes first day 17% above IPO price",
+        "summary": "Anthropic began trading on Nasdaq under the ticker ANT on November 19, opening at $111.50 against an $83 IPO price, and closed at $97.17. The IPO sold 980 million Class A shares, raising about $81.34 billion, according to the final prospectus cited by Stock Titan."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Constellation Research",
+          "url": "https://www.constellationr.com/insights/news/nvidia-posts-strong-q3-ups-q4-fiscal-2028-outlook-amid-huang-resignation"
+        }
+      ],
+      "zh": {
+        "title": "輝達第三季營收同比增長103%，黃仁勳辭任後仍上調展望",
+        "summary": "輝達公布第三季營收1,158億美元，同比增長103%，數據中心營收為1,076億美元。公司預估第四季營收約1,300億美元，並將股票回購額度增加1,500億美元。黃仁勳已辭去執行長職務，董事會表示不打算讓其復任，由臨時執行長 Colette Kress 領導公司。"
+      },
+      "ja": {
+        "title": "エヌビディア、第3四半期売上高は前年比103%増 フアン氏退任後も見通し引き上げ",
+        "summary": "エヌビディアの第3四半期売上高は1,158億ドルで前年比103%増、データセンター売上高は1,076億ドルでした。第4四半期は約1,300億ドルを見込み、自社株買いに1,500億ドルを追加しました。ジェンスン・フアン氏はCEOを退任し、取締役会は復帰させない方針を示しています。"
+      },
+      "en": {
+        "title": "Nvidia Q3 revenue up 103% and outlook raised after Huang's exit",
+        "summary": "Nvidia reported third-quarter revenue of $115.8 billion, up 103% from a year earlier, with data center revenue of $107.6 billion. It guided fourth-quarter revenue to about $130 billion and added $150 billion to its buyback, while interim CEO Colette Kress leads the company after Jensen Huang's resignation; the board said it does not intend to reinstate him."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/united-states/government-bond-yield/news/594660"
+        }
+      ],
+      "zh": {
+        "title": "美國10年期公債殖利率徘徊在5%附近，市場評估聯準會偏鷹立場",
+        "summary": "11月19日美國10年期公債殖利率約在5.05%至5.07%之間，在數個交易日回落後仍接近5%。市場正評估最新FOMC會議紀要及聯準會官員言論所指向的更偏鷹派立場，中東緊張局勢也推動資金流向避險資產。"
+      },
+      "ja": {
+        "title": "米10年債利回りは5%前後で推移、FRBのタカ派姿勢を意識",
+        "summary": "11月19日の米10年国債利回りは5.05〜5.07%程度で推移しました。直近のFOMC議事要旨やFRB当局者の発言を受け、より強硬な金融政策の見通しが意識されています。中東情勢をめぐる緊張から、安全資産への需要も見られました。"
+      },
+      "en": {
+        "title": "US 10-year yield holds near 5% as markets weigh a more hawkish Fed",
+        "summary": "The 10-year Treasury yield traded around 5.05% to 5.07% on November 19, staying close to 5% after several sessions of decline. Traders are weighing a more hawkish Federal Reserve stance signaled by the latest FOMC minutes and official comments, while Middle East tensions have supported demand for safe havens."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "TheStreet Pro",
+          "url": "https://pro.thestreet.com/stock-market-today/2026-11-19"
+        }
+      ],
+      "zh": {
+        "title": "銀行股跌幅較大，美國銀行較8月高點下跌逾24%",
+        "summary": "TheStreet Pro 報導，截至11月18日（週三）收盤，美國銀行（BAC）較8月12日高點下跌24.5%，摩根大通（JPM）下跌11%。該文指出，銀行股走弱可能是市場的謹慎訊號，但歷史上並非可靠的賣出信號。"
+      },
+      "ja": {
+        "title": "銀行株の下げが目立つ、バンク・オブ・アメリカは8月高値から24%超安",
+        "summary": "TheStreet Proによると、11月18日終値時点でバンク・オブ・アメリカは8月12日の高値から24.5%下落、JPモルガンは11%下落していました。同記事は、銀行株の弱さは市場への警戒サインとしつつ、確実な売りシグナルではないとしています。"
+      },
+      "en": {
+        "title": "Bank stocks lag; Bank of America down over 24% from August high",
+        "summary": "As of the November 18 close, Bank of America was 24.5% below its August 12 high and JPMorgan was down 11%, TheStreet Pro reported. The publication described the weakness in bank stocks as a caution sign, though not a reliable sell signal on its own."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190D20Z11C26A1000000/"
+        },
+        {
+          "name": "財経新聞（フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20261119/878428.html"
+        }
+      ],
+      "zh": {
+        "title": "日經平均上漲0.71%，收於59,444.21點",
+        "summary": "東京股市11月19日日經平均收於59,444.21點，較前日上漲419.93點（0.71%），盤中一度上漲逾600點。市場認為美國AI公司Anthropic的IPO公開價高於區間上限，帶動AI與半導體相關股買盤。日經平均在6萬點附近遇到阻力。"
+      },
+      "ja": {
+        "title": "日経平均は419円高、終値5万9,444円21銭",
+        "summary": "日経平均株価は前日比419.93円（0.71%）高の59,444.21円で大引けました。上げ幅は一時600円を超えました。米AI企業アンソロピックの公開価格が仮条件の上限を上回ったことで、AI・半導体関連株に買いが入りました。"
+      },
+      "en": {
+        "title": "Nikkei 225 gains 0.71% to close at 59,444.21",
+        "summary": "Japan's Nikkei 225 rose 419.93 points (0.71%) to close at 59,444.21 on November 19, after rising more than 600 points intraday at its peak. Traders said strong demand for Anthropic's IPO, priced above its range, supported AI and semiconductor shares."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "OANDA Lab（DZH Financial Research）",
+          "url": "https://www.oanda.jp/lab-education/market_news/mn_1044845_202611191753/"
+        },
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190D20Z11C26A1000000/"
+        }
+      ],
+      "zh": {
+        "title": "TOPIX連續四日下跌，下跌銘柄多於上漲銘柄",
+        "summary": "TOPIX 11月19日下跌1.53點（0.04%），收於3,822.47點，為連續第四個交易日下跌。東證Prime市場897檔股票下跌、599檔上漲，成交值概算約7兆7,190億日圓。"
+      },
+      "ja": {
+        "title": "TOPIXは4日続落、東証プライムは値下がり銘柄が多数",
+        "summary": "TOPIXは1.53ポイント（0.04%）安の3,822.47で引け、4営業日続落しました。東証プライムは値下がり897銘柄、値上がり599銘柄で、売買代金は概算7兆7,190億円でした。"
+      },
+      "en": {
+        "title": "TOPIX posts fourth straight loss as decliners outnumber gainers",
+        "summary": "The TOPIX index slipped 1.53 points (0.04%) to 3,822.47 on November 19, its fourth consecutive decline. On the Tokyo Prime market, 897 stocks fell and 599 rose, with trading value estimated at ¥7.719 trillion."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "OANDA Lab（DZH Financial Research）",
+          "url": "https://www.oanda.jp/lab-education/market_news/mn_1044845_202611191753/"
+        }
+      ],
+      "zh": {
+        "title": "軟銀集團、東京電子等權重股買盤推動日經平均走高",
+        "summary": "11月19日後場軟銀集團上漲幅度擴大，迅銷、東京電子等對日經平均影響較大的個股獲得買盤。MRT因宣布導入股東優待而漲停，東海碳素則因證券公司下調目標股價而大幅下跌。"
+      },
+      "ja": {
+        "title": "ソフトバンクG・東エレクなど主力株が上昇、MRTはストップ高",
+        "summary": "後場にソフトバンクグループが上げ幅を広げ、ファーストリテイリングや東京エレクトロンなど日経平均への寄与度が大きい銘柄に買いが入りました。株主優待の導入を発表したMRTはストップ高、東海カーボンは目標株価の引き下げを受けて大幅安となりました。"
+      },
+      "en": {
+        "title": "SoftBank Group and Tokyo Electron lead large-cap gains; MRT hits limit up",
+        "summary": "SoftBank Group extended its gains in the afternoon session, while Fast Retailing and Tokyo Electron drew buying as heavyweights in the Nikkei 225. MRT surged to its daily limit after announcing a shareholder benefit program, while Tokai Carbon fell sharply after a brokerage cut its target price."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190D20Z11C26A1000000/"
+        }
+      ],
+      "zh": {
+        "title": "紐約外匯市場日圓走弱，美元兌日圓在159.65至159.75附近",
+        "summary": "11月19日紐約外匯市場日圓走弱，美元兌日圓報159.65至159.75日圓。日經新聞報導指出，市場對美國追加升息的預期是美元走強的背景。"
+      },
+      "ja": {
+        "title": "NY外為市場で円安、ドル円は159円65〜75銭",
+        "summary": "11月19日のニューヨーク外為市場で円相場は弱含み、1ドル=159円65〜75銭となりました。日本経済新聞は、米国の追加利上げ観測が背景にあると伝えています。"
+      },
+      "en": {
+        "title": "Yen weakens in New York; dollar near 159.7 yen on US hike bets",
+        "summary": "The yen slipped in New York trading on November 19, with the dollar at 159.65 to 159.75 yen, as expectations of further US rate hikes supported the greenback, Nikkei reported."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "日本経済新聞",
+          "url": "https://www.nikkei.com/article/DGXZQOFL190D20Z11C26A1000000/"
+        }
+      ],
+      "zh": {
+        "title": "植田總裁：暫無加快出售ETF的計畫",
+        "summary": "日本銀行總裁植田和男11月19日在參議院財政金融委員會上表示，目前並未考慮進一步加快出售所持ETF的速度。市場人士認為這一表態帶來一定的買盤安心感。"
+      },
+      "ja": {
+        "title": "植田総裁、ETF売却の加速は「検討していない」",
+        "summary": "日本銀行の植田和男総裁は11月19日、参議院財政金融委員会で、保有ETFの売却ペースを一段と速める可能性について「さらなる売却加速は検討していない」と述べました。"
+      },
+      "en": {
+        "title": "BOJ Governor Ueda says no plans to speed up ETF sales",
+        "summary": "Bank of Japan Governor Kazuo Ueda told the House of Councillors Committee on Finance and Monetary Affairs on November 19 that the bank is not considering accelerating its ETF sales. Market participants said the remark eased some concerns."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Outlook India",
+          "url": "https://www.outlookindia.com/international/china-xi-trump-putin-trilateral-summit-shenzhen-apec-nuclear-arms-iran-ukraine"
+        },
+        {
+          "name": "Newsquawk",
+          "url": "https://www.newsquawk.com/headlines/primer-trump-xi-putin-trilateral-in-shenzhen-nuclear-arms-control-in-focus-but-officials-downplay-a-deal-iran-and-ukraine-updates-unlikely"
+        }
+      ],
+      "zh": {
+        "title": "習近平、川普與普亭在深圳APEC舉行首次三方會晤",
+        "summary": "中國確認，習近平、川普與普亭將於11月19日在深圳APEC峰會期間舉行首次三方會晤。報導指出，議題包括核武器管制、伊朗與烏克蘭局勢，但官員淡化了達成具體協議的可能性。"
+      },
+      "ja": {
+        "title": "習主席・トランプ大統領・プーチン大統領、APEC深圳で初の3者会談",
+        "summary": "中国は、習近平国家主席、トランプ米大統領、プーチン露大統領が11月19日、APEC首脳会議に合わせて初の3者会談を行うと発表しました。核軍縮、イラン、ウクライナが議題とされる一方、当局者は具体的な合意の可能性を低く見ているとされています。"
+      },
+      "en": {
+        "title": "Xi, Trump and Putin to hold first trilateral summit at APEC in Shenzhen",
+        "summary": "China confirmed that Xi Jinping, Donald Trump and Vladimir Putin would hold their first three-way meeting on November 19 on the sidelines of the APEC summit in Shenzhen. Reported agenda items include nuclear arms control, Iran and Ukraine, though officials downplayed the chance of a concrete deal."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/crude-oil/news"
+        }
+      ],
+      "zh": {
+        "title": "原油小幅上漲，WTI約83.8美元",
+        "summary": "TradingEconomics 報價顯示，11月19日WTI原油報每桶83.77美元，上漲0.62%；布蘭特原油報92.42美元，上漲0.51%。"
+      },
+      "ja": {
+        "title": "原油は小幅高、WTIは83ドル台",
+        "summary": "トレーディングエコノミックスの表示では、11月19日のWTI原油は1バレル83.77ドル（0.62%高）、ブレント原油は92.42ドル（0.51%高）でした。"
+      },
+      "en": {
+        "title": "Oil edges higher; WTI near $83.8, Brent near $92.4",
+        "summary": "Trading Economics quotes showed WTI crude at $83.77 a barrel (up 0.62%) and Brent at $92.42 (up 0.51%) on November 19."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Trading Economics",
+          "url": "https://tradingeconomics.com/commodity/gold/news"
+        }
+      ],
+      "zh": {
+        "title": "黃金下跌約2.6%，報約3,629美元",
+        "summary": "TradingEconomics 數據顯示，11月19日現貨黃金下跌2.58%，報3,629.40美元；白銀下跌4.26%，報43.11美元。"
+      },
+      "ja": {
+        "title": "金は2.6%安の3,629ドル台、銀は4.3%安",
+        "summary": "トレーディングエコノミックスによると、11月19日の金価格は2.58%安の3,629.40ドル、銀は4.26%安の43.11ドルでした。"
+      },
+      "en": {
+        "title": "Gold falls 2.6% to about $3,629; silver drops 4.3%",
+        "summary": "Gold slid 2.58% to $3,629.40 and silver fell 4.26% to $43.11 on November 19, according to Trading Economics."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Cyprus Mail",
+          "url": "https://cyprus-mail.com/2026/10/29/ecb-holds-interest-rates-steady-as-energy-shock-threatens-inflation-and-growth"
+        },
+        {
+          "name": "Il Foglio",
+          "url": "https://www.ilfoglio.it/en/economy/2026/10/30/news/the-ecb-leaves-interest-rates-unchanged-but-inflation-is-bringing-another-rate-hike-closer-lagarde-and-the-elysee--412141"
+        }
+      ],
+      "zh": {
+        "title": "歐洲央行10月維持利率不變，能源衝擊威脅通膨與成長",
+        "summary": "歐洲央行於2026年10月29日維持利率不變，報導指出能源價格衝擊同時威脅通膨與經濟成長。意大利媒體 Il Foglio 報導稱，通膨正使再次升息更加接近。"
+      },
+      "ja": {
+        "title": "ECB、10月29日に金利据え置き エネルギーショックがインフレと成長を圧迫",
+        "summary": "欧州中央銀行（ECB）は2026年10月29日に政策金利を据え置きました。報道によると、エネルギー価格の急騰がインフレと景気の双方にリスクをもたらしており、イタリアのIl Foglioは追加利上げが近づいていると伝えています。"
+      },
+      "en": {
+        "title": "ECB holds rates on October 29 as energy shock threatens inflation and growth",
+        "summary": "The ECB left policy rates unchanged on October 29, 2026, as an energy price shock threatened both inflation and growth. Il Foglio reported that inflation was bringing another rate hike closer."
+      }
+    }
+  ]
+}
