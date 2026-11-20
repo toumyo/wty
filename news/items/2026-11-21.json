@@ -1,0 +1,313 @@
+{
+  "date": "2026-11-21",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "AP（via LA Nación）",
+          "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/"
+        }
+      ],
+      "zh": {
+        "title": "美股三大指數重挫，標普500跌3.7%、進入修正區間",
+        "summary": "11月20日（週五）AI股遭大舉拋售，標普500指數下跌265.44點，收於6,910.39點，單日跌3.7%，週跌幅達8.6%，為18個月來最差的一週。納斯達克綜合指數下跌5.3%至22,617.73點，道瓊斯工業指數下跌1.9%至48,147.33點。標普500較10月6日的歷史高點已下跌逾10%，正式進入修正區間。"
+      },
+      "ja": {
+        "title": "米主要株価指数が大幅安、S&P500は調整局面入り",
+        "summary": "11月20日（金）、AI関連株の大規模な売りを受け、S&P500は265.44ポイント（3.7％）安の6,910.39で終了しました。週間では8.6％安で、18カ月超で最悪の週間下落です。ナスダック総合は5.3％安、ダウは1.9％安でした。S&P500は10月6日の史上最高値から10％以上下落し、調整局面入りしています。"
+      },
+      "en": {
+        "title": "US stocks plunge as AI selloff pushes S&P 500 into correction",
+        "summary": "On Friday, November 20, a steep sell-off in AI shares sent the S&P 500 down 3.7% to 6,910.39, its worst week in more than 18 months (down 8.6% for the week). The Nasdaq Composite fell 5.3% to 22,617.73 and the Dow lost 1.9% to 48,147.33. The S&P 500 is now more than 10% below its October 6 record, meaning it has entered a correction."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fortune",
+          "url": "https://fortune.com/2026/11/18/anthropic-prices-ipo-83-per-share-1-5-trillion/"
+        },
+        {
+          "name": "PayPay証券 マーケット情報",
+          "url": "https://media.paypay-sec.co.jp/cat2/mj261120"
+        }
+      ],
+      "zh": {
+        "title": "Anthropic以每股83美元定價上市，首日高開後股價迅速回落",
+        "summary": "Anthropic於11月18日以每股83美元定價IPO，高於原定70至78美元的區間，估值約1.5兆美元，股票於11月19日在納斯達克以代號ANT掛牌。首日初價為111.5美元，收盤97.17美元。到11月20日，股價報道已跌至僅高於發行價5美分，市場對AI股估值的疑慮加劇。"
+      },
+      "ja": {
+        "title": "Anthropic、1株83ドルで上場　初日は高寄り後に失速",
+        "summary": "AnthropicのIPOは11月18日に1株83ドルで決定し、当初想定の70〜78ドルを上回りました。評価額は約1.5兆ドルです。19日にナスダックで「ANT」として取引が始まり、初値は111.5ドル、終値は97.17ドルでした。20日には株価が発行価格からわずか5セント上の水準まで下落したと報じられています。"
+      },
+      "en": {
+        "title": "Anthropic prices IPO at $83, then fades toward offer price",
+        "summary": "Anthropic priced its IPO at $83 per share on November 18, above its initial $70–$78 range, valuing the company at about $1.5 trillion. Shares began trading on Nasdaq as ANT on November 19, opening at $111.5 and closing at $97.17. By November 20, Fortune reported the stock had slipped to just 5 cents above its IPO price."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "InvestmentNews",
+          "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054"
+        }
+      ],
+      "zh": {
+        "title": "輝達CEO黃仁勳辭職，美國SEC展開調查",
+        "summary": "《華爾街日報》報道，美國證券交易委員會（SEC）已就輝達的財務披露展開民事調查，焦點包括其在東南亞與中國的晶片交易。黃仁勳因多段婚外關係辭去執行長職務，輝達股價自其離任後下跌逾10%。加州司法部長也表示，其辦公室正在評估相關情況。"
+      },
+      "ja": {
+        "title": "エヌビディアのフアン氏が辞任、米SECが情報開示を調査",
+        "summary": "ウォール・ストリート・ジャーナルによると、米証券取引委員会（SEC）はエヌビディアの情報開示について民事調査を開始しました。焦点は東南アジアや中国向けの半導体取引です。ジェンスン・フアン氏は複数の不倫関係を理由にCEOを辞任し、株価は同氏の離任以降10％以上下落しています。カリフォルニア州司法長官も状況を検討中と述べています。"
+      },
+      "en": {
+        "title": "Nvidia faces SEC probe after CEO Jensen Huang resigns",
+        "summary": "The Wall Street Journal reported the SEC has opened a civil investigation into whether Nvidia's disclosures misled investors, including questions around chip sales in Southeast Asia and China. Huang resigned as CEO over multiple extramarital relationships, and Nvidia shares have fallen more than 10% since his exit. California's attorney general says his office is assessing the matter."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "InvestmentNews",
+          "url": "https://www.investmentnews.com/equities/embattled-nvidia-faces-sec-probe-as-california-attorney-general-mulls-action/269054"
+        }
+      ],
+      "zh": {
+        "title": "輝達上調營收展望，預期2028財年營收增約75%",
+        "summary": "輝達於11月17日公布季度財報後，代理執行長Colette Kress表示，預計截至2028財年的營收將年增約75%，高於8月給出的70%預測。儘管管理層更替帶來壓力，股價在財報後盤後交易中回升至160美元附近。"
+      },
+      "ja": {
+        "title": "エヌビディア、2028会計年度の売上成長率見通しを約75%に上方修正",
+        "summary": "エヌビディアは11月17日の決算後、暫定CEOのコリン・クレス氏が、2028会計年度の売上高は前年比約75%増になるとの見通しを示したと説明しました。8月時点の70%予想から上方修正されています。株価は決算後の時間外取引で160ドル付近まで持ち直しました。"
+      },
+      "en": {
+        "title": "Nvidia lifts revenue outlook to about 75% growth for fiscal 2028",
+        "summary": "Interim CEO Colette Kress told analysts after Nvidia's November 17 earnings that revenue for the fiscal year ending 2028 should grow roughly 75% year over year, up from the 70% forecast given in August. Shares recovered to around $160 in after-hours trading, though leadership uncertainty continued to weigh on the stock."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "World Gold Council",
+          "url": "https://www.gold.org/goldhub/gold-focus/2026/11/weekly-markets-monitor-waller-dollar"
+        },
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en-gb/news-and-analysis/gold-eur-usd-hit-2026-lows-as-us-yields-erupt-2026-11-12-22-56/"
+        }
+      ],
+      "zh": {
+        "title": "美國通膨超預期，市場押注12月升息",
+        "summary": "美國CPI環比上升0.4%，高於預期的0.3%。聯準會理事沃勒（Waller）提及12月可能加息50個基點。截至11月12日，聯邦基金期貨定價顯示12月約加息29個基點，而加息50個基點的機率約為16%。世界黃金協會指出，此消息推動美元指數顯著走強。"
+      },
+      "ja": {
+        "title": "米CPIが予想を上振れ、12月利上げ観測が強まる",
+        "summary": "米消費者物価指数（CPI）は前月比0.4％上昇し、市場予想の0.3％を上回りました。ウォラーFRB理事は12月に50ベーシスポイントの利上げの可能性に言及しています。11月12日時点で、フェデラルファンド先物は12月に約29ベーシスポイントの引き締めを織り込み、50ベーシスポイント利上げの確率は約16％と見られていました。"
+      },
+      "en": {
+        "title": "Hot US inflation and hawkish Fed talk lift December hike bets",
+        "summary": "US CPI rose 0.4% month on month, above the 0.3% expected, and Fed Governor Waller raised the prospect of a 50-basis-point hike in December. As of November 12, fed funds futures were pricing about 29 basis points of tightening by December, with roughly a 16% probability assigned to a 50bp move, according to StoneX."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en-gb/news-and-analysis/gold-eur-usd-hit-2026-lows-as-us-yields-erupt-2026-11-12-22-56/"
+        }
+      ],
+      "zh": {
+        "title": "美債殖利率短期急升，美元升至2025年4月以來高位",
+        "summary": "截至11月12日的四個交易日內，美國2年期國債殖利率上升約36個基點，是近25年來少見的快速上升。美元升至自2025年4月關稅公布以來的最高水準，歐元兌美元跌破1.1065，創下2026年新低。"
+      },
+      "ja": {
+        "title": "米2年債利回りが急騰、ドルは2025年4月以来の高水準",
+        "summary": "11月12日までの4営業日で米2年債利回りは約36ベーシスポイント上昇し、2000年以降ではほとんど見られない急騰となりました。ドルは2025年4月の関税発表以来の水準まで上昇し、ユーロドルは2026年の安値を更新しました。"
+      },
+      "en": {
+        "title": "US two-year yields jump, lifting dollar to highest since April 2025",
+        "summary": "Two-year Treasury yields rose about 36 basis points over four sessions to November 12, one of the sharpest front-end moves in decades. The dollar climbed to levels last seen with April 2025's tariff announcement, while EUR/USD broke below 1.1065 to hit 2026 lows."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "StoneX",
+          "url": "https://www.stonex.com/en-gb/news-and-analysis/gold-eur-usd-hit-2026-lows-as-us-yields-erupt-2026-11-12-22-56/"
+        }
+      ],
+      "zh": {
+        "title": "黃金急跌並創2026年新低，跌幅遠超歷史同類情境",
+        "summary": "黃金在截至11月12日的四個交易日內下跌4.74%，遠超以往美債殖利率急升時的平均跌幅（約1.26%）。金價一度跌破2026年前低3,870.24美元，之後重新站回該水準，市場關注其能否守住。"
+      },
+      "ja": {
+        "title": "金が急落し2026年安値圏へ、金利急騰局面での下げ幅は異例",
+        "summary": "金価格は11月12日までの4営業日で4.74％下落しました。米2年債利回りが急上昇した過去の局面での平均下落幅（約1.26％）を大きく上回ります。一時は2026年の安値（3,870.24ドル）を割り込み、その後は同水準を回復しています。"
+      },
+      "en": {
+        "title": "Gold slides toward 2026 lows in a sharper-than-usual rate-shock sell-off",
+        "summary": "Gold fell 4.74% over the four sessions to November 12, far more than the roughly 1.26% typically seen during comparable spikes in two-year yields. Prices briefly traded below the 2026 low of $3,870.24 before recovering above it."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "PayPay証券 マーケット情報",
+          "url": "https://media.paypay-sec.co.jp/cat2/mj261120"
+        }
+      ],
+      "zh": {
+        "title": "日經平均暴跌5.06%，收於56,436.65點，為歷史第五大單日點數跌幅",
+        "summary": "11月20日（週五）日經平均下跌3,007.56點，收於56,436.65點，跌幅5.06%，下跌點數位列歷史第五。當日以全日最低價收盤。美國AI與半導體股大跌，加上市場對Anthropic上市後獲利了結賣壓的擔憂，是主要原因。"
+      },
+      "ja": {
+        "title": "日経平均3,007円安の56,436円で終了、下げ幅は歴代5位",
+        "summary": "11月20日の日経平均株価は前日比3,007.56円（5.06％）安の56,436.65円で終了しました。下げ幅は歴代5位で、安値引けとなりました。米国でAI・半導体株が大幅安となったことに加え、アンソロピックの新規上場後の換金売りへの警戒が波及したと伝えられています。"
+      },
+      "en": {
+        "title": "Nikkei 225 plunges 5.06% to 56,436.65 as AI and chip stocks sell off",
+        "summary": "The Nikkei 225 closed down 3,007.56 points, or 5.06%, at 56,436.65 on November 20, finishing at its session low and posting the fifth-largest point drop on record. The sell-off followed heavy losses in US AI and semiconductor stocks, with traders also wary of cash-out selling after Anthropic's listing."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "PayPay証券 マーケット情報",
+          "url": "https://media.paypay-sec.co.jp/cat2/mj261120"
+        }
+      ],
+      "zh": {
+        "title": "軟銀、愛德萬測試、鎧俠大跌，東京電子亦重挫",
+        "summary": "11月20日，軟銀集團下跌14.47%，愛德萬測試下跌10.31%，鎧俠下跌11.65%，東京電子下跌7.05%。鎧俠盤中一度跌至7,186日圓，為約7個半月來的新低。市場對AI基礎設施投資能否持續的疑慮，拖累整個相關板塊。"
+      },
+      "ja": {
+        "title": "ソフトバンクG、アドバンテスト、キオクシアが大幅安",
+        "summary": "11月20日、ソフトバンクグループが14.47％安、アドバンテストが10.31％安、キオクシアHDが11.65％安、東京エレクトロンが7.05％安となりました。キオクシアは一時7,186円と約7カ月半ぶりの安値を付けました。AIへの巨額投資が続くかどうかへの不安が関連株全体に波及しています。"
+      },
+      "en": {
+        "title": "SoftBank, Advantest and Kioxia lead Tokyo's AI-linked sell-off",
+        "summary": "On November 20, SoftBank Group fell 14.47%, Advantest dropped 10.31%, Kioxia slid 11.65% and Tokyo Electron fell 7.05%. Kioxia touched 7,186 yen, its lowest in about seven and a half months. Doubts over whether heavy AI infrastructure spending will continue weighed on related stocks."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "PayPay証券 マーケット情報",
+          "url": "https://media.paypay-sec.co.jp/cat2/mj261120"
+        }
+      ],
+      "zh": {
+        "title": "日本煙草產業因失去俄羅斯業務控制權，下修全年業績並削減股息",
+        "summary": "日本煙草產業（JT）表示，已實質失去俄羅斯業務的經營權，因此將2026年12月期的全年最終損益預估下修為7,240億日圓虧損。年度股息預估也由272日圓下調至204日圓。11月20日股價下跌10.1%。"
+      },
+      "ja": {
+        "title": "JT、ロシア事業の経営権喪失で最終赤字7,240億円に下方修正、配当も引き下げ",
+        "summary": "日本たばこ産業は、ロシア事業の経営権を事実上失ったことを受け、2026年12月期の最終損益予想を7,240億円の赤字に下方修正しました。年間配当予想も272円から204円に引き下げています。株価は11月20日に10.1％安で終えました。"
+      },
+      "en": {
+        "title": "Japan Tobacco swings to forecast loss and cuts dividend after losing Russia control",
+        "summary": "Japan Tobacco said it has effectively lost control of its Russian business and revised its full-year net loss forecast for the year ending December 2026 to ¥724 billion. It also cut its annual dividend forecast from ¥272 to ¥204. Shares fell 10.1% on November 20."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "PayPay証券 マーケット情報",
+          "url": "https://media.paypay-sec.co.jp/cat2/mj261120"
+        }
+      ],
+      "zh": {
+        "title": "東京海上上半年純利潤增7.9%，宣布最多2,800億日圓回購股份",
+        "summary": "東京海上HD公布2026年4至9月期純利潤為4,784億日圓，同比增長7.9%，並宣布最多2,800億日圓的自社股買入計畫。股價在11月20日上漲2.03%。"
+      },
+      "ja": {
+        "title": "東京海上HD、4〜9月期純利益7.9％増　最大2,800億円の自社株買いを発表",
+        "summary": "東京海上ホールディングスの2026年4〜9月期の純利益は前年同期比7.9％増の4,784億円となりました。最大2,800億円の自社株買いも発表し、株価は11月20日に2.03％高で終えています。"
+      },
+      "en": {
+        "title": "Tokyo Marine profit rises 7.9% and it announces buyback of up to ¥280 billion",
+        "summary": "Tokyo Marine Holdings reported net profit of ¥478.4 billion for April–September 2026, up 7.9% year on year, and announced share buybacks of up to ¥280 billion. Its shares rose 2.03% on November 20."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Reuters（via New Straits Times）",
+          "url": "https://www.nst.com.my/amp/business/economy/2026/11/1575983/japans-mimura-says-markets-shouldnt-forget-intervention-risks-yen"
+        }
+      ],
+      "zh": {
+        "title": "日圓逼近兌1美元160日圓，日本財務官警告留意干預風險",
+        "summary": "11月12日，美元兌日圓一度升至159.94，為兩個多月來最強。日本財務官三村淳表示，今年夏天7月底至8月初的干預仍歷歷在目，市場不應忘記，並指出近期匯率變動過於急促。日本10月進口物價指數同比上漲24.8%，為政府帶來壓力。"
+      },
+      "ja": {
+        "title": "円相場が1ドル160円に接近、三村財務官が介入への警戒を強調",
+        "summary": "11月12日、ドル円は一時159.94円と2カ月超ぶりの高値を付けました。三村財務官は「夏の介入をまだ忘れるのは早すぎる」と述べ、最近の為替変動が急激すぎると指摘しました。10月の円建て輸入物価指数は前年比24.8％上昇しています。"
+      },
+      "en": {
+        "title": "Yen nears 160 per dollar as Japan warns of intervention",
+        "summary": "The dollar hit 159.94 yen on November 12, its strongest in over two months, as expectations of Fed hikes pushed the greenback higher. Currency diplomat Atsushi Mimura said it was 'too early to forget' the summer's yen-buying interventions and that recent moves were excessively rapid. Japan's yen-based import price index rose 24.8% in October from a year earlier."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Reuters（via New Straits Times）",
+          "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580260/bank-japan-governor-says-central-bank-should-keep-raising-rates"
+        }
+      ],
+      "zh": {
+        "title": "植田和男：日銀應繼續加息，同時將通膨錨定在2%",
+        "summary": "日本銀行總裁植田和男11月18日在國會表示，在金融環境仍屬寬鬆的情況下，央行應繼續上調政策利率，並使潛在通膨穩定在2%附近。政策利率目前為1.25%，日銀10月30日會議維持不變。他也指出，計畫中的食品消費稅減免可能支撐家計購買力，但影響取決於企業定價與消費者信心。"
+      },
+      "ja": {
+        "title": "植田総裁「利上げを続けるべき」、政策金利は1.25%",
+        "summary": "植田和男日銀総裁は11月18日の国会答弁で、金融環境がなお緩和的であるとして、政策金利の引き上げを続けるべきだと述べました。政策金利は1.25％で、10月30日の会合では据え置かれています。食料品の消費税減税は家計の購買力を支える可能性があるとも指摘しました。"
+      },
+      "en": {
+        "title": "BOJ Governor Ueda says rate hikes should continue",
+        "summary": "Governor Kazuo Ueda told parliament on November 18 that the central bank should keep raising its policy rate while anchoring underlying inflation around 2%, arguing financial conditions remain accommodative. The policy rate stands at 1.25% after the BOJ held at its October 30 meeting. He also said a planned cut to the food consumption tax could support household purchasing power."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Euronews",
+          "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"
+        }
+      ],
+      "zh": {
+        "title": "歐央行維持利率2.5%，拉加德宣布提前於2027年2月卸任",
+        "summary": "歐洲央行10月29日維持存款利率在2.5%，該行今年已兩度加息。同日稍早，拉加德宣布將於2027年2月7日卸任，比任期提前約九個月。歐元區9月通膨率為3.8%，接近央行2%目標的兩倍。法國10年期國債殖利率升至約5%，債市波動被視為在一定程度上承擔了緊縮作用。"
+      },
+      "ja": {
+        "title": "ECB、政策金利2.5%で据え置き　ラガルド総裁が2027年2月に退任へ",
+        "summary": "欧州中央銀行（ECB）は10月29日、預金金利を2.5％に据え置きました。同日、ラガルド総裁が2027年2月7日に退任すると発表しています。ユーロ圏の9月インフレ率は3.8％と目標の約2倍で、フランス10年債利回りは約5％に上昇しています。"
+      },
+      "en": {
+        "title": "ECB holds at 2.5% as Lagarde announces early exit",
+        "summary": "The European Central Bank kept its deposit rate at 2.5% on October 29, the same day Christine Lagarde said she will leave on February 7, 2027, about nine months before her term ends. Eurozone inflation was 3.8% in September, nearly double the 2% target. French 10-year yields rose above 5%, with ING saying the bond-market move had done part of the ECB's tightening work."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Bloomberg（via Energy Connects）",
+          "url": "https://www.energyconnects.com/news/oil/2026/november/oil-rises-on-mixed-signals-over-iran-war-outlook/"
+        }
+      ],
+      "zh": {
+        "title": "油價在伊朗戰事前景不明下震盪，布蘭特約93美元",
+        "summary": "彭博社11月11日報道，布蘭特原油接近93美元，WTI逾86美元。兩者此前自六個月高點回落，市場期待美伊衝突緩和，但和談進展有限。沙烏地阿拉伯10月原油產量升至每日1,056萬桶，增加了市場供應。美國能源資訊署將2027年汽油零售價格預測上調至每加侖3.73美元。"
+      },
+      "ja": {
+        "title": "原油、イラン戦争の行方を巡り揺れる　ブレントは93ドル近辺",
+        "summary": "ブルームバーグが11月11日に伝えたところによると、ブレント原油は93ドル近辺、WTIは86ドル超で推移しました。両油種とも六カ月ぶりの高値から反落し、米国とイランの紛争緩和への期待が背景です。ただし交渉の進展は限定的です。サウジアラビアの10月の原油生産量は1日1,056万バレルに増え、供給を押し上げています。"
+      },
+      "en": {
+        "title": "Oil swings on uncertain Iran war outlook; Brent near $93",
+        "summary": "As of November 11, Brent was near $93 and WTI above $86, per Bloomberg, after both retreated from six-month highs on hopes the US–Iran conflict will ease, though talks have shown little progress. Saudi crude output rose to 10.56 million barrels a day in October, adding supply, and the EIA raised its 2027 retail gasoline forecast to $3.73 a gallon."
+      }
+    }
+  ]
+}
