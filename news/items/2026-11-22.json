@@ -1,0 +1,218 @@
+{
+  "date": "2026-11-22",
+  "items": [
+    {
+      "sources": [
+        {"name": "LA Nación（AP）", "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-friday-11202026-nid20112026/"},
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}
+      ],
+      "zh": {
+        "title": "美股週五重挫 標普500跌3.7%進入修正區間",
+        "summary": "人工智慧（AI）概念股遭大幅拋售，週五標普500指數下跌3.7%至6,910.39點，納斯達克綜合指數下跌5.3%至22,617.73點，道瓊斯工業平均指數下跌1.9%至48,147.33點。標普500已自10月6日歷史高點回落逾10%，進入修正區間；本週累計跌幅8.6%，為18個月來最差的一週。"
+      },
+      "ja": {
+        "title": "米株、金曜は大幅続落　S&P500は調整局面入り",
+        "summary": "AI関連株の大規模な売りを受け、金曜のS&P500種指数は3.7%安の6,910.39ポイントで引けた。ナスダック総合指数は5.3%安の22,617.73、ダウ工業株30種平均は1.9%安の48,147.33だった。S&P500は10月6日の過去最高値から10%超下落して調整局面に入り、週間では8.6%安と18カ月ぶりの大幅な下落となった。"
+      },
+      "en": {
+        "title": "US stocks slump Friday; S&P 500 enters correction",
+        "summary": "A sharp sell-off in AI shares sent the S&P 500 down 3.7% to 6,910.39 on Friday, the Nasdaq composite down 5.3% to 22,617.73 and the Dow down 1.9% to 48,147.33. The S&P 500 is now more than 10% below its October 6 record, a correction, and its 8.6% weekly loss was its worst in more than 18 months."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"},
+        {"name": "TechRepublic", "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/"},
+        {"name": "共同通信（熊本日日新聞）", "url": "https://kumanichi.com/articles/2059532"}
+      ],
+      "zh": {
+        "title": "Anthropic 納斯達克首日掛牌 募資規模創美國IPO紀錄",
+        "summary": "AI公司Anthropic週四以每股83美元定價，在納斯達克以代號ANT掛牌交易。首日開盤111.50美元，收盤97.17美元，較發行價高出約17%。據報導，本次IPO募資規模約813億美元，為美國史上最大規模的首次公開募股，超過SpaceX。當日納斯達克指數下跌2.2%。"
+      },
+      "ja": {
+        "title": "Anthropic、ナスダックに上場　米IPOで過去最大規模",
+        "summary": "AI企業Anthropicは木曜、1株83ドルで価格を決定し、ナスダックにティッカー「ANT」で上場した。初値は111.50ドル、終値は97.17ドルで、発行価格を約17%上回った。調達額は約813億ドルと報じられ、米国のIPOとして過去最大で、SpaceXを上回るという。同日、ナスダック総合指数は2.2%安だった。"
+      },
+      "en": {
+        "title": "Anthropic lists on Nasdaq in record US IPO",
+        "summary": "AI company Anthropic priced its IPO at $83 per share and began trading on Nasdaq on Thursday under the ticker ANT. It opened at $111.50 and closed at $97.17, about 17% above the offering price. Reported proceeds of about $81bn make it the largest US IPO on record, surpassing SpaceX, while the Nasdaq fell 2.2% that day."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"},
+        {"name": "TechRepublic", "url": "https://www.techrepublic.com/article/news-anthropic-ipo-nasdaq-trading-debut/"}
+      ],
+      "zh": {
+        "title": "Anthropic 招股書：前九個月淨虧損1,040億美元",
+        "summary": "Anthropic在美國證券交易委員會（SEC）的招股文件中披露，2026年前九個月淨虧損達1,040億美元。同時公布第三季營收為170億美元，去年同期為14億美元。另有260億美元的私募配售，買家包括Google、Nvidia、AMD與微軟，認購價與公開發行相同，為每股83美元。"
+      },
+      "ja": {
+        "title": "Anthropic、目論見書で2026年1〜9月の純損失1040億ドルを開示",
+        "summary": "Anthropicは米SECへの提出書類で、2026年1〜9月の純損失が1040億ドルに達したと開示した。第3四半期の売上高は170億ドルで、前年同期の14億ドルから大きく伸びた。公募とは別に260億ドルの私募配分があり、Google、Nvidia、AMD、Microsoftなどが1株83ドルで引き受けるとされる。"
+      },
+      "en": {
+        "title": "Anthropic filing shows $104bn nine-month net loss",
+        "summary": "Anthropic's SEC filing disclosed a net loss of $104bn for the first nine months of 2026, alongside third-quarter revenue of $17bn versus $1.4bn a year earlier. A separate $26bn private placement at the same $83 price is slated for buyers including Google, Nvidia, AMD and Microsoft."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Manufacturing Dive", "url": "https://www.manufacturingdive.com/news/nvidia-ceo-resigns-scandal-cfo-named-interim-ceo-ai/874515/"},
+        {"name": "共同通信（熊本日日新聞）", "url": "https://kumanichi.com/articles/2059198"}
+      ],
+      "zh": {
+        "title": "輝達CEO黃仁勳辭職 CFO出任臨時執行長 SEC展開調查",
+        "summary": "輝達（NVIDIA）於11月12日宣布，黃仁勳即日起辭去執行長、總裁及董事職務，由長期任職的財務長Colette Kress出任臨時執行長。據《華爾街日報》報導，美國證券交易委員會（SEC）正在調查輝達，焦點之一可能是其對投資人的資訊揭露是否有誤導。"
+      },
+      "ja": {
+        "title": "エヌビディアのフアンCEOが辞任　CFOが暫定CEOに、SECが調査",
+        "summary": "エヌビディアは11月12日、ジェンスン・フアン氏がCEO、社長、取締役を即日辞任し、CFOのコレット・クレス氏が暫定CEOに就任すると発表した。ウォール・ストリート・ジャーナルによると、米SECがエヌビディアを調査しており、投資家への情報開示が誤解を招いたかどうかも調べているとされる。"
+      },
+      "en": {
+        "title": "Nvidia CEO Huang resigns; CFO named interim CEO; SEC probe reported",
+        "summary": "Nvidia said on November 12 that Jensen Huang had resigned as CEO, president and board member, effective immediately, and named CFO Colette Kress interim CEO. The Wall Street Journal reported that the SEC is investigating Nvidia, possibly including whether its investor disclosures were misleading."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}
+      ],
+      "zh": {
+        "title": "日經225週五暴跌5.06% 收於56,437點 AI股領跌",
+        "summary": "東京股市週五日經225指數下跌5.06%，收於56,437點，為4月以來最低水準，週跌幅接近8%。軟銀集團下跌14.5%，Kioxia下跌11.7%，Advantest下跌10.3%，東京電子下跌7.1%，AI相關股票承受明顯壓力。"
+      },
+      "ja": {
+        "title": "日経平均、金曜は5.06%安の56,437円　AI関連株が急落",
+        "summary": "日経平均株価は金曜に5.06%安の56,437円で取引を終えた。4月以来の安値水準で、週間では約8%下落した。ソフトバンクグループが14.5%安、キオクシアが11.7%安、アドバンテストが10.3%安、東京エレクトロンが7.1%安と、AI関連株の下げが目立った。"
+      },
+      "en": {
+        "title": "Nikkei 225 plunges 5% to 56,437 as AI stocks lead losses",
+        "summary": "The Nikkei 225 fell 5.06% on Friday to close at 56,437, its lowest level since April and down nearly 8% on the week. SoftBank Group fell 14.5%, Kioxia 11.7%, Advantest 10.3% and Tokyo Electron 7.1%, with AI-related shares under heavy pressure."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}
+      ],
+      "zh": {
+        "title": "日本10月CPI升至2.3% 市場聚焦日銀12月升息",
+        "summary": "日本10月全國消費者物價指數（CPI）年增2.3%，高於9月的2.1%，為2025年11月以來最高。通膨數據強化了市場對日本銀行12月再度升息的預期；目前政策利率為1.25%。"
+      },
+      "ja": {
+        "title": "10月の全国CPIは2.3%上昇　日銀12月利上げ観測強まる",
+        "summary": "10月の全国消費者物価指数（CPI）は前年比2.3%上昇し、9月の2.1%から加速した。2025年11月以来の高水準で、日銀の12月利上げ観測が強まっている。政策金利は1.25%。"
+      },
+      "en": {
+        "title": "Japan's October CPI rises to 2.3%, boosting December BOJ hike bets",
+        "summary": "Japan's national consumer price index rose 2.3% year on year in October, up from 2.1% in September and the highest since November 2025. The data strengthened expectations of another Bank of Japan rate hike in December; the policy rate is 1.25%."
+      }
+    },
+    {
+      "sources": [
+        {"name": "New Straits Times（Reuters）", "url": "https://www.nst.com.my/amp/business/economy/2026/11/1575983/japans-mimura-says-markets-shouldnt-forget-intervention-risks-yen"}
+      ],
+      "zh": {
+        "title": "日圓逼近160兌1美元 日本財務官警告防範干預",
+        "summary": "11月12日美元兌日圓一度升至159.94，為兩個多月來的高點。日本財務官三村淳表示，現在忘記今夏的干預還為時尚早。日本在7至8月曾進行日圓買進干預，其中一次與美國聯合行動。日本10月進口物價指數年增24.8%，給政府帶來壓力。"
+      },
+      "ja": {
+        "title": "ドル円160円に接近　三村財務官「夏の介入を忘れるのは早い」",
+        "summary": "11月12日、ドル円は一時159.94円と2カ月超ぶりの高値を付けた。三村財務官は「今夏の介入を忘れるにはまだ早い」と述べ、警戒感を示した。7〜8月には米国との協調介入を含む円買い介入が行われた。10月の輸入物価指数は前年比24.8%上昇している。"
+      },
+      "en": {
+        "title": "Yen nears 160 per dollar; Japan's currency chief warns on intervention",
+        "summary": "The dollar touched 159.94 yen on November 12, its strongest in over two months. Currency chief Atsushi Mimura said it was \"too early to forget\" this summer's interventions, which included a joint action with the US. Japan's import price index rose 24.8% year on year in October."
+      }
+    },
+    {
+      "sources": [
+        {"name": "New Straits Times（Reuters）", "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580594/gold-drops-2pct-over-one-year-low-hawkish-fed-signals-boost-dollar"},
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109"}
+      ],
+      "zh": {
+        "title": "市場幾乎全面押注聯準會12月升息 美元創近19個月新高",
+        "summary": "據CME FedWatch數據，市場幾乎已全面計入聯準會12月升息25個基點（約97.8%的機率）。紐約聯儲主席威廉斯表示，聯準會可能需要再次升息；聖路易斯聯儲主席穆薩萊姆認為可能需要數次升息。美元指數逼近2025年4月以來高點，10年期美國公債殖利率維持在5%以上。"
+      },
+      "ja": {
+        "title": "FRB12月利上げがほぼ織り込み済みに　ドル指数は約19カ月ぶりの高水準",
+        "summary": "CMEのFedWatchによると、市場は12月の0.25%利上げをほぼ織り込んでおり、確率は約97.8%とされる。ニューヨーク連銀のウィリアムズ総裁は再利上げが必要になる可能性に言及し、セントルイス連銀のムサレム総裁は複数回の利上げが必要かもしれないと述べた。ドル指数は2025年4月以来の高水準にあり、米10年債利回りは5%超を維持している。"
+      },
+      "en": {
+        "title": "Markets all but price in December Fed hike; dollar near 19-month high",
+        "summary": "According to CME FedWatch, markets have almost fully priced in a 25bp Fed hike in December, at about 97.8%. New York Fed President Williams said another hike may be needed, and St. Louis Fed President Musalem said several may be required. The dollar index is near its highest since April 2025 and the 10-year Treasury yield remains above 5%."
+      }
+    },
+    {
+      "sources": [
+        {"name": "LA Nación（AP）", "url": "https://www.lanacion.com.ar/usa/how-major-us-stock-indexes-fared-thursday-11192026-nid19112026/"},
+        {"name": "RTTNews（dpa-AFX）", "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70129257-nasdaq-s-p-500-close-in-the-red-but-dow-posts-modest-gain-020.htm"}
+      ],
+      "zh": {
+        "title": "美國10月生產者物價指數年增6.5% 為2022年11月以來最快",
+        "summary": "美國勞工部公布的10月生產者物價指數（PPI）年增率升至6.5%，為2022年11月以來最快增速，月增幅則略低於預期。通膨已從能源擴散至食品與服務。11月13日，10年期美債殖利率升至5.156%。"
+      },
+      "ja": {
+        "title": "米10月の生産者物価は前年比6.5%上昇　2022年11月以来の伸び",
+        "summary": "米労働省が発表した10月の生産者物価指数（PPI）は前年比6.5%上昇し、2022年11月以来の速いペースとなった。前月比の伸びは予想をやや下回った。エネルギー以外にも物価上昇が広がっており、11月13日には米10年債利回りが5.156%まで上昇した。"
+      },
+      "en": {
+        "title": "US October producer prices up 6.5% year on year, fastest since late 2022",
+        "summary": "The US Labor Department's October producer price index rose 6.5% from a year earlier, the fastest pace since November 2022, though the monthly increase was slightly smaller than expected. Inflation is broadening beyond energy, and the 10-year Treasury yield climbed to 5.156% on November 13."
+      }
+    },
+    {
+      "sources": [
+        {"name": "New Straits Times（Reuters）", "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580594/gold-drops-2pct-over-one-year-low-hawkish-fed-signals-boost-dollar"},
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/news/gold-tumbles-to-its-lowest-in-over-a-year-as-fed-rate-hike-bets-build-202611181109"}
+      ],
+      "zh": {
+        "title": "金價跌破3,800美元 白銀、白金同步走弱",
+        "summary": "11月18日現貨黃金一度跌至每盎司3,757美元，為2025年9月以來最低，受強勢美元與聯準會升息預期拖累；金價較今年1月約5,600美元的歷史高點已跌逾30%。同日現貨白銀跌3.5%至45.75美元，白金年初至今跌逾30%。"
+      },
+      "ja": {
+        "title": "金は3,800ドル割れ　銀・プラチナも下落",
+        "summary": "11月18日、現物金は一時1オンス3,757ドルまで下落し、2025年9月以来の安値を付けた。ドル高と米利上げ観測が重しとなった。1月の史上最高値（約5,600ドル）からは30%超下落している。同日の現物銀は3.5%安の45.75ドル、プラチナは年初から30%下落した。"
+      },
+      "en": {
+        "title": "Gold falls below $3,800; silver and platinum also weaken",
+        "summary": "Spot gold fell to $3,757 an ounce on November 18, its lowest since September 2025, as a firm dollar and rising Fed hike expectations weighed. Gold is more than 30% below its January record near $5,600. On the same day spot silver fell 3.5% to $45.75, and platinum has lost about 30% so far this year."
+      }
+    },
+    {
+      "sources": [
+        {"name": "The National", "url": "https://www.thenationalnews.com/business/energy/2026/11/13/oil-on-track-to-post-second-weekly-decline-as-trump-eases-fears-of-renewed-war-with-iran/"}
+      ],
+      "zh": {
+        "title": "油價連續第二週下跌 霍爾木茲海峽油輪遇襲仍使市場波動",
+        "summary": "11月13日布蘭特原油收於每桶95.84美元，WTI收於88.56美元，兩者本週均下跌2.5%，此前一週大跌約13%。特朗普表示不急於重啟對伊朗的戰爭，但霍爾木茲海峽仍有油輪遇襲，供應風險未除。國際能源署（IEA）月報稱，原油市場將恢復供應過剩，為伊朗戰爭爆發以來首次。"
+      },
+      "ja": {
+        "title": "原油は2週連続安　ホルムズ海峡のタンカー攻撃で価格は不安定",
+        "summary": "11月13日、ブレント原油は1バレル95.84ドル、WTI原油は88.56ドルで引けた。両者とも週間で2.5%安となり、前週の約13%安に続く2週連続の下落。トランプ米大統領はイランとの戦争再開を急がない姿勢を示したが、ホルムズ海峡ではタンカー攻撃が続き、供給懸念は残る。IEAは月報で、イラン戦争開始以来初めて石油市場が供給過剰に戻ると予測した。"
+      },
+      "en": {
+        "title": "Oil posts second weekly decline; Hormuz tanker attacks keep prices volatile",
+        "summary": "Brent closed at $95.84 a barrel and WTI at $88.56 on November 13, both down 2.5% for the week after a roughly 13% drop the previous week. Trump signaled he is not in a hurry to resume the Iran war, but tanker attacks in the Strait of Hormuz keep supply risks alive. The IEA said the oil market is set to return to surplus for the first time since the war began."
+      }
+    },
+    {
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo"},
+        {"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}
+      ],
+      "zh": {
+        "title": "美國中期選舉民主黨橫掃 AI監管與數據中心擴建成市場新憂慮",
+        "summary": "美國中期選舉中，民主黨取得大勝；限制數據中心擴建的選民提案中，除一項外均屬此類內容。投資人擔心AI產業將面臨更嚴格的監管，數據中心擴建也可能放緩。這些憂慮被視為近期AI相關股票大跌的背景之一。"
+      },
+      "ja": {
+        "title": "中間選挙で民主党が大勝　AI規制とデータセンター拡大への懸念が浮上",
+        "summary": "米中間選挙では民主党が大勝し、データセンター拡大を制限する内容の住民投票案は、1件を除きすべてそうした内容だったと報じられている。投資家はAI産業への規制強化やデータセンター投資の減速を懸念しており、これが最近のAI関連株の急落の一因とされている。"
+      },
+      "en": {
+        "title": "Democratic midterm sweep raises fears of AI regulation and data-centre curbs",
+        "summary": "Democrats won big in the US midterm elections, and ballot measures restricting data-centre expansion went the same way in all but one case. Investors worry about tighter AI regulation and a slower data-centre build-out, which are cited as one reason for the recent sell-off in AI-related stocks."
+      }
+    }
+  ]
+}
