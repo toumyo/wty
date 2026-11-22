@@ -15,7 +15,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_site import ADSENSE, BASE, EMAIL, lang_dropdown  # noqa: E402
+from build_site import ADSENSE, BASE, EMAIL, css_href, lang_dropdown  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
@@ -363,7 +363,7 @@ def head(lang, title, desc, path, ld, alt_paths):
 <script type="application/ld+json">
 {json.dumps(ld, ensure_ascii=False, indent=1)}
 </script>
-<link rel="stylesheet" href="/clean.css">
+<link rel="stylesheet" href="{css_href()}">
 {ADSENSE}</head>"""
 
 

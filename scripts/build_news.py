@@ -5,6 +5,7 @@ refresh the homepage lists and regenerate sitemap.xml.
 Usage: python3 scripts/build_news.py
 """
 import glob
+import hashlib
 import html
 import json
 import os
@@ -30,6 +31,12 @@ L = {
                src="Sources", og="en_US", index="en/index.html"),
 }
 LANGS = ["zh", "ja", "en"]
+
+
+def css_href():
+    """Same versioned stylesheet URL as scripts/build_site.py (hash of site/clean.css)."""
+    with open(os.path.join(SITE, "clean.css"), "rb") as f:
+        return "/clean.css?v=" + hashlib.md5(f.read()).hexdigest()[:10]
 
 
 def esc(s):
@@ -99,7 +106,7 @@ def render_digest(lang, d):
 <meta property="og:title" content="{esc(title)} {date}">
 <meta property="og:url" content="{url}">
 <meta property="og:locale" content="{c['og']}">
-<link rel="stylesheet" href="/clean.css">
+<link rel="stylesheet" href="{css_href()}">
 </head>
 <body>
 <main class="news-wrap">

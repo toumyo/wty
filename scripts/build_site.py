@@ -4,6 +4,7 @@
 Writes site/index.html, site/ja/index.html, site/en/index.html and site/clean.css.
 The private nav (site/n/) and news pages are handled elsewhere and are not touched.
 """
+import hashlib
 import html
 import json
 import os
@@ -46,7 +47,7 @@ T = {
         title="王太陽 Taiyang Wang｜網站、工具與財經新聞 · 大阪 Web 設計 | wangtaiyang.com",
         desc="王太陽（Taiyang Wang）的個人網站，位於大阪。提供免費線上工具、每日世界財經新聞，以及中日英多語網站設計、SEO 與 GEO 服務。",
         nav=[("工具", "#tools"), ("網站與頻道", "#sites"), ("新聞", "#news"), ("關於", "#about"), ("服務", "#services"), ("聯絡", "#contact")],
-        eyebrow="大阪 · 網站設計", meishi_alt="王太陽的名片：東緲合同會社（Toubyou Godo Kaisha），大阪，網站製作、小程式開發、軟體開發、系統維運、影片剪輯",
+        eyebrow="大阪 · 網站設計", meishi_link="查看名片", meishi_alt="王太陽的名片：東緲合同會社（Toubyou Godo Kaisha），大阪，網站製作、小程式開發、軟體開發、系統維運、影片剪輯",
         h1="王太陽", h1_en="Taiyang Wang",
         lead="網站設計者，也是工具開發者。用中文、日文與英文，做結構清楚、看得懂、搜得到的網站。",
         btn_primary="看工具", btn_secondary="聯絡我",
@@ -78,7 +79,7 @@ T = {
         title="王太陽 Taiyang Wang｜ウェブ制作・ツール・経済ニュース · 大阪 | wangtaiyang.com",
         desc="大阪在住のウェブデザイナー、王太陽（Taiyang Wang）の個人サイトです。無料のオンラインツール、毎日の世界経済ニュース、中国語・日本語・英語のウェブ制作・SEO・GEOを紹介しています。",
         nav=[("ツール", "#tools"), ("サイト・チャンネル", "#sites"), ("ニュース", "#news"), ("プロフィール", "#about"), ("サービス", "#services"), ("連絡", "#contact")],
-        eyebrow="大阪 · ウェブ制作", meishi_alt="王太陽の名刺：東緲合同会社（Toubyou Godo Kaisha）、大阪。ウェブサイト制作・ミニプログラム開発・ソフトウェア開発・システム運用保守・動画編集",
+        eyebrow="大阪 · ウェブ制作", meishi_link="名刺を見る", meishi_alt="王太陽の名刺：東緲合同会社（Toubyou Godo Kaisha）、大阪。ウェブサイト制作・ミニプログラム開発・ソフトウェア開発・システム運用保守・動画編集",
         h1="王 太陽", h1_en="Taiyang Wang",
         lead="ウェブデザイナー兼ツール開発者。中国語・日本語・英語で、構造が分かりやすく、検索されるサイトを作ります。",
         btn_primary="ツールを見る", btn_secondary="お問い合わせ",
@@ -110,7 +111,7 @@ T = {
         title="Taiyang Wang｜Web Design, Free Tools & Finance News · Osaka | wangtaiyang.com",
         desc="Personal site of Taiyang Wang, a web designer in Osaka. Free online tools, daily world finance news with sources, and multilingual website design, SEO and GEO in Chinese, Japanese and English.",
         nav=[("Tools", "#tools"), ("Sites & channels", "#sites"), ("News", "#news"), ("About", "#about"), ("Services", "#services"), ("Contact", "#contact")],
-        eyebrow="Osaka · Web design", meishi_alt="Business card of Taiyang Wang (王太陽), 東緲合同会社 (Toubyou Godo Kaisha), Osaka: websites, mini programs, software development, system operations and video editing",
+        eyebrow="Osaka · Web design", meishi_link="View business card", meishi_alt="Business card of Taiyang Wang (王太陽), 東緲合同会社 (Toubyou Godo Kaisha), Osaka: websites, mini programs, software development, system operations and video editing",
         h1="Taiyang", h1_en="Wang",
         lead="Web designer and tool builder. I make multilingual sites in Chinese, Japanese and English that are clear to read and easy to find.",
         btn_primary="Browse tools", btn_secondary="Contact me",
@@ -180,6 +181,11 @@ CHANNELS = [
 ]
 
 
+def css_href():
+    """Versioned stylesheet URL so browsers never keep an outdated clean.css."""
+    return "/clean.css?v=" + hashlib.md5(CLEAN_CSS.encode("utf-8")).hexdigest()[:10]
+
+
 def esc(s):
     return html.escape(s, quote=True)
 
@@ -243,7 +249,7 @@ def head(lang):
 {jsonld(lang)}
 </script>
 <link rel="preload" as="image" type="image/webp" href="/assets/img/meishi-1280.webp" imagesrcset="/assets/img/meishi-1280.webp 1280w, /assets/img/meishi-2464.webp 2464w" imagesizes="(max-width: 1040px) 100vw, 1000px">
-<link rel="stylesheet" href="/clean.css">
+<link rel="stylesheet" href="{css_href()}">
 {ADSENSE}</head>"""
 
 
@@ -340,10 +346,10 @@ def page(lang):
 <main id="main">
 
 <div class="meishi wrap">
-  <picture>
+  <a href="/card/" aria-label="{esc(t['meishi_link'])}"><picture>
     <source type="image/webp" srcset="/assets/img/meishi-1280.webp 1280w, /assets/img/meishi-2464.webp 2464w" sizes="(max-width: 1040px) 100vw, 1000px">
-    <img src="/assets/img/meishi-1280.jpg" width="1280" height="774" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async">
-  </picture>
+    <img src="/assets/img/meishi-1280.jpg" width="1280" height="774" style="max-width:100%;height:auto" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async">
+  </picture></a>
 </div>
 
 <section class="hero wrap" id="top">
@@ -424,6 +430,7 @@ CLEAN_CSS = """/* wangtaiyang.com - clean light theme */
   --max: 1040px;
 }
 * { box-sizing: border-box; }
+img, svg, video { max-width: 100%; height: auto; }
 html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
 body {
   margin: 0; background: var(--bg); color: var(--text);
@@ -538,6 +545,7 @@ p { margin: 0 0 12px; }
 
 /* name card banner at the top of the homepage */
 .meishi { padding-top: 24px; }
+.meishi a { display: block; }
 .meishi img { display: block; width: 100%; height: auto; border-radius: 18px; background: #000;
   box-shadow: 0 18px 50px rgba(15,23,42,.18); }
 .meishi + .hero { padding-top: 48px; }

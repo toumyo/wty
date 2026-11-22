@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+N;CHARSET=UTF-8:王;太陽;;;
+FN;CHARSET=UTF-8:王太陽
+ORG;CHARSET=UTF-8:東緲合同会社
+TEL;TYPE=CELL,VOICE:+81-70-1846-1357
+EMAIL;TYPE=INTERNET,WORK:hello@toumyou.com
+URL;TYPE=WORK:https://toumyou.com/
+URL:https://wangtaiyang.com/
+ADR;TYPE=WORK;CHARSET=UTF-8:;;杉本2-1-35;大阪市住吉区;大阪府;558-0022;日本
+NOTE;CHARSET=UTF-8:ウェブサイト制作 ・ ミニプログラム開発 ・ ソフトウェア開発 ・ システム運用保守 ・ 動画編集
+END:VCARD
