@@ -18,15 +18,15 @@ BASE = "https://wangtaiyang.com"
 
 L = {
     "zh": dict(hreflang="zh-Hant", news="news", label="每日經濟新聞", blurb="每日整理世界經濟與市場重點，附原始來源連結。",
-               back="← 返回首頁", disclaimer="AI 輔助整理，僅供參考，不構成投資建議。", src="來源", og="zh_TW",
+               back="← 返回首頁", disclaimer="僅供參考，不構成投資建議。", src="來源", og="zh_TW",
                index="index.html"),
     "ja": dict(hreflang="ja", news="ja/news", label="世界経済ニュース",
                blurb="世界経済と市場の重要ポイントを毎日まとめ、元の情報源へのリンクを付けています。",
-               back="← トップへ戻る", disclaimer="AIによる整理です。参考情報であり、投資助言ではありません。",
+               back="← トップへ戻る", disclaimer="参考情報であり、投資助言ではありません。",
                src="出典", og="ja_JP", index="ja/index.html"),
     "en": dict(hreflang="en", news="en/news", label="World Economy News",
                blurb="A daily digest of world economy and market highlights, with links to original sources.",
-               back="← Back to home", disclaimer="AI-assisted summary for reference only. Not investment advice.",
+               back="← Back to home", disclaimer="For reference only. Not investment advice.",
                src="Sources", og="en_US", index="en/index.html"),
 }
 LANGS = ["zh", "ja", "en"]
