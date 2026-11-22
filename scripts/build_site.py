@@ -48,7 +48,7 @@ T = {
         desc="王太陽（Taiyang Wang）的個人網站，位於大阪。提供免費線上工具、每日世界財經新聞，以及中日英多語網站設計、SEO 與 GEO 服務。",
         nav=[("工具", "#tools"), ("網站與頻道", "#sites"), ("新聞", "#news"), ("關於", "#about"), ("服務", "#services"), ("聯絡", "#contact")],
         eyebrow="大阪 · 網站設計", meishi_link="查看名片", meishi_alt="王太陽的名片：東緲合同會社（Toubyou Godo Kaisha），大阪，網站製作、小程式開發、軟體開發、系統維運、影片剪輯",
-        h1="王太陽", h1_en="Taiyang Wang",
+        h1="王太陽", h1_en="Taiyang Wang", hero_name="王太陽", hero_alt="Taiyang Wang", card_cta="打開電子名片，存入通訊錄或轉發微信",
         lead="網站設計者，也是工具開發者。用中文、日文與英文，做結構清楚、看得懂、搜得到的網站。",
         btn_primary="看工具", btn_secondary="聯絡我",
         tools_title="線上工具", tools_sub="免費使用，無需註冊。", own_badge="自製", own_link="我自製的工具 →",
@@ -80,7 +80,7 @@ T = {
         desc="大阪在住のウェブデザイナー、王太陽（Taiyang Wang）の個人サイトです。無料のオンラインツール、毎日の世界経済ニュース、中国語・日本語・英語のウェブ制作・SEO・GEOを紹介しています。",
         nav=[("ツール", "#tools"), ("サイト・チャンネル", "#sites"), ("ニュース", "#news"), ("プロフィール", "#about"), ("サービス", "#services"), ("連絡", "#contact")],
         eyebrow="大阪 · ウェブ制作", meishi_link="名刺を見る", meishi_alt="王太陽の名刺：東緲合同会社（Toubyou Godo Kaisha）、大阪。ウェブサイト制作・ミニプログラム開発・ソフトウェア開発・システム運用保守・動画編集",
-        h1="王 太陽", h1_en="Taiyang Wang",
+        h1="王 太陽", h1_en="Taiyang Wang", hero_name="王 太陽", hero_alt="Taiyang Wang", card_cta="電子名刺を開いて、連絡先に保存",
         lead="ウェブデザイナー兼ツール開発者。中国語・日本語・英語で、構造が分かりやすく、検索されるサイトを作ります。",
         btn_primary="ツールを見る", btn_secondary="お問い合わせ",
         tools_title="オンラインツール", tools_sub="無料で使えます。登録は不要です。", own_badge="自作", own_link="自作ツール一覧 →",
@@ -112,7 +112,7 @@ T = {
         desc="Personal site of Taiyang Wang, a web designer in Osaka. Free online tools, daily world finance news with sources, and multilingual website design, SEO and GEO in Chinese, Japanese and English.",
         nav=[("Tools", "#tools"), ("Sites & channels", "#sites"), ("News", "#news"), ("About", "#about"), ("Services", "#services"), ("Contact", "#contact")],
         eyebrow="Osaka · Web design", meishi_link="View business card", meishi_alt="Business card of Taiyang Wang (王太陽), 東緲合同会社 (Toubyou Godo Kaisha), Osaka: websites, mini programs, software development, system operations and video editing",
-        h1="Taiyang", h1_en="Wang",
+        h1="Taiyang", h1_en="Wang", hero_name="Taiyang Wang", hero_alt="王太陽", card_cta="Open the digital card to save my contact",
         lead="Web designer and tool builder. I make multilingual sites in Chinese, Japanese and English that are clear to read and easy to find.",
         btn_primary="Browse tools", btn_secondary="Contact me",
         tools_title="Online tools", tools_sub="Free to use, no sign-up.", own_badge="Built by me", own_link="Tools I built →",
@@ -345,18 +345,20 @@ def page(lang):
 
 <main id="main">
 
-<div class="meishi wrap">
-  <a href="/card/" aria-label="{esc(t['meishi_link'])}"><img src="/assets/img/meishi.svg" width="3000" height="1813" style="max-width:100%;height:auto" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async"></a>
-</div>
-
-<section class="hero wrap" id="top">
-  <p class="eyebrow">{esc(t['eyebrow'])}</p>
-  <h1>{esc(t['h1'])} <span>{esc(t['h1_en'])}</span></h1>
-  <p class="lead">{esc(t['lead'])}</p>
-  <div class="cta">
-    <a class="btn" href="#tools">{esc(t['btn_primary'])}</a>
-    <a class="btn btn-ghost" href="#contact">{esc(t['btn_secondary'])}</a>
+<section class="intro wrap" id="top">
+  <div class="intro-text">
+    <h1 class="intro-name">{esc(t['hero_name'])}</h1>
+    <p class="intro-alt">{esc(t['hero_alt'])}</p>
+    <p class="intro-lead">{esc(t['lead'])}</p>
+    <div class="cta">
+      <a class="btn" href="#tools">{esc(t['btn_primary'])}</a>
+      <a class="btn btn-ghost" href="#contact">{esc(t['btn_secondary'])}</a>
+    </div>
   </div>
+  <figure class="intro-card">
+    <a class="card-lift" href="/card/" aria-label="{esc(t['meishi_link'])}"><img src="/assets/img/meishi.svg" width="3000" height="1813" style="max-width:100%;height:auto" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async"></a>
+    <figcaption><a href="/card/">{esc(t['card_cta'])}</a></figcaption>
+  </figure>
 </section>
 
 <section class="block wrap" id="tools">
@@ -540,13 +542,36 @@ p { margin: 0 0 12px; }
   .block { padding: 44px 20px; }
 }
 
-/* name card banner at the top of the homepage */
-.meishi { padding-top: 24px; }
-.meishi a { display: block; }
-.meishi img { display: block; width: 100%; height: auto; border-radius: 18px; background: #000;
-  box-shadow: 0 18px 50px rgba(15,23,42,.18); }
-.meishi + .hero { padding-top: 48px; }
-@media (max-width: 640px) { .meishi { padding-top: 14px; } .meishi img { border-radius: 12px; } .meishi + .hero { padding-top: 32px; } }
+/* intro: name on the left, the business card on the right */
+.intro { display: grid; gap: 28px; padding-top: 28px; padding-bottom: 56px; overflow-x: clip; }
+.intro-card { margin: 0; order: -1; }
+.card-lift { display: block; border-radius: 12px; background: #000; overflow: hidden;
+  box-shadow: 0 1px 2px rgba(15,23,42,.30), 0 24px 48px -18px rgba(15,23,42,.45); }
+.card-lift img { display: block; width: 100%; height: auto; }
+.card-lift:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
+.intro-card figcaption { margin-top: 14px; font-size: 14px; }
+.intro-name { font-size: clamp(44px, 11vw, 60px); font-weight: 900; line-height: 1.04; letter-spacing: .04em; }
+.intro-alt { margin: 10px 0 0; font-size: 17px; font-weight: 500; color: var(--muted); letter-spacing: .06em; }
+.intro-lead { margin: 22px 0 0; font-size: 17px; line-height: 1.85; color: #3d434e; max-width: 30em; }
+.intro .cta { margin-top: 28px; }
+
+@media (min-width: 960px) {
+  .intro { grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 64px; align-items: center;
+    padding-top: 84px; padding-bottom: 96px; }
+  .intro-card { order: 0; position: relative; padding-right: 3%; }
+  /* a soft pool of light under the card, echoing the light burst printed on it */
+  .intro-card::before { content: ""; position: absolute; inset: 8% 0 -4% 6%; z-index: -1;
+    background: radial-gradient(closest-side, rgba(37,99,235,.10), rgba(37,99,235,0)); filter: blur(8px); }
+  .card-lift { border-radius: 14px; transform-origin: 40% 50%;
+    transform: perspective(1800px) rotateY(-11deg) rotateX(4deg) rotate(-1.2deg);
+    box-shadow: 0 2px 3px rgba(15,23,42,.30), 0 28px 56px -22px rgba(15,23,42,.50), 0 56px 100px -50px rgba(15,23,42,.35);
+    transition: transform .6s cubic-bezier(.2,.8,.2,1), box-shadow .6s cubic-bezier(.2,.8,.2,1); }
+  .card-lift:hover, .card-lift:focus-visible { transform: perspective(1800px) rotateY(0) rotateX(0) rotate(0);
+    box-shadow: 0 2px 3px rgba(15,23,42,.25), 0 22px 44px -20px rgba(15,23,42,.45), 0 50px 90px -50px rgba(15,23,42,.35); }
+  .intro-card figcaption { text-align: right; margin-top: 22px; }
+  .intro-name { font-size: clamp(56px, 5.6vw, 76px); }
+}
+@media (prefers-reduced-motion: reduce) { .card-lift { transition: none; } }
 
 /* own-tool badge on homepage cards */
 .tool { position: relative; }
