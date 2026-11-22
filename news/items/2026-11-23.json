@@ -1,0 +1,181 @@
+{
+  "date": "2026-11-23",
+  "items": [
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
+        {"name": "CNN Business", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "美股三大指數齊跌，標普500與道瓊進入修正區間", "summary": "標普500指數下跌3.70%，收於6,910.39點，已連續7個交易日下跌，單週跌幅達8.6%。道瓊工業指數下跌1.93%至48,147.33點，那斯達克綜合指數下跌5.28%至22,617.73點，今年以來的漲幅全部抹去。"},
+      "ja": {"title": "米主要3指数がそろって大幅安、S&P500とダウは調整局面入り", "summary": "S&P500は3.70%安の6,910.39ポイントで取引を終え、7営業日連続の下落となりました。週間では8.6%下落し、2025年4月以来の大きな週間下落です。ダウは1.93%安の48,147.33ドル、ナスダック総合は5.28%安の22,617.73で、年初来プラスも消えました。"},
+      "en": {"title": "US stocks slump; S&P 500 and Dow enter correction", "summary": "The S&P 500 fell 3.70% to 6,910.39, its seventh straight daily loss and an 8.6% drop for the week. The Dow lost 1.93% to 48,147.33, and the Nasdaq Composite plunged 5.28% to 22,617.73, erasing its 2026 gains."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"},
+        {"name": "CNN Business", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"}
+      ],
+      "zh": {"title": "科技股大幅拋售，AI概念股承壓", "summary": "標普500科技板塊下跌7.27%，跌幅居各板塊之首，僅必需消費品小幅上漲0.67%。那斯達克100指數下跌5.61%，盤中一度跌入熊市區間。VIX恐慌指數收於35.89。"},
+      "ja": {"title": "ハイテク株が大きく売られ、AI関連株に逆風", "summary": "S&P500のテクノロジーセクターは7.27%安と最も大きく下落し、生活必需品のみが0.67%上昇しました。ナスダック100は5.61%安となり、一時は弱気相場入りの水準まで売られました。恐怖指数VIXは35.89に上昇しています。"},
+      "en": {"title": "Tech sector rout deepens as AI trade unwinds", "summary": "The S&P 500 technology sector fell 7.27%, the steepest decline among sectors, while consumer staples was the only sector to finish higher, up 0.67%. The Nasdaq-100 dropped 5.61% and briefly touched bear-market territory intraday. The VIX volatility index closed at 35.89."}
+    },
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"},
+        {"name": "CNN Business", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"}
+      ],
+      "zh": {"title": "輝達股價重挫14%，傳SEC審查會計問題", "summary": "輝達單日下跌14.01%至125.53美元，為2025年1月以來最大單日跌幅，已連續7個交易日下跌。路透社報導，美國證券交易委員會（SEC）正在審查該公司的會計問題；加州檢察長也對其發出調查傳票。此前黃仁勳已於本週辭去執行長職務。"},
+      "ja": {"title": "エヌビディア株14%安、SEC会計調査の報道で売り加速", "summary": "エヌビディアは14.01%安の125.53ドルとなり、2025年1月以来の大幅下落を記録しました。ロイター通信は、米証券取引委員会（SEC）が同社の会計処理を調べていると報じています。黄仁勲氏は今週CEOを辞任しており、AI関連株全体の不安材料となっています。"},
+      "en": {"title": "Nvidia sinks 14% on report of SEC accounting review", "summary": "Nvidia fell 14.01% to $125.53, its worst day since January 2025 and a seventh straight loss. Reuters reported the SEC is examining the company's accounting, and California's attorney general issued an investigative subpoena. The decline follows CEO Jensen Huang's resignation earlier this week."}
+    },
+    {
+      "sources": [
+        {"name": "CNN Business", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"}
+      ],
+      "zh": {"title": "Anthropic上市後首個完整交易日收跌8.5%", "summary": "Anthropic於11月19日在納斯達克掛牌，首日上漲17%，但11月20日收跌8.5%，收於88.91美元，仍高於83美元的IPO發行價。市場對AI行業的整體擔憂，壓過了這家公司上市帶來的熱度。"},
+      "ja": {"title": "Anthropic、上場後初の全日取引で8.5%安", "summary": "Anthropicは11月19日にナスダックへ上場し、初日は17%上昇しました。11月20日は8.5%下落して88.91ドルで終え、83ドルの公開価格は上回っています。AI関連株全体の売りが株価の重しとなりました。"},
+      "en": {"title": "Anthropic shares slide in first full session after IPO", "summary": "Anthropic rose 17% on its Nasdaq debut on November 19 but fell 8.5% to $88.91 on Friday, still above its $83 IPO price. Broader worries about AI stocks outweighed the enthusiasm around the listing."}
+    },
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "美聯儲官員釋放加息信號，12月加息機率高", "summary": "美聯儲理事庫克表示，若繼續等待，將有「落後於曲線」的風險，未來可能需要更大幅度的加息。費城聯儲主席保爾森表示，願意考慮連續加息。預測市場定價顯示，12月8至9日會議加息25個基點的機率約為90%。"},
+      "ja": {"title": "FRB高官が利上げに前向き、12月会合での利上げ観測が強まる", "summary": "クック理事は、利上げを先送りするほど後手に回るリスクがあると述べました。フィラデルフィア連銀のポールソン総裁は、連続利上げに前向きな姿勢を示しています。予測市場では、12月8〜9日の会合で0.25%ポイント利上げとなる確率が約90%と見込まれています。"},
+      "en": {"title": "Fed officials open to more hikes; December increase seen likely", "summary": "Fed Governor Lisa Cook warned that waiting longer to raise rates risks falling behind the curve, and Philadelphia Fed President Anna Paulson said she would be open to back-to-back hikes. Prediction markets put the odds of a quarter-point increase at the December 8–9 meeting at about 90%."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"},
+        {"name": "CNN Business", "url": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai"}
+      ],
+      "zh": {"title": "避險資金湧入債市，美國10年期殖利率降至4.92%", "summary": "股市大跌推動資金流向國債，10年期殖利率下跌12個基點至4.92%，為10月22日以來最大跌幅；2年期殖利率下跌13個基點至4.63%。"},
+      "ja": {"title": "株安で米国債に資金集中、10年物利回りは4.92%", "summary": "株式市場の急落を受けて安全資産への需要が高まり、米10年債利回りは12ベーシスポイント低下の4.92%となりました。10月22日以来の大幅な低下です。2年債利回りも13ベーシスポイント低下の4.63%でした。"},
+      "en": {"title": "Treasury yields fall sharply as investors seek safety", "summary": "The 10-year Treasury yield dropped 12 basis points to 4.92%, its biggest one-day decline since October 22, while the 2-year fell 13 basis points to 4.63%. The moves came as investors piled into government bonds amid the equity sell-off."}
+    },
+    {
+      "sources": [
+        {"name": "JIJI Press", "url": "https://jen.jiji.com/business/markets/2026112000935/"},
+        {"name": "BBN Times", "url": "https://www.bbntimes.com/companies/nikkei-225-crashes-to-56-436-65-as-softbank-and-advantest-lead-the-ai-rout"}
+      ],
+      "zh": {"title": "日經225指數大跌5.06%，收於56,436.65點", "summary": "日經225指數單日下跌3,007.56點至56,436.65點，為歷史第五大單日點數跌幅，並跌破57,000點，為4月13日以來首次。東證股價指數（TOPIX）下跌3.88%至3,674.22點，逾九成上市股票收跌。"},
+      "ja": {"title": "日経平均は5.06%安の56,436.65円、ハイテク株が急落", "summary": "日経平均は3,007.56円安の56,436.65円で取引を終え、下落幅は歴代5番目の大きさとなりました。57,000円を割り込むのは4月13日以来初めてです。TOPIXも3.88%安の3,674.22ポイントとなり、プライム市場の9割以上の銘柄が値下がりしました。"},
+      "en": {"title": "Nikkei 225 plunges 5% to 56,436.65 on AI sell-off", "summary": "The Nikkei 225 fell 3,007.56 points, or 5.06%, to 56,436.65, its fifth-largest point drop on record and its first close below 57,000 since April 13. The TOPIX fell 3.88% to 3,674.22, with more than 90% of Prime-listed stocks declining."}
+    },
+    {
+      "sources": [
+        {"name": "BBN Times", "url": "https://www.bbntimes.com/companies/nikkei-225-crashes-to-56-436-65-as-softbank-and-advantest-lead-the-ai-rout"}
+      ],
+      "zh": {"title": "軟銀、Advantest、東京電子領跌", "summary": "軟銀集團股價下跌14.48%，為2024年8月以來最差的單日表現；Advantest下跌10.32%至24,255日圓，東京電子下跌7.06%。截至日本時間上午10時，這三檔股票約佔日經指數早盤下跌點數的六成。"},
+      "ja": {"title": "ソフトバンクG、アドバンテストなど半導体・AI関連が急落", "summary": "ソフトバンクグループは14.48%安と、2024年8月以来の大幅下落となりました。アドバンテストは10.32%安の24,255円、東京エレクトロンは7.06%安でした。午前10時時点では、この3銘柄で日経平均の下落幅の約6割を占めていました。"},
+      "en": {"title": "SoftBank, Advantest and Tokyo Electron lead Nikkei losses", "summary": "SoftBank Group fell 14.48%, its worst day since August 2024. Advantest dropped 10.32% to ¥24,255 and Tokyo Electron lost 7.06%. By 10 a.m. Tokyo time, the three accounted for roughly 58% of the index's early decline."}
+    },
+    {
+      "sources": [
+        {"name": "BBN Times", "url": "https://www.bbntimes.com/companies/nikkei-225-crashes-to-56-436-65-as-softbank-and-advantest-lead-the-ai-rout"},
+        {"name": "JIJI Press", "url": "https://jen.jiji.com/business/markets/2026112000935/"}
+      ],
+      "zh": {"title": "日本股市11月23日休市，日經較6月高點低逾22%", "summary": "日本股市於11月23日（週一）因勤勞感謝日休市，東京證券交易所將於11月24日恢復交易。日經225指數收盤較今年6月22日創下的72,353.96點歷史高點低約22%，已超過一般以20%為標準的熊市門檻。"},
+      "ja": {"title": "日本株は11月23日休場、日経平均は6月高値から約22%安", "summary": "11月23日（月）は祝日の勤労感謝の日のため東京市場は休場となり、24日に取引を再開します。日経平均は今年6月22日につけた史上最高値72,353.96円から約22%下落し、一般的に弱気相場とされる20%超の下落水準に達しています。"},
+      "en": {"title": "Tokyo market closed Monday; Nikkei about 22% below June record", "summary": "Japanese markets are closed on Monday, November 23, for Labour Thanksgiving Day and reopen on Tuesday. The Nikkei's latest close is about 22% below its record 72,353.96 set on June 22, 2026, which is in bear-market territory by the conventional 20% definition."}
+    },
+    {
+      "sources": [
+        {"name": "New Straits Times (Reuters)", "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580260/bank-japan-governor-says-central-bank-should-keep-raising-rates"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "植田總裁：應繼續加息，12月加息機率約79%", "summary": "日本銀行總裁植田和男於11月18日在國會表示，在金融環境仍屬寬鬆的情況下，應繼續提高政策利率。日銀於10月30日維持政策利率在1.25%不變。據Barchart引述的市場定價，12月18日會議加息的機率約為79%。"},
+      "ja": {"title": "植田総裁「利上げを続けるべき」、12月利上げ確率は約79%", "summary": "植田総裁は11月18日の国会答弁で、金融環境がなお緩和的であるとして、政策金利の引き上げを続けることが適切だと述べました。日銀は10月30日の会合で政策金利を1.25%に据え置いています。市場では12月18日の会合での利上げ確率が約79%と見られています。"},
+      "en": {"title": "Ueda says BOJ should keep raising rates; December hike seen likely", "summary": "BOJ Governor Kazuo Ueda told parliament on November 18 that it would be appropriate to keep raising the policy rate, given that financial conditions remain accommodative. The BOJ held its rate at 1.25% on October 30, and market pricing cited by Barchart implies about a 79% chance of a hike on December 18."}
+    },
+    {
+      "sources": [
+        {"name": "Associated Press (via NY1)", "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high"},
+        {"name": "BBN Times", "url": "https://www.bbntimes.com/companies/nikkei-225-crashes-to-56-436-65-as-softbank-and-advantest-lead-the-ai-rout"}
+      ],
+      "zh": {"title": "日本7–9月GDP年率萎縮0.1%，10月CPI不及預期", "summary": "日本7–9月實質GDP以年率計下降0.1%，油價居高不下是拖累因素之一。10月全國CPI的三項主要指標均低於市場預期，但核心通膨仍高於日銀2%的目標。"},
+      "ja": {"title": "日本の7〜9月期GDP年率0.1%減、10月CPIは予想下回る", "summary": "7〜9月期の実質GDPは年率0.1%のマイナスとなり、原油価格の高止まりも景気の重しとなりました。10月の全国消費者物価指数（CPI）は主要3指標すべてが市場予想を下回りましたが、コアの伸びは日銀の2%目標を上回っています。"},
+      "en": {"title": "Japan's Q3 GDP contracts 0.1%; October CPI misses forecasts", "summary": "Japan's economy contracted slightly in July–September, shrinking at a 0.1% annualized rate as oil prices stayed high. October national CPI missed expectations on all three main measures, though core inflation remained above the Bank of Japan's 2% target."}
+    },
+    {
+      "sources": [
+        {"name": "The Irish Times", "url": "https://www.irishtimes.com/business/2026/11/15/markets-still-pricing-in-two-more-ecb-rate-hikes/"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "歐洲央行12月或再加息，存款利率有望升至2.75%", "summary": "市場預期歐洲央行將在2026年最後一次貨幣政策會議上加息25個基點，使存款利率升至2.75%，定價顯示加息機率約91%。歐元區第三季GDP季增0.4%，通膨率約為2%目標的兩倍。"},
+      "ja": {"title": "ECB、12月に0.25%利上げ観測　預金金利は2.75%へ", "summary": "市場では、2026年最後の定例理事会で0.25%ポイントの利上げが行われ、預金金利が2.75%になると見込まれています。ユーロ圏の7〜9月期GDPは前期比0.4%増で、インフレ率は目標の2%のほぼ2倍の水準です。"},
+      "en": {"title": "ECB seen hiking again in December; deposit rate to reach 2.75%", "summary": "Markets expect the ECB to raise its deposit rate by a quarter point to 2.75% at its final policy meeting of 2026, with pricing for a hike at about 91%. Euro-zone GDP rose 0.4% in the third quarter, and inflation is running at about twice the 2% target."}
+    },
+    {
+      "sources": [
+        {"name": "BBN Times", "url": "https://www.bbntimes.com/companies/nikkei-225-crashes-to-56-436-65-as-softbank-and-advantest-lead-the-ai-rout"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "亞洲股市普遍下跌，韓股、台股重挫", "summary": "韓國KOSPI指數下跌5.21%，台灣加權指數下跌6.23%，單週跌幅達17.5%，創下紀錄。香港恆生指數下跌1.89%，上海綜合指數下跌1.22%；印度SENSEX指數逆勢上漲1.08%。"},
+      "ja": {"title": "アジア株は全面安、韓国・台湾は大幅下落", "summary": "韓国総合株価指数（KOSPI）は5.21%安、台湾加権指数は6.23%安となりました。台湾市場は週間で17.5%下落し、過去最大級の週間下落を記録しています。香港ハンセン指数は1.89%安、上海総合指数は1.22%安で、インドのSENSEXは1.08%高と逆行しました。"},
+      "en": {"title": "Asian markets fall broadly; Taiwan posts record weekly loss", "summary": "South Korea's Kospi dropped 5.21% and Taiwan's TAIEX fell 6.23%, a record 17.5% weekly loss. Hong Kong's Hang Seng lost 1.89% and the Shanghai Composite fell 1.22%, while India's Sensex rose 1.08%."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "歐股同步走低，STOXX 600指數跌2%", "summary": "泛歐STOXX 600指數下跌2.00%，ASML與BE Semiconductor等半導體股領跌。法國CAC 40指數下跌1.89%，英國FTSE 100指數下跌1.02%。"},
+      "ja": {"title": "欧州株も下落、STOXX600は2.00%安", "summary": "欧州総合株価指数STOXX600は2.00%安となり、ASMLなど半導体株が下落を主導しました。仏CAC40は1.89%安、英FTSE100は1.02%安でした。"},
+      "en": {"title": "European stocks drop, with chipmakers leading losses", "summary": "The STOXX 600 fell 2.00%, with chip stocks including ASML and BE Semiconductor sliding. France's CAC 40 dropped 1.89% and Britain's FTSE 100 lost 1.02%."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "金價跌至14個月低點，約3,515美元", "summary": "黃金期貨下跌4.63%至約3,515美元／盎司，為14.5個月來最低；白銀期貨大跌7.41%至約41.03美元。美元指數（DXY）約為103.84，較週四創下的19個月高點小幅回落。"},
+      "ja": {"title": "金先物が約14カ月ぶりの安値、約3,515ドル", "summary": "金先物は4.63%下落して約3,515ドルとなり、約14.5カ月ぶりの安値を付けました。銀先物は7.41%安の約41.03ドルでした。ドル指数は約103.84と、前日につけた19カ月ぶりの高値から小幅に反落しました。"},
+      "en": {"title": "Gold falls to 14-month low near $3,515", "summary": "Gold futures dropped 4.63% to about $3,515 an ounce, their lowest level in 14.5 months, while silver plunged 7.41% to about $41.03. The dollar index slipped to about 103.84 from Thursday's 19-month high."}
+    },
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"},
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "WTI原油收於83.98美元，連跌三週", "summary": "WTI原油12月合約上漲0.93%，結算於83.98美元，但已連續三週下跌；布蘭特原油上漲0.64%至92.57美元。據UOB分析師指出，11月霍爾木茲海峽的油輪襲擊事件約每天發生一起。"},
+      "ja": {"title": "WTIは3週連続安の83.98ドル、ホルムズ海峡で襲撃続く", "summary": "WTI12月限は0.93%高の83.98ドルで終え、3週連続の下落となりました。ブレント先物は0.64%高の92.57ドルでした。UOBのアナリストによると、11月はホルムズ海峡でのタンカーへの攻撃が1日に約1件のペースで発生しています。"},
+      "en": {"title": "WTI settles at $83.98 after third weekly decline; Hormuz attacks continue", "summary": "WTI for December delivery rose 0.93% to settle at $83.98, but fell for a third straight week, while Brent gained 0.64% to $92.57. UOB analysts said attacks on tankers in the Strait of Hormuz were running at roughly one incident per day in November."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"}
+      ],
+      "zh": {"title": "比特幣跌破6萬美元，為7月以來首次", "summary": "比特幣下跌4.72%至約58,994美元，為7月以來首次跌破60,000美元；以太坊下跌7.82%至約1,618美元。加密貨幣市場也受到整體風險資產拋售的拖累。"},
+      "ja": {"title": "ビットコイン、7月以来初めて6万ドルを下回る", "summary": "ビットコインは4.72%安の約58,994ドルとなり、7月以来初めて6万ドルを割り込みました。イーサリアムは7.82%安の約1,618ドルでした。リスク回避の売りが暗号資産市場にも広がっています。"},
+      "en": {"title": "Bitcoin dips below $60,000 for first time since July", "summary": "Bitcoin fell 4.72% to about $58,994, its first move below $60,000 since July, while Ether dropped 7.82% to about $1,618. The broader risk-off sell-off spread to crypto markets."}
+    },
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"}
+      ],
+      "zh": {"title": "特朗普表示將阻止美企在海外建設數據中心", "summary": "特朗普總統於11月20日的記者會上表示，希望阻止美國企業在其他國家建設數據中心，並稱違者將面臨「巨額處罰」，同時要求企業在美國境內建設。"},
+      "ja": {"title": "トランプ氏、米企業の海外データセンター建設を阻止する方針", "summary": "トランプ大統領は11月20日の記者会見で、米企業が海外でデータセンターを建設することを阻止したいと表明し、違反には「巨額の罰則」を科すと述べました。米国内での建設を求めています。"},
+      "en": {"title": "Trump vows to block US firms from building data centers abroad", "summary": "President Trump said on November 20 that he wants to stop U.S. companies from building data centers in other countries, warning of tremendous penalties and urging them to build at home. The remarks added to uncertainty over the AI infrastructure buildout."}
+    },
+    {
+      "sources": [
+        {"name": "CappNotes Closing Look", "url": "https://cappnotes.substack.com/p/closing-look-friday-november-20-2026"}
+      ],
+      "zh": {"title": "俄羅斯大規模空襲烏克蘭，發射逾400架無人機與110枚導彈", "summary": "俄羅斯對烏克蘭發動大規模襲擊，發射逾400架無人機與110多枚導彈，造成8人死亡。此次襲擊發生在克里米亞大橋遭襲之後。"},
+      "ja": {"title": "ロシア、ウクライナへ大規模攻撃　無人機400機超・ミサイル110発超", "summary": "ロシアはウクライナに対し、400機を超える無人機と110発を超えるミサイルで大規模な攻撃を行い、8人が死亡しました。今回の攻撃はクリミア大橋への攻撃の後に行われました。"},
+      "en": {"title": "Russia launches over 400 drones and 110 missiles at Ukraine", "summary": "Russia launched more than 400 drones and over 110 missiles at Ukraine, killing eight people. The attack came after strikes on the Crimea bridge."}
+    },
+    {
+      "sources": [
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"}
+      ],
+      "zh": {"title": "美國消費者信心回升至51.5，通膨預期降至3.7%", "summary": "密歇根大學11月終值消費者信心指數升至51.5，較上月上升7.3%，與市場預期一致。一年期通膨預期降至3.7%，為3月以來最低，較11月中旬的4.3%大幅回落。"},
+      "ja": {"title": "米消費者信頼感は11月に51.5へ上昇、インフレ期待は低下", "summary": "ミシガン大学の11月確報値の消費者態度指数は51.5と、前月比7.3%上昇し、市場予想と一致しました。1年先のインフレ期待は3.7%に低下し、3月以来の低水準となりました。"},
+      "en": {"title": "US consumer sentiment rises to 51.5; inflation expectations ease", "summary": "The University of Michigan's final November sentiment index rose 7.3% to 51.5, in line with forecasts. One-year inflation expectations fell to 3.7%, the lowest since March, from 4.3% in mid-November."}
+    }
+  ]
+}
