@@ -38,7 +38,6 @@ TOOLS = [
     ("lifecode", 2, "數字命理學", "數字命理查詢，僅供參考", "数秘術", "数字による占い（参考程度）", "Numerology", "Number-based reading, for reference only"),
     ("saolei", 2, "掃雷", "經典掃雷小遊戲", "マインスイーパー", "定番の地雷探しゲーム", "Minesweeper", "The classic puzzle game"),
     ("radio", 2, "線上收音機", "收聽網路電台", "オンラインラジオ", "インターネットラジオを聴く", "Online Radio", "Listen to web radio"),
-    ("discuss", 3, "論壇", "交流討論的小型社區", "フォーラム", "小さな交流コミュニティ", "Forum", "A small discussion community"),
 ]
 
 T = {
@@ -46,7 +45,7 @@ T = {
         lang="zh-Hant", path="/", label="繁體", og_locale="zh_TW",
         title="王太陽 Taiyang Wang｜網站、工具與財經新聞 · 大阪 Web 設計 | wangtaiyang.com",
         desc="王太陽（Taiyang Wang）的個人網站，位於大阪。提供免費線上工具、每日世界財經新聞，以及中日英多語網站設計、SEO 與 GEO 服務。",
-        nav=[("工具", "#tools"), ("新聞", "#news"), ("關於", "#about"), ("服務", "#services"), ("聯絡", "#contact")],
+        nav=[("工具", "#tools"), ("網站與頻道", "#sites"), ("新聞", "#news"), ("關於", "#about"), ("服務", "#services"), ("聯絡", "#contact")],
         eyebrow="大阪 · 網站設計",
         h1="王太陽", h1_en="Taiyang Wang",
         lead="網站設計者，也是工具開發者。用中文、日文與英文，做結構清楚、看得懂、搜得到的網站。",
@@ -57,7 +56,7 @@ T = {
         news_all="查看全部新聞 →",
         about_title="關於我", about_sub="Taiyang Wang（王太陽）",
         bio=[
-            "我住在大阪，日常用中文、日文與英文工作。經營一人制網站設計公司「東緲合同會社」，負責從需求整理、介面設計、前端開發，到上線後的 SEO 與 AI 搜尋可見度優化。",
+            "我住在大阪，日常用中文、日文與英文工作。經營網站設計公司「東緲合同會社」，負責從需求整理、介面設計、前端開發，到上線後的 SEO 與 AI 搜尋可見度優化。",
             "我做事的方式偏向實作：先做出能用的版本，再依照數據修正。這個網站本身，就是我拿來驗證這些做法的地方。",
         ],
         facts=[("所在地", "日本 · 大阪"), ("語言", "中文 · 日文 · 英文"), ("公司", "東緲合同會社"), ("業務", "網站設計 · SEO · GEO")],
@@ -72,13 +71,13 @@ T = {
         footer_blurb="網站設計者與工具開發者，把人的直覺與工程邏輯連起來。獨立工作室，大阪。",
         base_l="© 2026 王太陽 Taiyang Wang · 東緲合同會社", base_r="大阪 · Japan",
         skip="跳到正文", back_top="返回頂部",
-        group_labels=["AI 與效率", "計算與查詢", "生活與趣味", "社群"],
+        group_labels=["AI 與效率", "計算與查詢", "生活與趣味"],
     ),
     "ja": dict(
         lang="ja", path="/ja/", label="日本語", og_locale="ja_JP",
         title="王太陽 Taiyang Wang｜ウェブ制作・ツール・経済ニュース · 大阪 | wangtaiyang.com",
         desc="大阪在住のウェブデザイナー、王太陽（Taiyang Wang）の個人サイトです。無料のオンラインツール、毎日の世界経済ニュース、中国語・日本語・英語のウェブ制作・SEO・GEOを紹介しています。",
-        nav=[("ツール", "#tools"), ("ニュース", "#news"), ("プロフィール", "#about"), ("サービス", "#services"), ("連絡", "#contact")],
+        nav=[("ツール", "#tools"), ("サイト・チャンネル", "#sites"), ("ニュース", "#news"), ("プロフィール", "#about"), ("サービス", "#services"), ("連絡", "#contact")],
         eyebrow="大阪 · ウェブ制作",
         h1="王 太陽", h1_en="Taiyang Wang",
         lead="ウェブデザイナー兼ツール開発者。中国語・日本語・英語で、構造が分かりやすく、検索されるサイトを作ります。",
@@ -89,7 +88,7 @@ T = {
         news_all="すべてのニュースを見る →",
         about_title="プロフィール", about_sub="Taiyang Wang（王太陽）",
         bio=[
-            "大阪在住で、中国語・日本語・英語を使って仕事をしています。一人で運営するウェブ制作会社「東緲合同会社」では、要件整理、デザイン、フロントエンド開発から、公開後の SEO と AI 検索での見つけやすさまで担当しています。",
+            "大阪在住で、中国語・日本語・英語を使って仕事をしています。ウェブ制作会社「東緲合同会社」を経営し、要件整理、デザイン、フロントエンド開発から、公開後の SEO と AI 検索での見つけやすさまで担当しています。",
             "実装を先に進める方針です。まず使えるものを作り、データを見ながら直していきます。このサイト自体が、その方法を試している場所です。",
         ],
         facts=[("拠点", "日本・大阪"), ("言語", "中国語・日本語・英語"), ("会社", "東緲合同会社"), ("業務", "ウェブ制作・SEO/GEO")],
@@ -104,13 +103,13 @@ T = {
         footer_blurb="人の直感とエンジニアリングの論理をつなぐデジタル体験を作るウェブデザイナーです。独立系、大阪。",
         base_l="© 2026 王太陽 Taiyang Wang · 東緲合同会社", base_r="大阪 · Japan",
         skip="本文へ移動", back_top="トップへ戻る",
-        group_labels=["AI・効率", "計算・検索", "暮らし・遊び", "コミュニティ"],
+        group_labels=["AI・効率", "計算・検索", "暮らし・遊び"],
     ),
     "en": dict(
         lang="en", path="/en/", label="English", og_locale="en_US",
         title="Taiyang Wang｜Web Design, Free Tools & Finance News · Osaka | wangtaiyang.com",
         desc="Personal site of Taiyang Wang, a web designer in Osaka. Free online tools, daily world finance news with sources, and multilingual website design, SEO and GEO in Chinese, Japanese and English.",
-        nav=[("Tools", "#tools"), ("News", "#news"), ("About", "#about"), ("Services", "#services"), ("Contact", "#contact")],
+        nav=[("Tools", "#tools"), ("Sites & channels", "#sites"), ("News", "#news"), ("About", "#about"), ("Services", "#services"), ("Contact", "#contact")],
         eyebrow="Osaka · Web design",
         h1="Taiyang", h1_en="Wang",
         lead="Web designer and tool builder. I make multilingual sites in Chinese, Japanese and English that are clear to read and easy to find.",
@@ -121,7 +120,7 @@ T = {
         news_all="All news →",
         about_title="About", about_sub="Taiyang Wang",
         bio=[
-            "I live in Osaka and work in Chinese, Japanese and English. I run a one-person web design company, Higashi Miao Godo Kaisha, covering requirements, interface design, front-end development, and after launch, SEO and visibility in AI search.",
+            "I live in Osaka and work in Chinese, Japanese and English. I run a web design company, Higashi Miao Godo Kaisha, covering requirements, interface design, front-end development, and after launch, SEO and visibility in AI search.",
             "I prefer to build first: ship something usable, then refine it with data. This site is where I test these methods myself.",
         ],
         facts=[("Based", "Osaka, Japan"), ("Languages", "Chinese · Japanese · English"), ("Company", "Higashi Miao Godo Kaisha"), ("Services", "Web design · SEO · GEO")],
@@ -136,9 +135,45 @@ T = {
         footer_blurb="A web designer connecting human intuition with engineering logic. Independent studio, Osaka.",
         base_l="© 2026 Taiyang Wang · Higashi Miao Godo Kaisha", base_r="Osaka · Japan",
         skip="Skip to content", back_top="Back to top",
-        group_labels=["AI & productivity", "Calculate & look up", "Life & fun", "Community"],
+        group_labels=["AI & productivity", "Calculate & look up", "Life & fun"],
     ),
 }
+
+
+# Other sites and channels Taiyang runs. Descriptions come from each site's own pages.
+SITES_TEXT = {
+    "zh": dict(title="我的網站與頻道", sub="我經營的其他網站，以及影片頻道。", sites="網站", channels="頻道",
+               wechat_hint="在微信搜尋「{name}」", visit="前往"),
+    "ja": dict(title="運営サイト・チャンネル", sub="運営しているほかのサイトと動画チャンネルです。", sites="サイト", channels="チャンネル",
+               wechat_hint="WeChat で「{name}」を検索", visit="開く"),
+    "en": dict(title="My sites & channels", sub="Other sites I run, and my video channels.", sites="Sites", channels="Channels",
+               wechat_hint="Search \u201c{name}\u201d in WeChat", visit="Visit"),
+}
+SITES = [
+    dict(url="https://toumyou.com/", host="toumyou.com", name=dict(zh="東緲合同會社", ja="東緲合同会社", en="東緲合同会社 (Toumyou)"),
+         desc=dict(zh="公司官網：網站製作、系統開發、設計與 IT 維運，支援日、中、英三語。",
+                   ja="会社の公式サイト。Webサイト制作、システム開発、デザイン、IT運用保守。日本語・中国語・英語に対応。",
+                   en="Company site: websites, software development, design and IT operations, in Japanese, Chinese and English.")),
+    dict(url="https://kobox.ai/", host="kobox.ai", name=dict(zh="Kobox AI", ja="Kobox AI", en="Kobox AI"),
+         desc=dict(zh="用 AI 對話練習英語與日語的學習應用。",
+                   ja="AIとの会話で英語と日本語を実践的に学べる学習アプリ。",
+                   en="A learning app for practising English and Japanese by talking with AI.")),
+    dict(url="https://xojoj.com/", host="xojoj.com", name=dict(zh="小蝦米 Xiami", ja="小蝦米 Xiami", en="Xiami"),
+         desc=dict(zh="免費線上鬥地主、象棋、麻將、五子棋與 2048 等小遊戲，可與 AI 或真人對戰。",
+                   ja="闘地主・中国象棋・麻雀・五目並べ、2048 などのミニゲームを無料で。AIや他のプレイヤーと対戦できます。",
+                   en="Free online Dou Dizhu, xiangqi, mahjong, gomoku and casual games like 2048, against AI or real players.")),
+]
+CHANNELS = [
+    dict(url="https://www.youtube.com/@maliquankai", platform="YouTube", name=dict(zh="碼力全開", ja="碼力全開", en="碼力全開"),
+         desc=dict(zh="AI 主題頻道：AI 工具、開源軟體與科技新聞。",
+                   ja="AIがテーマのチャンネル。AIツール、オープンソースソフト、テックニュース。",
+                   en="An AI channel: AI tools, open-source software and tech news.")),
+    dict(url=None, platform="微信視頻號", name=dict(zh="財富密碼world", ja="財富密碼world", en="財富密碼world"),
+         platform_l=dict(zh="微信視頻號", ja="WeChat チャンネル", en="WeChat Channels"),
+         desc=dict(zh="日本新聞與中文翻譯，以及日語學習（JLPT 詞彙）影片。",
+                   ja="日本のニュースと中国語訳、日本語学習（JLPT 語彙）の動画。",
+                   en="Japanese news with Chinese translation, plus Japanese-learning (JLPT vocabulary) videos.")),
+]
 
 
 def esc(s):
@@ -155,9 +190,10 @@ def jsonld(lang):
          "alternateName": ["Taiyang Wang", "Taiyang"], "url": BASE + "/",
          "knowsLanguage": ["zh", "ja", "en"], "jobTitle": "Web Designer",
          "worksFor": {"@id": BASE + "/#org"}, "email": "mailto:" + EMAIL,
+         "sameAs": [c["url"] for c in CHANNELS if c["url"]],
          "address": {"@type": "PostalAddress", "addressLocality": "Osaka", "addressCountry": "JP"}},
         {"@type": "Organization", "@id": BASE + "/#org", "name": "東緲合同會社",
-         "alternateName": "Higashi Miao Godo Kaisha", "url": BASE + "/",
+         "alternateName": "Higashi Miao Godo Kaisha", "url": "https://toumyou.com/",
          "founder": {"@id": BASE + "/#person"},
          "address": {"@type": "PostalAddress", "addressLocality": "Osaka", "addressCountry": "JP"}},
         {"@type": "WebPage", "@id": url, "url": url, "inLanguage": t["lang"], "name": t["title"],
@@ -206,12 +242,29 @@ def head(lang):
 {ADSENSE}</head>"""
 
 
-def lang_switch():
-    out = []
-    for key in ["zh", "ja", "en"]:
-        t = T[key]
-        out.append(f'<a href="{t["path"]}" hreflang="{t["lang"]}">{t["label"]}</a>')
-    return '<div class="lang">' + "".join(out) + "</div>"
+def lang_dropdown(current, links):
+    """links: list of (lang_key, href, hreflang, label). Shared by the homepage and tool pages."""
+    cur_label = next(label for k, _, _, label in links if k == current)
+    items = "".join(
+        f'<a href="{href}" hreflang="{hl}" lang="{hl}"' + (' aria-current="page"' if k == current else "") + f'>{label}</a>'
+        for k, href, hl, label in links
+    )
+    return ('<details class="lang-dd"><summary aria-label="Language">'
+            '<svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="1.6" '
+            'd="M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm-9 9h18M12 3c2.5 2.6 3.8 5.6 3.8 9s-1.3 6.4-3.8 9c-2.5-2.6-3.8-5.6-3.8-9S9.5 5.6 12 3Z"/></svg>'
+            f'<span>{cur_label}</span><svg class="chev" viewBox="0 0 24 24" width="12" height="12" aria-hidden="true">'
+            '<path fill="none" stroke="currentColor" stroke-width="2" d="m6 9 6 6 6-6"/></svg></summary>'
+            f'<div class="lang-menu">{items}</div></details>' + LANG_DD_JS)
+
+
+LANG_DD_JS = ("<script>document.addEventListener('click',function(e){document.querySelectorAll('details.lang-dd[open]')"
+              ".forEach(function(d){if(!d.contains(e.target))d.removeAttribute('open')})});"
+              "document.addEventListener('keydown',function(e){if(e.key==='Escape')document.querySelectorAll('details.lang-dd[open]')"
+              ".forEach(function(d){d.removeAttribute('open')})});</script>")
+
+
+def lang_switch(current):
+    return lang_dropdown(current, [(k, T[k]["path"], T[k]["lang"], T[k]["label"]) for k in ["zh", "ja", "en"]])
 
 
 def tool_groups(lang):
@@ -234,6 +287,30 @@ def tool_groups(lang):
     return "".join(out)
 
 
+def sites_section(lang):
+    st = SITES_TEXT[lang]
+    site_cards = "".join(
+        f'<a class="tool" href="{x["url"]}"><span class="tool-host">{esc(x["host"])}</span>'
+        f'<strong>{esc(x["name"][lang])}</strong><span class="muted">{esc(x["desc"][lang])}</span></a>'
+        for x in SITES
+    )
+    ch_cards = []
+    for x in CHANNELS:
+        plat = x.get("platform_l", {}).get(lang, x["platform"])
+        inner = (f'<span class="tool-host">{esc(plat)}</span><strong>{esc(x["name"][lang])}</strong>'
+                 f'<span class="muted">{esc(x["desc"][lang])}</span>')
+        if x["url"]:
+            ch_cards.append(f'<a class="tool" href="{x["url"]}">{inner}</a>')
+        else:
+            hint = st["wechat_hint"].format(name=x["name"][lang])
+            ch_cards.append(f'<div class="tool tool-static">{inner}<span class="hint">{esc(hint)}</span></div>')
+    return (f'<section class="block wrap" id="sites">\n  <h2>{esc(st["title"])}</h2>\n'
+            f'  <p class="muted sub">{esc(st["sub"])}</p>\n'
+            f'  <h3 class="group">{esc(st["sites"])}</h3><div class="tools">{site_cards}</div>\n'
+            f'  <h3 class="group">{esc(st["channels"])}</h3><div class="tools">{"".join(ch_cards)}</div>\n'
+            f'</section>')
+
+
 def page(lang):
     t = T[lang]
     nav = "".join(f'<a href="{h}">{esc(n)}</a>' for n, h in t["nav"])
@@ -251,7 +328,7 @@ def page(lang):
   <div class="wrap bar">
     <a class="brand" href="#top">wangtaiyang<span>.com</span></a>
     <nav class="menu">{nav}</nav>
-    {lang_switch()}
+    {lang_switch(lang)}
   </div>
 </header>
 
@@ -273,6 +350,8 @@ def page(lang):
   {tool_groups(lang)}
   <p class="all"><a href="{t['path']}tools/">{esc(t['own_link'])}</a></p>
 </section>
+
+{sites_section(lang)}
 
 <section class="block wrap" id="news">
   <h2>{esc(t['news_title'])}</h2>
@@ -358,9 +437,24 @@ p { margin: 0 0 12px; }
 .menu { display: flex; gap: 18px; margin-left: auto; flex-wrap: wrap; }
 .menu a { color: var(--muted); font-size: 14px; }
 .menu a:hover { color: var(--text); text-decoration: none; }
-.lang { display: flex; gap: 10px; font-size: 13px; }
-.lang a { color: var(--muted); }
-.lang a:hover { color: var(--text); }
+/* language dropdown */
+.lang-dd { position: relative; font-size: 13px; }
+.lang-dd summary { list-style: none; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--text); user-select: none; }
+.lang-dd summary::-webkit-details-marker { display: none; }
+.lang-dd summary:hover { border-color: var(--accent); }
+.lang-dd .chev { transition: transform .15s; }
+.lang-dd[open] .chev { transform: rotate(180deg); }
+.lang-menu { position: absolute; right: 0; top: calc(100% + 6px); min-width: 132px; background: var(--bg);
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 10px 30px rgba(15,23,42,.10); padding: 6px; z-index: 30; }
+.lang-menu a { display: block; padding: 8px 12px; border-radius: 8px; color: var(--text); }
+.lang-menu a:hover { background: var(--soft); text-decoration: none; }
+.lang-menu a[aria-current="page"] { color: var(--accent); font-weight: 600; }
+
+/* static cards (no link), e.g. WeChat Channels */
+.tool-static { cursor: default; }
+.tool-static:hover { border-color: var(--line); box-shadow: none; }
+.tool .hint { font-size: 12px; color: var(--accent); margin-top: 4px; }
 
 /* hero */
 .hero { padding: 88px 20px 56px; }
@@ -423,8 +517,9 @@ p { margin: 0 0 12px; }
 .foot-row a { margin-left: auto; }
 
 @media (max-width: 640px) {
-  .bar { height: auto; padding: 14px 0; flex-wrap: wrap; gap: 10px; }
-  .menu { margin-left: 0; gap: 14px; }
+  .bar { height: auto; padding: 12px 20px; flex-wrap: wrap; gap: 10px; }
+  .lang-dd { order: 2; margin-left: auto; }
+  .menu { order: 3; width: 100%; margin-left: 0; gap: 14px; }
   .hero { padding: 56px 20px 40px; }
   .block { padding: 44px 20px; }
 }

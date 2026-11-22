@@ -15,7 +15,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from build_site import ADSENSE, BASE, EMAIL  # noqa: E402
+from build_site import ADSENSE, BASE, EMAIL, lang_dropdown  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = os.path.join(ROOT, "site")
@@ -369,17 +369,13 @@ def head(lang, title, desc, path, ld, alt_paths):
 
 def topbar(lang, alt_paths):
     u = UI[lang]
-    current = ' aria-current="page"'
-    switch = "".join(
-        f'<a href="{alt_paths[k]}" hreflang="{HREFLANG[k]}"{current if k == lang else ""}>{LANG_LABEL[k]}</a>'
-        for k in LANGS
-    )
+    switch = lang_dropdown(lang, [(k, alt_paths[k], HREFLANG[k], LANG_LABEL[k]) for k in LANGS])
     return f"""<a class="skip" href="#main">{esc(u['skip'])}</a>
 <header class="top">
   <div class="wrap bar">
     <a class="brand" href="{PREFIX[lang]}">wangtaiyang<span>.com</span></a>
     <nav class="menu"><a href="{PREFIX[lang]}">{esc(u['home'])}</a><a href="{page_path(lang)}">{esc(u['tools'])}</a></nav>
-    <div class="lang">{switch}</div>
+    {switch}
   </div>
 </header>"""
 

@@ -36,9 +36,24 @@ p { margin: 0 0 12px; }
 .menu { display: flex; gap: 18px; margin-left: auto; flex-wrap: wrap; }
 .menu a { color: var(--muted); font-size: 14px; }
 .menu a:hover { color: var(--text); text-decoration: none; }
-.lang { display: flex; gap: 10px; font-size: 13px; }
-.lang a { color: var(--muted); }
-.lang a:hover { color: var(--text); }
+/* language dropdown */
+.lang-dd { position: relative; font-size: 13px; }
+.lang-dd summary { list-style: none; display: inline-flex; align-items: center; gap: 6px; cursor: pointer;
+  padding: 6px 10px; border: 1px solid var(--line); border-radius: 999px; color: var(--text); user-select: none; }
+.lang-dd summary::-webkit-details-marker { display: none; }
+.lang-dd summary:hover { border-color: var(--accent); }
+.lang-dd .chev { transition: transform .15s; }
+.lang-dd[open] .chev { transform: rotate(180deg); }
+.lang-menu { position: absolute; right: 0; top: calc(100% + 6px); min-width: 132px; background: var(--bg);
+  border: 1px solid var(--line); border-radius: 12px; box-shadow: 0 10px 30px rgba(15,23,42,.10); padding: 6px; z-index: 30; }
+.lang-menu a { display: block; padding: 8px 12px; border-radius: 8px; color: var(--text); }
+.lang-menu a:hover { background: var(--soft); text-decoration: none; }
+.lang-menu a[aria-current="page"] { color: var(--accent); font-weight: 600; }
+
+/* static cards (no link), e.g. WeChat Channels */
+.tool-static { cursor: default; }
+.tool-static:hover { border-color: var(--line); box-shadow: none; }
+.tool .hint { font-size: 12px; color: var(--accent); margin-top: 4px; }
 
 /* hero */
 .hero { padding: 88px 20px 56px; }
@@ -101,8 +116,9 @@ p { margin: 0 0 12px; }
 .foot-row a { margin-left: auto; }
 
 @media (max-width: 640px) {
-  .bar { height: auto; padding: 14px 0; flex-wrap: wrap; gap: 10px; }
-  .menu { margin-left: 0; gap: 14px; }
+  .bar { height: auto; padding: 12px 20px; flex-wrap: wrap; gap: 10px; }
+  .lang-dd { order: 2; margin-left: auto; }
+  .menu { order: 3; width: 100%; margin-left: 0; gap: 14px; }
   .hero { padding: 56px 20px 40px; }
   .block { padding: 44px 20px; }
 }

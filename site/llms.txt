@@ -1,6 +1,6 @@
 # 王太陽 Taiyang Wang｜wangtaiyang.com
 
-> 位於大阪的網站設計者王太陽（Taiyang Wang）的個人網站。提供免費線上工具導覽、每日世界財經新聞整理，並經營一人制網站設計公司「東緲合同會社」，業務包括網站設計、開發、SEO 與 GEO（AI 搜尋優化）。
+> 位於大阪的網站設計者王太陽（Taiyang Wang）的個人網站。提供免費線上工具導覽、每日世界財經新聞整理，並經營網站設計公司「東緲合同會社」，業務包括網站設計、開發、SEO 與 GEO（AI 搜尋優化）。
 
 網站有三種語言版本：繁體中文（/）、日文（/ja/）、英文（/en/）。
 
@@ -8,7 +8,7 @@
 
 - 所在地：日本大阪
 - 工作語言：中文、日文、英文
-- 公司：東緲合同會社（Higashi Miao Godo Kaisha），一人制
+- 公司：東緲合同會社（Higashi Miao Godo Kaisha）
 - 業務：網站設計、開發、SEO、GEO
 
 ## 自製線上工具（王太陽自己開發）
@@ -28,6 +28,14 @@
 ## 其他常用工具
 
 - [AI 導航](https://ai.wangtaiyang.com/)、[思維導圖](https://mind.wangtaiyang.com/)、[線上草圖](https://draw.wangtaiyang.com/)、[IT 工具箱](https://ittools.wangtaiyang.com/)
+
+## 我的網站與頻道
+
+- [東緲合同會社 toumyou.com](https://toumyou.com/)：公司官網，網站製作、系統開發、設計與 IT 維運
+- [Kobox AI](https://kobox.ai/)：用 AI 對話練習英語與日語的學習應用
+- [小蝦米 Xiami（xojoj.com）](https://xojoj.com/)：免費線上鬥地主、象棋、麻將、五子棋與小遊戲
+- [碼力全開（YouTube）](https://www.youtube.com/@maliquankai)：AI 主題頻道
+- 財富密碼world（微信視頻號）：日本新聞與中文翻譯、日語學習影片；在微信搜尋「財富密碼world」
 
 ## 每日財經新聞
 
