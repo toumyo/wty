@@ -248,7 +248,7 @@ def head(lang):
 <script type="application/ld+json">
 {jsonld(lang)}
 </script>
-<link rel="preload" as="image" type="image/webp" href="/assets/img/meishi-1280.webp" imagesrcset="/assets/img/meishi-1280.webp 1280w, /assets/img/meishi-2464.webp 2464w" imagesizes="(max-width: 1040px) 100vw, 1000px">
+<link rel="preload" as="image" type="image/svg+xml" href="/assets/img/meishi.svg">
 <link rel="stylesheet" href="{css_href()}">
 {ADSENSE}</head>"""
 
@@ -346,10 +346,7 @@ def page(lang):
 <main id="main">
 
 <div class="meishi wrap">
-  <a href="/card/" aria-label="{esc(t['meishi_link'])}"><picture>
-    <source type="image/webp" srcset="/assets/img/meishi-1280.webp 1280w, /assets/img/meishi-2464.webp 2464w" sizes="(max-width: 1040px) 100vw, 1000px">
-    <img src="/assets/img/meishi-1280.jpg" width="1280" height="774" style="max-width:100%;height:auto" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async">
-  </picture></a>
+  <a href="/card/" aria-label="{esc(t['meishi_link'])}"><img src="/assets/img/meishi.svg" width="3000" height="1813" style="max-width:100%;height:auto" alt="{esc(t['meishi_alt'])}" fetchpriority="high" decoding="async"></a>
 </div>
 
 <section class="hero wrap" id="top">

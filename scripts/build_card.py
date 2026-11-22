@@ -176,10 +176,7 @@ PAGE = """<!doctype html>
 <img class="share-thumb" src="/assets/img/card-share.png" width="300" height="300" alt="">
 <main class="wrap">
   <div class="card">
-    <picture>
-      <source type="image/webp" srcset="/assets/img/meishi-1280.webp 1280w, /assets/img/meishi-2464.webp 2464w" sizes="(max-width: 620px) 100vw, 620px">
-      <img src="/assets/img/meishi-1280.jpg" width="1280" height="774" alt="{name}的名片：{company}（{company_en}），大阪。{services_zh}" fetchpriority="high">
-    </picture>
+    <img src="/assets/img/meishi.svg" width="3000" height="1813" alt="{name}的名片：{company}（{company_en}），大阪。{services_zh}" fetchpriority="high">
   </div>
 
   <div class="who">
