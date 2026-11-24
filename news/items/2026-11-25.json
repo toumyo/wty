@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-25",
+  "items": [
+    {
+      "sources": [
+        {"name": "AP (via KRMG)", "url": "https://krmg.com/2026/11/24/how-major-us-stock-indexes-fared-tuesday-11-24-2026/"},
+        {"name": "24/7 Wall St.", "url": "https://247wallst.com/cards/the-dow-closed-above-50-000-for-the-first-time-while-the-nas-gspc-market-bell-01m87nyn7mshvn15b2vdser41w"}
+      ],
+      "zh": {"title": "道瓊收於5萬點之上，科技股拖累納斯達克", "summary": "11月24日（周二）道瓊工業指數上漲0.9%，收於50,018.70點，首次站上5萬點。標普500指數下跌0.5%，收於7,201.09點；納斯達克綜合指數下跌1.5%，收於23,733.54點。科技股領跌，但科技以外的多數板塊上漲。"},
+      "ja": {"title": "ダウ初の5万ドル超え　ハイテク株安で指数は分化", "summary": "11月24日のニューヨーク株式市場で、ダウ平均は0.9%高の50,018.70ドルと初めて5万ドルを上回った。一方、S&P500は0.5%安の7,201.09、ナスダック総合指数は1.5%安の23,733.54で引けた。ハイテク株の下落が主因で、それ以外の業種の多くは上昇した。"},
+      "en": {"title": "Dow closes above 50,000 for first time as tech slides", "summary": "On Tuesday, Nov. 24, the Dow rose 0.9% to 50,018.70, its first close above 50,000. The S&P 500 fell 0.5% to 7,201.09 and the Nasdaq Composite dropped 1.5% to 23,733.54, while most sectors outside tech gained."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "輝達回落約6%，黃仁勳復任後的反彈受挫", "summary": "輝達前一交易日因董事會重新任命黃仁勳為執行長而大漲31%，11月24日收跌約6%。AMD、美光與博通等晶片股也同步下跌，AI相關股承壓。"},
+      "ja": {"title": "エヌビディア反落　フアン氏復帰後の上昇分を一部返上", "summary": "エヌビディアは、取締役会がジェンスン・フアン氏のCEO復帰を決めた前日に31%急騰したが、11月24日は約6%下落した。AMD、マイクロン、ブロードコムなどの半導体株も下げ、AI関連株に売りが広がった。"},
+      "en": {"title": "Nvidia gives back part of 31% rally after Huang's return", "summary": "Nvidia fell about 6% on Tuesday, after surging 31% the prior session when its board reinstated Jensen Huang as CEO. AMD, Micron and Broadcom also declined as pressure on the AI trade returned."}
+    },
+    {
+      "sources": [
+        {"name": "24/7 Wall St.", "url": "https://247wallst.com/cards/the-dow-closed-above-50-000-for-the-first-time-while-the-nas-gspc-market-bell-01m87nyn7mshvn15b2vdser41w"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "類比晶片與HPE大跌，硬體股全面承壓", "summary": "Analog Devices 即使公布第四季創紀錄業績，11月24日仍下跌約17%。HPE 因雲端與AI利潤率展望轉弱，股價大跌約16%。同日醫藥股表現強勁，Sanofi 上漲約11%。"},
+      "ja": {"title": "アナログ・デバイセズとHPEが大幅安　ハードウエア株に売り", "summary": "アナログ・デバイセズは第4四半期に過去最高の業績を発表したにもかかわらず、11月24日に約17%下落した。HPEはクラウドとAIの利益率見通しが弱く、約16%安となった。一方、サノフィは約11%高と医薬品株の上昇が目立った。"},
+      "en": {"title": "Analog Devices and HPE slide double digits as hardware stocks sell off", "summary": "Analog Devices fell about 17% on Tuesday despite record fourth-quarter results, and HPE dropped about 16% after guiding to lower cloud and AI margins. Drugmakers such as Sanofi, up about 11%, were among the day's biggest gainers."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "Anthropic股價跌破83美元IPO價", "summary": "AI公司Anthropic上市僅三天便跌破83美元的IPO價格，11月24日收於81.91美元，下跌約6.5%。Needham分析師指出，市場關注其龐大資金需求、內部人可能出售股票，以及上市後的獲利了結賣壓。"},
+      "ja": {"title": "Anthropic株がIPO価格を下回る　終値は81.91ドル", "summary": "AI企業Anthropicの株価は、上場からわずか3日後に83ドルのIPO価格を割り込んだ。11月24日の終値は81.91ドルで、約6.5%安となった。Needhamのアナリストは、巨額の資金需要、インサイダーによる株式売却の可能性、上場後の利益確定売りを背景に挙げている。"},
+      "en": {"title": "Anthropic shares slip below $83 IPO price", "summary": "Anthropic closed at $81.91 on Tuesday, down about 6.5%, after falling below its $83 IPO price just three days after listing. Needham analysts cited its capital needs, a possible overhang from insider selling and post-IPO profit-taking."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "Kohl's、百思買財報亮眼，股價大漲", "summary": "Kohl's 第三季同店銷售轉為正成長，為四年來首次，股價盤中大漲約15%。百思買同店銷售成長6.1%，為五年來最佳，並上調全年展望。Dollar Tree 與 Dick's Sporting Goods 也因財測上修而大漲。"},
+      "ja": {"title": "コールズ、ベストバイ決算が好感され株価急伸", "summary": "コールズは4年ぶりに既存店売上高のプラス成長を達成し、株価は取引中に約15%上昇した。ベストバイは既存店売上高が6.1%増と5年ぶりの好調を示し、通期見通しを引き上げた。ダラーツリーやディックス・スポーツ用品も業績見通しの上方修正を受けて上昇した。"},
+      "en": {"title": "Kohl's and Best Buy rally on earnings beats", "summary": "Kohl's posted positive comparable sales growth for the first time in four years and rose about 15% midday. Best Buy reported 6.1% same-store sales growth, its best in five years, and raised its outlook; Dollar Tree and Dick's Sporting Goods also rallied after raising guidance."}
+    },
+    {
+      "sources": [
+        {"name": "GuruFocus (TradingView)", "url": "https://www.tradingview.com/news/gurufocus:8e3f8407c094b:0-advantest-stocks-jump-12-45-as-tokyo-chip-testers-lead-huang-rebound/"},
+        {"name": "MarketScreener", "url": "https://www.marketscreener.com/news/japan-s-nikkei-soars-on-huang-s-nvidia-comeback-advantest-rises-nearly-14--ce7851dade8cfe2d"},
+        {"name": "Invezz", "url": "https://invezz.com/ng/news/2026/11/24/nikkei-225-index-jumps-as-tech-stocks-rebound-is-this-the-end-of-the-bear-market/"}
+      ],
+      "zh": {"title": "日經225指數大漲3.91%，半導體設備股領漲", "summary": "11月24日東京股市（周一因假日休市）日經225指數收於58,644.63點，上漲3.91%；TOPIX約上漲2.5%。Advantest 股價大漲12.45%，市場受美國AI股反彈帶動，晶片相關股普遍走高。"},
+      "ja": {"title": "日経平均3.91%高、半導体関連株が牽引", "summary": "11月24日の東京株式市場で、日経平均株価は3.91%高の58,644.63円で取引を終えた。前日は祝日で休場だった。TOPIXも約2.5%上昇した。アドバンテストは12.45%高と急伸し、米国のAI関連株の反発を受けて半導体関連株が買われた。"},
+      "en": {"title": "Nikkei 225 jumps 3.9% as chip stocks rebound", "summary": "The Nikkei 225 closed up 3.91% at 58,644.63 on Nov. 24, the first session after Monday's holiday, while TOPIX rose about 2.5%. Advantest jumped 12.45%, with chip names leading the rebound following the US tech rally."}
+    },
+    {
+      "sources": [
+        {"name": "GuruFocus (TradingView)", "url": "https://www.tradingview.com/news/gurufocus:8e3f8407c094b:0-advantest-stocks-jump-12-45-as-tokyo-chip-testers-lead-huang-rebound/"},
+        {"name": "Invezz", "url": "https://invezz.com/ng/news/2026/11/24/nikkei-225-index-jumps-as-tech-stocks-rebound-is-this-the-end-of-the-bear-market/"}
+      ],
+      "zh": {"title": "鎧俠、Ibiden、村田製作所等個股大漲", "summary": "11月24日鎧俠（Kioxia）上漲約9.95%，Ibiden 上漲約15%，村田製作所上漲約14.9%，市場關注資料中心需求帶動的AI相關商機。東京電子在盤中也一度大漲近10%。"},
+      "ja": {"title": "キオクシア、イビデン、村田製作所が急伸", "summary": "11月24日、キオクシアは約9.95%高、イビデンは約15%高、村田製作所は約14.9%高となった。データセンター向け需要などAI関連の材料が買いを集めた。東京エレクトロンも取引序盤に約10%上昇した。"},
+      "en": {"title": "Kioxia, Ibiden and Murata surge in Tokyo", "summary": "Kioxia rose about 10%, Ibiden nearly 15% and Murata Manufacturing about 15% on Nov. 24, with data-center and AI demand cited. Tokyo Electron also jumped close to 10% early in the session."}
+    },
+    {
+      "sources": [
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/news/japanese-yen-edges-higher-as-cpi-data-reinforces-december-boj-rate-hike-expectations-202611200630"}
+      ],
+      "zh": {"title": "日本10月全國CPI升2.3%，12月加息預期升溫", "summary": "日本10月全國CPI同比上升2.3%，扣除生鮮食品的核心CPI升2.2%，連續第二個月高於日銀2%的目標。植田和男總裁表示將持續升息，市場估計12月18日會議加息25個基點的機率約為85%。"},
+      "ja": {"title": "10月の全国CPIは2.3%上昇　12月の利上げ観測強まる", "summary": "10月の全国消費者物価指数（CPI）は前年同月比2.3%上昇し、生鮮食品を除く指数は2.2%上昇した。いずれも日銀の物価目標2%を2カ月連続で上回った。植田総裁は利上げを続ける姿勢を示し、12月18日の会合での0.25%利上げは約85%織り込まれているとされる。"},
+      "en": {"title": "Japan's October CPI at 2.3%, December BoJ hike seen likely", "summary": "Japan's national CPI rose 2.3% year on year in October, and core CPI (excluding fresh food) rose 2.2%, above the BoJ's 2% target for a second straight month. Gov. Ueda signaled further rate hikes, and a 25bp hike at the Dec. 18 meeting is reportedly about 85% priced in."}
+    },
+    {
+      "sources": [
+        {"name": "FXStreet", "url": "https://www.fxstreet.com/news/japanese-yen-edges-higher-as-cpi-data-reinforces-december-boj-rate-hike-expectations-202611200630"}
+      ],
+      "zh": {"title": "日圓兌美元徘徊在159附近，市場留意干預風險", "summary": "11月20日美元兌日圓在159.20附近波動，日圓因CPI數據與12月加息預期而小幅走強。Brown Brothers Harriman指出，接近160關口時干預風險上升，追逐日圓走弱的風險報酬比下降。"},
+      "ja": {"title": "ドル円は159円台で推移　為替介入への警戒続く", "summary": "11月20日のドル円は159円20銭付近で推移した。CPIを受けて12月の日銀利上げ期待が高まり、円はやや買われた。ブラウン・ブラザーズ・ハリマンは160円付近での為替介入リスクを指摘し、円安を追いかける投資の妙味は小さいとしている。"},
+      "en": {"title": "Yen hovers near 159 per dollar; intervention risk in focus", "summary": "USD/JPY traded near 159.20 on Nov. 20 as Japan's CPI data strengthened expectations for a December BoJ hike. Brown Brothers Harriman flagged intervention risk near 160, making further yen-weakness trades less attractive."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
+        {"name": "Yahoo Finance (Fed hike odds, Nov. 10)", "url": "https://finance.yahoo.com/economy/policy/articles/fed-rate-hike-odds-december-035134676.html"}
+      ],
+      "zh": {"title": "市場押注美聯儲12月加息機率升至約95%", "summary": "11月24日市場報導顯示，交易員將美聯儲12月加息25個基點的機率定價在約95%。美聯儲今年9月加息、10月維持不變，主席華許（Kevin Warsh）的立場成為市場焦點，AI股波動也被視為其政策的考驗。"},
+      "ja": {"title": "12月FRB利上げ確率は約95%と市場が織り込む", "summary": "11月24日の市場報道によると、トレーダーは12月の米連邦公開市場委員会（FOMC）での0.25%利上げをほぼ確実視している。FRBは9月に利上げを行い、10月は据え置いた。ウォーシュ議長の姿勢が注目され、AI株の変動は政策判断の試金石との見方がある。"},
+      "en": {"title": "Markets price ~95% chance of December Fed hike", "summary": "On Nov. 24, traders priced roughly a 95% probability of a 25bp Fed rate hike in December. The Fed hiked in September and held in October under Chair Kevin Warsh, and analysts say AI-stock volatility is a test of his policy path."}
+    },
+    {
+      "sources": [
+        {"name": "Euronews", "url": "https://euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"}
+      ],
+      "zh": {"title": "歐洲央行維持利率2.5%，拉加德宣布提前卸任", "summary": "歐洲央行10月29日維持存款利率在2.5%不變，同日拉加德宣布將於2027年2月7日離任。歐元區9月通膨率升至3.8%，法國10年期國債殖利率一度升破5%，為2002年以來首見。"},
+      "ja": {"title": "ECB、政策金利2.5%で据え置き　ラガルド総裁が早期退任へ", "summary": "欧州中央銀行（ECB）は10月29日、預金金利を2.5%で据え置いた。同日、ラガルド総裁が2027年2月7日に退任すると発表した。ユーロ圏のインフレ率は9月に3.8%に達し、フランス10年債利回りは2002年以来初めて5%を超えた。"},
+      "en": {"title": "ECB holds at 2.5%; Lagarde to step down early", "summary": "The ECB kept its deposit rate at 2.5% on Oct. 29, the same day Christine Lagarde said she would leave on Feb. 7, 2027. Eurozone inflation reached 3.8% in September, and French 10-year yields climbed above 5% for the first time since 2002."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "美國銀行證券未實現虧損第三季增50%至4,860億美元", "summary": "美國聯邦存款保險公司（FDIC）數據顯示，銀行持有證券的未實現虧損在第三季增加50%，達4,860億美元，主因是利率大幅上升。同期銀行貸款年增7.5%，為2023年第一季以來最快；FDIC表示產業資本與流動性仍維持穩健。"},
+      "ja": {"title": "米銀行の未実現証券損失、7〜9月期に50%増の4,860億ドル", "summary": "米連邦預金保険公社（FDIC）の発表によると、米銀行が保有する証券の未実現損失は7〜9月期に50%増の4,860億ドルとなった。金利の急上昇が主因だ。一方、銀行融資は前年比7.5%増と2023年第1四半期以来の速さで伸びた。"},
+      "en": {"title": "US banks' unrealized securities losses jump 50% in Q3", "summary": "Unrealized losses on securities held by US banks rose 50% in the third quarter to $486 billion, according to FDIC data, as interest rates surged. Total bank loans grew 7.5% from a year earlier, the fastest quarterly pace since Q1 2023, and the FDIC said capital and liquidity remained strong."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "zh": {"title": "微軟因11月中旬大規模故障宣布「紅色警戒」", "summary": "據路透社引述內部備忘錄，微軟因11月12至13日約24小時的故障（Outlook、Teams與Copilot中斷）宣布最高優先級的「紅色警戒」。根源是今年7月引入、約四個月未被發現的軟體缺陷，目標是把未來問題在一小時內修復。"},
+      "ja": {"title": "マイクロソフト、11月の大規模障害を受け「コードレッド」を宣言", "summary": "ロイターが社内メモを引用して報じたところによると、マイクロソフトは11月12〜13日の約24時間の障害（Outlook、Teams、Copilotが停止）を受け、最優先の警戒態勢「コードレッド」を宣言した。原因は7月に導入された同社ソフトの欠陥で、約4カ月見過ごされていた。"},
+      "en": {"title": "Microsoft declares \"code red\" after mid-November outage", "summary": "Microsoft declared a top-priority \"code red\" after a roughly 24-hour outage on Nov. 12–13 knocked out Outlook, Teams and Copilot, according to internal memos reported by Reuters. The flaw was introduced in July and went unnoticed for about four months; the company aims to fix future problems within an hour."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
+        {"name": "Invezz", "url": "https://invezz.com/ng/news/2026/11/24/nikkei-225-index-jumps-as-tech-stocks-rebound-is-this-the-end-of-the-bear-market/"}
+      ],
+      "zh": {"title": "油價11月24日上漲約1%，美伊局勢仍受關注", "summary": "11月24日油價上漲約1%，AP 報導指出能源價格持續推升通膨疑慮。此前原油因美伊週末未升級對立而走低，但市場警惕緊張局勢隨時可能再度升溫。"},
+      "ja": {"title": "原油相場は11月24日に約1%上昇　米イラン情勢を注視", "summary": "11月24日の原油相場は約1%上昇した。AP通信によると、エネルギー価格はインフレ懸念を強めている。週末に米国とイランの対立が激化しなかったため、直前は原油が下落していたが、緊張が再燃するリスクは残っている。"},
+      "en": {"title": "Oil rises about 1% as US–Iran tensions linger", "summary": "Oil prices rose about 1% on Tuesday, with energy costs feeding inflation concerns. Crude had fallen earlier as the US and Iran avoided escalation over the weekend, but markets remain alert to a possible flare-up in tensions."}
+    },
+    {
+      "sources": [
+        {"name": "MarketScreener", "url": "https://www.marketscreener.com/news/japan-s-nikkei-soars-on-huang-s-nvidia-comeback-advantest-rises-nearly-14--ce7851dade8cfe2d"}
+      ],
+      "zh": {"title": "比特幣跌回6萬美元下方", "summary": "比特幣在11月24日下跌約2%，回到6萬美元下方，科技股短暫反彈後未能延續。以太坊等主要加密資產同步走弱。"},
+      "ja": {"title": "ビットコインは再び6万ドルを下回る", "summary": "ビットコインは11月24日に約2%下落し、6万ドルを下回った。テック株の反発が長続きしなかったことが背景にある。イーサリアムなど主要な暗号資産も下落した。"},
+      "en": {"title": "Bitcoin slips back below $60,000", "summary": "Bitcoin fell about 2% on Nov. 24 to below $60,000 after a tech-stock rebound proved short-lived. Ether and other major cryptocurrencies also declined."}
+    }
+  ]
+}
