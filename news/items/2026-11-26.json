@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-26",
+  "items": [
+    {
+      "sources": [
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "道瓊收漲0.3%至50,182.95點，標普500與納指小幅收跌", "summary": "11月25日（周三）美股收盤：道瓊工業指數上漲0.33%至50,182.95點，盤中一度下跌約1,100點後回升；標普500指數下跌0.25%至7,182.78點；納斯達克綜合指數下跌0.62%至23,585.80點。美股於11月26日感恩節休市，27日半日交易。"},
+      "ja": {"title": "ダウ0.33%高の50,182.95ドル、S&P500とナスダックは小幅安", "summary": "11月25日の米株式市場は、ダウ工業株30種平均が0.33%高の50,182.95ドルで取引を終えた。取引中は一時1,100ドル近く下落していた。S&P500は0.25%安の7,182.78、ナスダック総合指数は0.62%安の23,585.80。米市場は感謝祭のため26日（木）は休場、27日（金）は短縮取引となる。"},
+      "en": {"title": "Dow closes up 0.3% at 50,182.95; S&P 500 and Nasdaq slip", "summary": "On Wednesday, Nov 25, the Dow rose 0.33% to 50,182.95 after falling about 1,100 points intraday. The S&P 500 fell 0.25% to 7,182.78 and the Nasdaq Composite lost 0.62% to 23,585.80. US markets are closed Thursday for Thanksgiving and reopen Friday for a shortened session."}
+    },
+    {
+      "sources": [
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "輝達收跌3.9%，AI股拋售加劇，納指100逼近熊市", "summary": "輝達（NVDA）11月25日收跌3.91%至149.30美元，前一交易日已下跌5.9%。盤中納斯達克100指數一度較歷史高點下跌20%，接近熊市。市場對AI獲利能力與過度投資的擔憂再度升溫，黃仁勳重返執行長職位的提振效果未能持續。"},
+      "ja": {"title": "エヌビディア3.9%安、AI株売りで ナスダック100は弱気相場入り寸前", "summary": "エヌビディアは11月25日に3.91%安の149.30ドルで引けた。前日も5.9%下落していた。取引中はナスダック100が過去最高値から一時20%下落し、弱気相場の目安に迫った。AIの収益性や過剰投資への懸念が再燃し、ジェンスン・ファン氏の復帰による買い安心感は続かなかった。"},
+      "en": {"title": "Nvidia closes down 3.9% as AI selloff deepens; Nasdaq-100 nears bear market", "summary": "Nvidia fell 3.91% to $149.30 on Nov 25 after dropping 5.9% the previous session. The Nasdaq-100 briefly sat 20% below its record close, near bear-market territory. Doubts about AI profitability and overinvestment resurfaced, and the rebound after Jensen Huang returned as CEO did not hold."}
+    },
+    {
+      "sources": [
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "美國擬對14個貿易夥伴加徵最高20%關稅，中國與歐盟在列", "summary": "11月25日美國政府提出新的進口關稅方案，涵蓋中國、歐盟等14個主要貿易夥伴，最高稅率20%，疊加於既有關稅之上。方案源於針對過剩產能的調查，須經聽證與公開評論期，最快明年1月生效。貿易摩擦再起，也使通脹前景更加複雜。"},
+      "ja": {"title": "米政権、14の貿易相手国に最大20%の追加関税案 中国・EUも対象", "summary": "米政府は11月25日、中国やEUを含む14の主要貿易相手国からの輸入品に対し、最大20%の追加関税を課す案を発表した。過剰生産能力に関する調査に基づき、既存の関税に上乗せされる。公聴会と意見募集の手続きを経るため、発効は早くても来年1月となる見通し。"},
+      "en": {"title": "US proposes tariffs of up to 20% on 14 trading partners, including China and EU", "summary": "On Nov 25 the Trump administration proposed duties of up to 20% on imports from 14 major trading partners, including China and the European Union, stacked on existing tariffs. The proposal follows an investigation into excess industrial capacity. It requires hearings and a comment period, so January is the earliest likely start."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"}
+      ],
+      "zh": {"title": "10月PCE物價年增3.8%，核心PCE升至3.3%，高於預期", "summary": "美國商務部11月25日公布，10月PCE物價指數月增0.3%、年增3.8%，為2023年以來最高。核心PCE年增3.3%，高於預測的3.2%。第三季GDP經修正後年化增長4.3%，高於初值的3.4%。"},
+      "ja": {"title": "10月PCE物価は前年比3.8%、2023年以来の高水準　コアは3.3%", "summary": "米商務省が11月25日に発表した10月のPCE物価指数は、前月比0.3%上昇、前年比3.8%となり、2023年以来の高水準となった。変動の大きい食品・エネルギーを除くコアPCEは前年比3.3%で、市場予想の3.2%を上回った。7〜9月期のGDPは年率4.3%増に上方修正された。"},
+      "en": {"title": "October PCE inflation hits 3.8%, core at 3.3%, above forecasts", "summary": "The Commerce Department reported on Nov 25 that October PCE prices rose 0.3% month-on-month and 3.8% year-on-year, the highest annual reading since 2023. Core PCE was 3.3% year-on-year versus 3.2% expected. Third-quarter GDP was revised up to a 4.3% annualized pace from 3.4%."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"},
+        {"name": "Anchorage Daily News (AP)", "url": "https://www.adn.com/business-economy/2026/11/18/fed-minutes-higher-interest-rates-needed-in-december-as-inflation-worries-mount/"}
+      ],
+      "zh": {"title": "市場幾乎全押注12月升息，聯準會紀要顯示多數官員傾向加息", "summary": "CME FedWatch顯示，市場預期12月升息25個基點的機率約為97%至98%。11月18日公布的10月會議紀要顯示，幾乎所有官員都預期12月加息，有官員提議加息50個基點。大多數官員擔心，即使能源價格回落，通脹仍可能持續。"},
+      "ja": {"title": "12月利上げの織り込みは約97%、FOMC議事要旨は利上げ支持が多数", "summary": "CMEのFedWatchによると、12月に0.25%の利上げが実施される確率は97〜98%に達した。11月18日公表の10月会合の議事要旨では、ほぼ全員が12月の利上げを予想し、0.5%の利上げ可能性にも言及があった。大多数の当局者は、エネルギー価格が下落してもインフレが持続するおそれを懸念している。"},
+      "en": {"title": "Markets price near-certain December Fed hike after hot inflation", "summary": "CME FedWatch shows roughly 97–98% odds of a 25 bp hike in December. Minutes of the October meeting, released Nov 18, showed nearly all officials expect a December increase, and two floated a half-point move. A vast majority worried inflation could persist even as energy prices fall."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "避險資金轉向美債，10年期殖利率降至4.82%", "summary": "11月25日科技股拋售，投資人轉向美國國債。10年期殖利率下跌7個基點至4.82%，30年期殖利率降至5.24%。Freddie Mac數據顯示，截至感恩節前一週，美國30年期固定房貸平均利率為7.21%，較前一週的7.28%略降。"},
+      "ja": {"title": "株安で米国債に資金回避　10年債利回りは4.82%に低下", "summary": "11月25日、ハイテク株の売りを受けて米国債に資金が流れ、10年債利回りは7bp低下の4.82%、30年債利回りは5.24%となった。フレディマックによると、感謝祭前の週の米30年固定住宅ローン金利は平均7.21%で、前週の7.28%から低下した。"},
+      "en": {"title": "Investors shift into Treasuries; 10-year yield falls to 4.82%", "summary": "As tech stocks sold off on Nov 25, the 10-year Treasury yield fell 7 basis points to 4.82% and the 30-year fell to 5.24%. Freddie Mac's average 30-year fixed mortgage rate eased to 7.21% for the week before Thanksgiving, from 7.28% a week earlier."}
+    },
+    {
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"}
+      ],
+      "zh": {"title": "日經225收跌2.8%，東京電子與愛德萬測試重挫逾12%", "summary": "11月25日東京股市受AI概念股拋售拖累，日經225指數下跌2.8%。半導體設備股東京威力科創（Tokyo Electron）下跌12.5%，愛德萬測試（Advantest）下跌12.9%。前一日因黃仁勳重返輝達而上漲，但市場對AI獲利能力的疑慮並未因此消散。"},
+      "ja": {"title": "日経平均2.8%安、東京エレクトロンとアドバンテストは12%超の急落", "summary": "11月25日の東京株式市場では、AI関連株の売りが広がり、日経平均株価は2.8%下落した。半導体製造装置の東京エレクトロンは12.5%安、アドバンテストは12.9%安となった。前日はジェンスン・ファン氏のエヌビディア復帰を好感して上昇していたが、AI収益性への懸念は払拭されなかった。"},
+      "en": {"title": "Nikkei 225 falls 2.8% as Tokyo Electron, Advantest plunge over 12%", "summary": "Tokyo stocks fell broadly on Nov 25 as AI-linked shares sold off, with the Nikkei 225 down 2.8%. Chip-equipment makers Tokyo Electron and Advantest dropped 12.5% and 12.9%. Gains from Jensen Huang's return to Nvidia the previous session did not ease doubts over AI profitability."}
+    },
+    {
+      "sources": [
+        {"name": "Al Jazeera", "url": "https://aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom"}
+      ],
+      "zh": {"title": "亞太股市普跌：韓國綜合指數跌6.2%，台股跌4.8%", "summary": "11月25日亞洲股市全面承壓。韓國綜合股價指數（KOSPI）下跌6.2%，台灣加權指數收跌4.8%（盤中一度跌逾8%），香港恆生指數下跌1.1%。三星電子與SK海力士分別下跌9.9%與11.1%，台積電收跌3.6%，AI相關半導體股跌幅最大。"},
+      "ja": {"title": "アジア株は総じて下落、KOSPIは6.2%安、台湾加権指数は4.8%安", "summary": "11月25日のアジア株は全面安となった。韓国総合株価指数は6.2%安、台湾加権指数は4.8%安、香港ハンセン指数は1.1%安。サムスン電子は9.9%安、SKハイニックスは11.1%安、TSMCは3.6%安で、AI関連の半導体株が最も大きく下げた。"},
+      "en": {"title": "Asian markets slide: Kospi down 6.2%, Taiex down 4.8%", "summary": "Asian stocks fell broadly on Nov 25. South Korea's Kospi dropped 6.2%, Taiwan's Taiex closed down 4.8% after falling more than 8% intraday, and Hong Kong's Hang Seng lost 1.1%. Samsung Electronics and SK Hynix fell 9.9% and 11.1%, while TSMC closed 3.6% lower."}
+    },
+    {
+      "sources": [
+        {"name": "Euronews", "url": "https://www.euronews.com/2026/10/29/ecb-holds-rates-at-25-as-lagarde-announces-early-exit-with-inflation-near-double-the-targe"}
+      ],
+      "zh": {"title": "歐洲央行維持存款利率2.5%不變，拉加德宣布提前於明年2月卸任", "summary": "歐洲央行10月29日維持存款利率在2.5%不變，今年此前已加息兩次。歐元區9月通脹率為3.8%，接近目標的兩倍。拉加德宣布將於2027年2月7日卸任，比任期提前約九個月。法國10年期國債殖利率約5%，為歐元區債市的新壓力來源。"},
+      "ja": {"title": "ECB、政策金利2.5%で据え置き　ラガルド総裁は2027年2月に退任へ", "summary": "欧州中央銀行（ECB）は10月29日、預金金利を2.5%に据え置いた。今年はすでに2回の利上げを実施している。ユーロ圏の9月のインフレ率は3.8%と目標の約2倍。ラガルド総裁は2027年2月7日に退任すると発表し、任期より約9か月早い。フランス10年債利回りは約5%で、債券市場の圧力も強まっている。"},
+      "en": {"title": "ECB holds at 2.5% as Lagarde announces early exit", "summary": "The ECB kept its deposit rate at 2.5% on Oct 29 after two hikes this year. Eurozone inflation was 3.8% in September, nearly double target. Christine Lagarde said she will step down on Feb 7, 2027, about nine months before her term ends. French 10-year yields near 5% add pressure on the bloc."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "原油守在84美元上方，伊朗戰爭帶來的能源衝擊持續", "summary": "11月25日原油期貨（1月合約）收漲0.56%至84.15美元。同日黃金收於3,617.80美元，上漲1.49%。歐洲央行指出，與伊朗戰爭相關的能源價格上漲是通脹上行風險。美伊衝突仍未解決，中東局勢持續牽動市場。"},
+      "ja": {"title": "原油は84ドル台、対イラン戦争によるエネルギー高が続く", "summary": "11月25日の原油先物（1月限）は0.56%高の84.15ドルで引けた。金は1.49%高の3,617.80ドル。欧州中央銀行は、イラン戦争に関連したエネルギー価格の上昇をインフレの上振れリスクと位置付けている。米国とイランの紛争は未解決のままで、中東情勢が引き続き市場の材料となっている。"},
+      "en": {"title": "Oil holds near $84 as Iran-war energy shock persists", "summary": "January crude futures closed up 0.56% at $84.15 on Nov 25, while gold rose 1.49% to $3,617.80. The ECB says energy prices linked to the Iran war are an upside risk to inflation. The US–Iran conflict remains unresolved and Middle East developments continue to drive markets."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "褐皮書：11月初企業成本壓力持續，價格上漲跡象擴散", "summary": "聯準會11月25日公布的褐皮書顯示，能源、運輸、醫療、保險及關稅相關成本持續上升。企業預期未來幾個月成本與售價都會繼續上漲，通脹壓力正在擴散至更多行業。"},
+      "ja": {"title": "地区連銀報告（ベージュブック）、コスト圧力の持続と価格上昇の広がり", "summary": "米連邦準備制度が11月25日に公表したベージュブックによると、エネルギー、運輸、医療、保険、関税関連のコストが引き続き上昇している。企業は今後数か月もコストと販売価格が上がると見込んでおり、物価圧力が広がっているとされた。"},
+      "en": {"title": "Beige Book shows broadening cost pressures", "summary": "The Fed's Beige Book, released Nov 25, reported sustained cost pressures in energy, transportation, healthcare, insurance and tariff-related expenses. Businesses expect costs and prices to keep rising in coming months, pointing to broader inflationary pressure."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "迪爾公司財報與全年展望令人失望，股價盤中先跌後漲", "summary": "約翰迪爾（Deere）公布第四季業績，因農業支出減少及農產品價格下跌，數字疲弱，全年展望亦令人失望。股價盤前一度下跌近5%，收盤上漲4.44%至641.02美元。"},
+      "ja": {"title": "ディア、決算と通期見通しに失望　株価は下落後に反発して終了", "summary": "ディア（Deere）は第4四半期決算を発表した。農業支出の減少と農産物価格の下落が響き、通期見通しも期待外れだった。株価は時間外取引で一時5%近く下落したが、終値は4.44%高の641.02ドルとなった。"},
+      "en": {"title": "Deere's fourth-quarter results and outlook disappoint; stock recovers", "summary": "Deere reported fourth-quarter results weighed down by lower farm spending and falling crop prices, and its full-year forecast disappointed. Shares fell nearly 5% premarket but closed up 4.44% at $641.02."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "高盛：美國數據中心電力需求至2028年將大增約三倍", "summary": "高盛研究報告估計，美國將在2028年新增約52吉瓦數據中心電力容量，約為今年預期新增18吉瓦的近三倍。數據中心已佔美國電力需求增量的三分之一以上，市場擔心電費上漲等問題可能加劇。"},
+      "ja": {"title": "ゴールドマン、米データセンターの電力需要は2028年に約3倍へ", "summary": "ゴールドマン・サックス・リサーチは、米国が2028年に約52ギガワットのデータセンター電力容量を追加すると試算した。今年の見込み18ギガワットのほぼ3倍にあたる。データセンターは既に米国の電力需要増加分の3分の1以上を占め、電気料金の上昇が懸念されている。"},
+      "en": {"title": "Goldman: US data center power additions to nearly triple by 2028", "summary": "Goldman Sachs Research estimates the US will add about 52 gigawatts of data center power capacity in 2028, nearly triple the 18 GW expected this year. Data centers already account for more than a third of US power demand growth, raising concern about electricity bills."}
+    },
+    {
+      "sources": [
+        {"name": "Fox Business", "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"},
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "美股板塊分化：科技股領跌，原材料與房地產領漲", "summary": "11月25日標普500成分股中，科技板塊跌幅最大，原材料與房地產板塊則是領漲板塊。同日羅素2000指數上漲0.71%，顯示資金由大型科技股轉向其他板塊。"},
+      "ja": {"title": "米株はセクター間で明暗、ハイテクが下落し素材と不動産が上昇", "summary": "11月25日のS&P500構成銘柄では、テクノロジー株の下落が最も目立ち、素材と不動産が上昇をリードした。ラッセル2000指数は0.71%高で、資金が大型ハイテク株から他のセクターへ向かったことがうかがえる。"},
+      "en": {"title": "Sector divide: tech lags while materials and real estate lead", "summary": "On Nov 25, technology was the weakest S&P 500 sector, while materials and real estate were among the top gainers. The Russell 2000 rose 0.71%, suggesting money rotated out of mega-cap tech into other sectors."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "美國陪審團裁定華為犯有竊取商業機密共謀罪", "summary": "美國一個陪審團裁定華為（Huawei）犯有共謀竊取商業機密罪，案件涉及中美科技競爭。此案可能加劇兩國在科技與貿易領域的緊張局勢。"},
+      "ja": {"title": "米陪審、華為に営業秘密窃取の共謀罪を認定", "summary": "米国の陪審は、中国の通信機器大手華為技術（Huawei）が営業秘密を盗んだ共謀罪に当たるとの評決を下した。米中の技術・貿易対立の一環として注目されている。"},
+      "en": {"title": "US jury finds Huawei guilty of conspiracy to steal trade secrets", "summary": "A US jury found Huawei guilty of conspiring to steal trade secrets. The case sits within the broader US–China technology rivalry and may add to tensions over tech and trade."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "韓國公布穩定幣草案規則，或放寬ICO禁令", "summary": "韓國政府公布穩定幣相關草案規則，並可能放寬對首次代幣發行（ICO）的禁令。若通過，將改變韓國加密資產市場的監管框架。"},
+      "ja": {"title": "韓国、ステーブルコインの草案を公表　ICO禁止の緩和も", "summary": "韓国政府がステーブルコインに関する規則の草案を公表した。新規トークン発行（ICO）の禁止を緩和する可能性もあり、暗号資産市場の規制枠組みが変わる見通し。"},
+      "en": {"title": "South Korea unveils draft stablecoin rules, may ease ICO ban", "summary": "South Korea released draft rules for stablecoins and signaled a possible easing of its ban on initial coin offerings. If adopted, the change would reshape the regulatory framework for crypto assets in Korea."}
+    },
+    {
+      "sources": [
+        {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "zh": {"title": "Shein同意支付1億美元，和解美國FTC的欺詐指控", "summary": "快時尚電商Shein同意支付1億美元，以和解美國聯邦貿易委員會（FTC）關於誤導性商業行為的指控。"},
+      "ja": {"title": "Shein、FTCの不当表示疑惑で1億ドル支払いに合意", "summary": "ファストファッション通販のSheinは、米連邦取引委員会（FTC）による不当な商慣行の疑いを和解するため、1億ドルを支払うことで合意した。"},
+      "en": {"title": "Shein to pay $100M to settle FTC deceptive-practices allegations", "summary": "Fast-fashion retailer Shein agreed to pay $100 million to settle Federal Trade Commission allegations over deceptive business practices."}
+    }
+  ]
+}
