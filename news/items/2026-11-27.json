@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-27",
+  "items": [
+    {
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+        }
+      ],
+      "zh": {
+        "title": "道瓊收漲0.33%，標普500與納指小幅收跌",
+        "summary": "11月25日（周三）美股收盤，道瓊工業指數上漲164.25點（0.33%），盤中一度下跌約1,100點後收復；標普500指數下跌0.25%，納斯達克綜合指數下跌0.62%。美股11月26日因感恩節休市，27日半日交易。"
+      },
+      "ja": {
+        "title": "NYダウは0.33%高、S&P500とナスダックは小幅安",
+        "summary": "11月25日の米株式市場で、ダウ工業株30種平均は164.25ポイント（0.33%）高で終えた。取引中は一時1,100ポイント近く下落したが、押し目買いで持ち直した。S&P500は0.25%安、ナスダック総合は0.62%安。米株は11月26日の感謝祭で休場し、27日は短縮取引となる。"
+      },
+      "en": {
+        "title": "Dow closes higher after erasing intraday loss; S&P 500 and Nasdaq slip",
+        "summary": "On November 25 the Dow Jones Industrial Average gained 164.25 points (0.33%) after falling about 1,100 points intraday. The S&P 500 fell 0.25% and the Nasdaq Composite fell 0.62%. US markets were closed on November 26 for Thanksgiving and reopen for a shortened session on November 27."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+        }
+      ],
+      "zh": {
+        "title": "AI股拋售延續，英偉達週二跌5.9%、週三再跌3.91%",
+        "summary": "11月25日，AI相關股票繼續走弱：英偉達週二下跌5.9%，週三再跌3.91%；AMD與美光也下跌。納指100指數盤中一度較歷史高點下跌近20%，市場擔心民主黨在中期選舉中橫掃國會後，美國對AI行業加強監管的擔憂。"
+      },
+      "ja": {
+        "title": "AI株売り続く、エヌビディアは火曜5.9%安・水曜3.91%安",
+        "summary": "11月25日、AI関連株の下落が続いた。エヌビディアは火曜に5.9%安、水曜に3.91%安となり、AMDとマイクロンも下落した。ナスダック100は取引中、史上最高値から一時20%近く下落した。中間選挙で民主党が議会を制したことを受け、AI業界への規制強化への懸念も株価を押し下げた。"
+      },
+      "en": {
+        "title": "AI selloff deepens as Nvidia falls 5.9% Tuesday and 3.91% Wednesday",
+        "summary": "AI-linked stocks extended their slide on November 25. Nvidia dropped 5.9% on Tuesday and 3.91% on Wednesday, while AMD and Micron also fell. The Nasdaq 100 briefly sat nearly 20% below its record close, as investors worried about tighter AI regulation after Democrats swept the midterm elections."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+        }
+      ],
+      "zh": {
+        "title": "特朗普政府擬對14個貿易夥伴加徵新關稅，中國最高20%",
+        "summary": "美國政府就一項產能過剩調查，提議對包括中國在內14個主要貿易夥伴的進口商品加徵新關稅。中國面臨的稅率最高，為20%，將疊加在特朗普第一任期已實施的約25%關稅之上。"
+      },
+      "ja": {
+        "title": "トランプ政権、14の主要貿易相手国に新関税案 中国は最大20%",
+        "summary": "トランプ政権は過剰生産能力に関する調査を受け、中国を含む14の主要貿易相手国からの輸入品に新たな関税を課す案を示した。中国への上乗せ税率は最大20%で、第1次政権時に導入された約25%の関税に加わる。"
+      },
+      "en": {
+        "title": "Trump administration proposes new tariffs on 14 trading partners; China faces up to 20%",
+        "summary": "Following a probe into excess industrial capacity, the Trump administration proposed new duties on a wide range of imports from 14 major trading partners, including China. China faces the steepest levy at 20%, which would stack on roughly 25% tariffs enacted during Trump's first term."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+        }
+      ],
+      "zh": {
+        "title": "美國10月PCE物價年增3.8%，核心PCE高於預期；第三季GDP初值增4.3%",
+        "summary": "美國10月PCE物價指數月增0.3%、年增3.8%，與經濟學家預期一致；核心PCE年增3.3%，略高於預測的3.2%。同日公布的第三季GDP初值顯示經濟增長4.3%。"
+      },
+      "ja": {
+        "title": "10月PCE物価は前年比3.8%、コアは予想を上回る3.3% 7〜9月期GDP速報は4.3%",
+        "summary": "米商務省が発表した10月のPCE価格指数は前月比0.3%上昇、前年比3.8%上昇で、いずれも市場予想に一致した。食料・エネルギーを除くコアは前年比3.3%と、予想の3.2%を上回った。同日発表の7〜9月期GDP速報値は4.3%成長。"
+      },
+      "en": {
+        "title": "October PCE inflation at 3.8% y/y; core beats forecast; Q3 GDP preliminary 4.3%",
+        "summary": "US PCE prices rose 0.3% month-on-month and 3.8% year-on-year in October, in line with expectations. Core PCE rose 3.3% y/y, slightly above the 3.2% forecast. The preliminary third-quarter GDP reading showed 4.3% growth."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Fox Business",
+          "url": "https://www.foxbusiness.com/markets/stocks-11-25-2026"
+        },
+        {
+          "name": "Reuters（New Straits Times）",
+          "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580594/gold-drops-2pct-over-one-year-low-hawkish-fed-signals-boost-dollar"
+        }
+      ],
+      "zh": {
+        "title": "市場預計12月加息機率逾97%，聯儲官員措辭轉鷹",
+        "summary": "CME FedWatch顯示，市場預計聯儲局12月加息25個基點的機率為97.8%，明年1月再加息的機率為63%。11月17日，紐約聯儲主席威廉斯表示聯儲可能需要再次加息，聖路易斯聯儲主席穆薩萊姆稱或需多次加息以遏制通脹。"
+      },
+      "ja": {
+        "title": "12月利上げ織り込み97%、NY連銀総裁・セントルイス連銀総裁が再利上げに言及",
+        "summary": "CMEのFedWatchによると、市場は12月のFOMCで25bp利上げとなる確率を97.8%と見ており、1月の追加利上げ確率は63%とされる。11月17日には、ニューヨーク連銀のウィリアムズ総裁が再利上げが必要になる可能性に言及し、セントルイス連銀のムサレム総裁は数回の追加利上げが必要かもしれないと述べた。"
+      },
+      "en": {
+        "title": "Markets price ~97% chance of December Fed hike; officials turn hawkish",
+        "summary": "CME FedWatch data show markets assign a 97.8% probability to a 25 bp hike at the December FOMC and about 63% to another increase in January. On November 17, New York Fed President John Williams said the central bank would likely need to raise rates again, and St. Louis Fed President Alberto Musalem said several more hikes may be needed."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP（OPB 転載）",
+          "url": "https://www.opb.org/article/2026/11/17/nvidia-rejects-jensen-huang-s-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/"
+        },
+        {
+          "name": "NPR（WAMC 転載）",
+          "url": "https://www.wamc.org/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo"
+        }
+      ],
+      "zh": {
+        "title": "英偉達董事會拒絕黃仁勳復任CEO，財務長柯瑞斯暫代",
+        "summary": "黃仁勳於11月12日辭去英偉達CEO一職。11月17日，董事會表示無意讓其復任，公司將盡快物色永久CEO，目前由財務長科萊斯（Colette Kress）暫代。黃仁勳與公司總法律顧問將於12月1日及2日接受國會委員會的非公開質詢。"
+      },
+      "ja": {
+        "title": "エヌビディア取締役会、黄仁勲氏の復帰を否定 CFOが暫定CEO",
+        "summary": "黄仁勲CEOは11月12日に辞任した。取締役会は11月17日、同氏を再任しない方針を明らかにし、永続的なCEOを速やかに選ぶとした。コレット・クレスCFOが暫定CEOを務める。黄氏と法務責任者は12月1日と2日に議会委員会の非公開聴取に応じる予定。"
+      },
+      "en": {
+        "title": "Nvidia board will not reinstate Jensen Huang; CFO Colette Kress interim CEO",
+        "summary": "Jensen Huang resigned as Nvidia CEO on November 12. On November 17 the board said it does not intend to bring him back and is seeking a permanent CEO, with CFO Colette Kress serving as interim leader. Huang and general counsel Tim Teter are scheduled to answer lawmakers' questions behind closed doors on December 1 and 2."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "AP（OPB 転載）",
+          "url": "https://www.opb.org/article/2026/11/17/nvidia-rejects-jensen-huang-s-offer-to-return-as-ceo-despite-pressure-from-silicon-valley/"
+        }
+      ],
+      "zh": {
+        "title": "英偉達第三季營收約1,158億美元創新高，預期下季達1,300億美元",
+        "summary": "英偉達公布第三季財報，營收約1,158億美元，數據中心業務營收1,076億美元；每股盈利2.70美元，高於市場預期的2.48美元。公司預計下一季（截至明年1月）營收為1,300億美元，高於華爾街預期。盤後股價一度上漲5%以上。"
+      },
+      "ja": {
+        "title": "エヌビディア、7〜9月期は売上高約1,158億ドル 10〜1月期は1,300億ドル予想",
+        "summary": "エヌビディアの7〜9月期決算は売上高が約1,158億ドルで、データセンター事業は1,076億ドルだった。1株利益は2.70ドルで市場予想の2.48ドルを上回った。次の四半期（〜1月）の売上高は1,300億ドルと予想し、市場予想を上回った。時間外取引では株価が5%超上昇した。"
+      },
+      "en": {
+        "title": "Nvidia Q3 revenue near $116B; guidance of $130B for next quarter beats estimates",
+        "summary": "Nvidia reported third-quarter revenue of about $116 billion, with data center revenue of $107.6 billion, and EPS of $2.70 versus $2.48 expected. It guided to $130 billion for the quarter through January, above Wall Street forecasts. Shares rose about 5% in after-hours trading."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "NPR（WAMC 転載）",
+          "url": "https://www.wamc.org/2026-11-17/nvidia-board-says-it-does-not-intend-to-reinstate-jensen-huang-as-ceo"
+        }
+      ],
+      "zh": {
+        "title": "美國商務部新規限制透過海外數據中心遠程存取先進AI晶片",
+        "summary": "11月16日，美國商務部宣布新規則，以堵住中國企業可能透過海外數據中心遠程使用英偉達先進晶片與伺服器的漏洞。同日，美國司法部宣布正對新加坡公司Megaspeed展開刑事調查。"
+      },
+      "ja": {
+        "title": "米商務省、海外データセンター経由の先端AIチップ遠隔利用を防ぐ新規則",
+        "summary": "米商務省は11月16日、先端AIチップやサーバーへの遠隔アクセスを防ぐ新規則を発表した。中国企業が海外データセンターを通じて先端チップを利用できる抜け穴をふさぐ狙い。同日、司法省はシンガポールのMegaspeedに対する刑事捜査も明らかにした。"
+      },
+      "en": {
+        "title": "US Commerce tightens rules on remote access to advanced AI chips via overseas data centers",
+        "summary": "On November 16 the US Commerce Department announced new rules to prevent remote access to advanced AI chips and servers, closing a loophole that may have let Chinese companies use advanced Nvidia chips through overseas data centers. The Justice Department said the same day it is criminally investigating Singapore-based Megaspeed."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Reuters（New Straits Times）",
+          "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580594/gold-drops-2pct-over-one-year-low-hawkish-fed-signals-boost-dollar"
+        }
+      ],
+      "zh": {
+        "title": "現貨黃金跌至逾一年低點，美元逼近19個月高位",
+        "summary": "11月18日（周三）現貨黃金一度下跌2%，至每盎司3,772.91美元附近，為2025年9月以來最低；盤中一度觸及3,757美元。美元接近19個月高點，加息預期升溫，壓低無息資產金價。"
+      },
+      "ja": {
+        "title": "金現物が1年超ぶりの安値、ドル高と利上げ観測が重荷",
+        "summary": "11月18日、現物金は一時2%安の1オンス3,772.91ドル付近まで下落し、2025年9月以来の安値を付けた。ドルは19か月ぶりの高値圏にあり、FRBの利上げ観測の強まりが無利息資産である金の売りを促した。"
+      },
+      "en": {
+        "title": "Spot gold hits lowest in over a year as dollar nears 19-month high",
+        "summary": "On November 18 spot gold fell as much as 2% to about $3,772.91 an ounce, its lowest since September 2025. A dollar near a 19-month high and rising Fed hike expectations weighed on non-yielding bullion."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "Bloomberg（Energy Connects）",
+          "url": "https://www.energyconnects.com/news/oil/2026/november/oil-rises-on-mixed-signals-over-iran-war-outlook/"
+        }
+      ],
+      "zh": {
+        "title": "布蘭特原油約93美元，市場關注美伊戰爭前景與海灣出口回升",
+        "summary": "彭博社11月11日報導，布蘭特原油收於93美元附近，WTI超過86美元。11月以來油價從六個月高點回落，市場對美伊戰爭有望結束的期待升溫，同時海灣產油國出口回升，沙特10月產量按月增長26%。"
+      },
+      "ja": {
+        "title": "ブレント約93ドル、米イラン戦争の行方と湾岸産油国の輸出回復を注視（11月11日時点）",
+        "summary": "ブルームバーグの11月11日の報道によると、ブレントは93ドル付近で引けた。WTIは86ドル超。紛争終結への期待と湾岸産油国の輸出回復を受け、11月に入りブレントは6か月ぶりの高値から下落した。サウジアラビアの10月の原油生産は前月比26%増となった。"
+      },
+      "en": {
+        "title": "Brent near $93 as traders weigh US-Iran war outlook and Gulf export recovery (as of Nov 11)",
+        "summary": "Bloomberg reported on November 11 that Brent closed near $93 and WTI rose above $86. Brent had fallen from a six-month high in November on hopes the conflict would ease and as Gulf exports recovered; Saudi crude output rose 26% in October."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "財経新聞（フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20261126/879295.html"
+        }
+      ],
+      "zh": {
+        "title": "日經平均收漲487.54點報57,499.16點，TOPIX升0.11%",
+        "summary": "11月26日東京股市收盤，日經平均上漲487.54點（0.86%），報57,499.16點；TOPIX上漲4.20點（0.11%），報3,750.40點。東證Prime市場成交額約6.83萬億日圓。"
+      },
+      "ja": {
+        "title": "日経平均は487.54円高の57,499.16円、TOPIXは0.11%高で終了",
+        "summary": "11月26日の東京株式市場で、日経平均は487.54円（0.86%）高の57,499.16円で大引けした。TOPIXは4.20ポイント（0.11%）高の3,750.40。東証プライムの売買代金は6兆8,287億円だった。"
+      },
+      "en": {
+        "title": "Nikkei 225 closes up 0.86% at 57,499.16; TOPIX up 0.11% at 3,750.40",
+        "summary": "On November 26 the Nikkei 225 rose 487.54 points (0.86%) to close at 57,499.16. TOPIX gained 4.20 points (0.11%) to 3,750.40. Prime-market trading value was about 6.83 trillion yen."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "財経新聞（フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20261126/879298.html"
+        }
+      ],
+      "zh": {
+        "title": "東京股市先升後縮：AI與半導體股反彈，防禦股遭拋售",
+        "summary": "日經平均開盤上漲417.92點至57,429.54點，盤中一度站上58,000點，AI與半導體相關股買回。其後漲幅收窄，食品與藥品等防禦型板塊遭賣出。個股方面，Advantest、軟銀集團、Kioxia、TDK與東京電子上漲；優衣庫、大金、中外製藥與豐田汽車下跌。"
+      },
+      "ja": {
+        "title": "東京株は上げ幅縮小：AI・半導体株が反発、ディフェンシブ株は売られる",
+        "summary": "日経平均は417.92円高の57,429.54円で寄り付き、取引中は一時58,000円台を回復した。AI・半導体関連株に買い戻しが入った一方、後場にかけて上げ幅は縮小し、食料品や医薬品などディフェンシブ株は売られた。アドバンテスト、ソフトバンクグループ、キオクシア、東京エレクトロンなどが上昇し、ファーストリテイリング、ダイキン、中外製薬、トヨタ自動車などが下落した。"
+      },
+      "en": {
+        "title": "Tokyo stocks give back gains: AI and chip shares rebound, defensives sold",
+        "summary": "The Nikkei opened 417.92 points higher at 57,429.54 and briefly topped 58,000 as AI and semiconductor stocks were bought back. Gains narrowed later in the day, and defensive sectors such as food and pharmaceuticals were sold. Advantest, SoftBank Group, Kioxia, and Tokyo Electron rose, while Fast Retailing, Daikin, Chugai and Toyota fell."
+      }
+    },
+    {
+      "sources": [
+        {
+          "name": "財経新聞（フィスコ）",
+          "url": "https://www.zaikei.co.jp/article/20261126/879298.html"
+        }
+      ],
+      "zh": {
+        "title": "日銀田村審委發言，市場再度意識到追加加息",
+        "summary": "日本央行審議委員田村直樹的發言使市場意識到追加加息的可能性，日經平均的上漲幅度其後收窄。"
+      },
+      "ja": {
+        "title": "日銀・田村審議委員の発言を受け、追加利上げ観測が意識される",
+        "summary": "日銀の田村直樹審議委員の発言を受けて追加利上げの可能性が意識され、日経平均の上昇幅は後場にかけて縮小した。"
+      },
+      "en": {
+        "title": "BOJ board member Tamura's remarks revive focus on further rate hikes",
+        "summary": "Comments from Bank of Japan board member Naoki Tamura led markets to consider further rate increases, and the Nikkei's gains narrowed in the afternoon session."
+      }
+    }
+  ]
+}
