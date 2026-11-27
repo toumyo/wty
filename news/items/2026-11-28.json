@@ -1,0 +1,104 @@
+{
+  "date": "2026-11-28",
+  "items": [
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/united-states/stock-market"}],
+      "zh": {"title": "美股周五收高 道指升1.18%、標普500升1.6%", "summary": "周五為感恩節後的縮短交易日，道指收於50,774.94點，上升592點；標普500收於7,297.49點，上升1.6%；納指100上升2.6%。三大指數此前因AI股拋售一度逼近熊市，本周標普500累計上漲1.3%。"},
+      "ja": {"title": "米株、金曜は続伸 ダウ+1.18%、S&P500+1.6%", "summary": "感謝祭翌日の短縮取引となった金曜、ダウ平均は1.18%高の50,774.94ドル、S&P500は1.6%高の7,297.49で引けました。ナスダック100は2.6%上昇しました。AI関連株の売りで一時弱気相場入り寸前まで下落していたものの、週間ではS&P500が1.3%上昇しています。"},
+      "en": {"title": "US stocks rally on shortened Friday session; Dow up 1.18%, S&P 500 up 1.6%", "summary": "On the shortened session after Thanksgiving, the Dow closed at 50,774.94, up 592 points, and the S&P 500 closed at 7,297.49, up 1.6%. The Nasdaq 100 gained 2.6%. The indexes had fallen close to a bear market earlier in the week on AI-stock selling, and the S&P 500 rose 1.3% over the week."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/united-states/stock-market"}],
+      "zh": {"title": "芯片與AI大型股反彈 美光漲7.6%", "summary": "美光上漲7.6%，AMD上漲4.6%，博通上漲3.8%，Meta上漲3.1%，亞馬遜上漲3.96%，特斯拉上漲5.22%。輝達僅上漲0.8%。市場仍關注借貸成本上升與AI監管問題。"},
+      "ja": {"title": "半導体・AI大型株が反発 マイクロンは7.6%高", "summary": "マイクロン・テクノロジーは7.6%、AMDは4.6%、ブロードコムは3.8%、メタは3.1%上昇しました。アマゾンは3.96%、テスラは5.22%上昇しました。エヌビディアは0.8%高にとどまりました。借入コストの上昇とAI規制への懸念は続いています。"},
+      "en": {"title": "Chipmakers and AI megacaps rebound; Micron up 7.6%", "summary": "Micron rose 7.6%, AMD 4.6%, Broadcom 3.8% and Meta 3.1%. Amazon gained 3.96% and Tesla 5.22%, while Nvidia rose only 0.8%. Concerns over rising borrowing costs and AI regulation remain."}
+    },
+    {
+      "sources": [{"name": "NVIDIA Form 8-K (press release, Nov 23, 2026)", "url": "https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000090/nov23pressrelease.htm"}],
+      "zh": {"title": "輝達董事會復任黃仁勳為總裁兼執行長", "summary": "11月23日，輝達董事會宣布黃仁勳即日復任總裁兼執行長及董事。董事會表示，在與其會談並聽取美國政府高層意見後，認為其復任不構成國家安全風險。報道稱黃仁勳曾是外國情報活動的目標，董事會已成立獨立董事委員會進行調查。此前由Colette Kress擔任代理執行長。"},
+      "ja": {"title": "エヌビディア、ジェンスン・フアン氏のCEO復帰を発表", "summary": "11月23日、エヌビディアの取締役会はジェンスン・フアン氏が即日、社長兼CEOおよび取締役に復帰したと発表しました。取締役会は本人との面談と米政府高官の意見を踏まえ、国家安全保障上のリスクはないと判断したとしています。報道では同氏が外国情報活動の標的になったとされ、独立取締役による調査委員会が設置されています。これまではコレット・クレス氏が暫定CEOを務めていました。"},
+      "en": {"title": "Nvidia reinstates Jensen Huang as CEO", "summary": "On November 23, Nvidia's board reinstated Jensen Huang as President, CEO and director, effective immediately. The board said it had met with him and received input from senior US government officials, and concluded his reinstatement poses no national security risk. Following press reports that he had been the target of a foreign intelligence effort, an independent committee is investigating. Colette Kress had served as interim CEO."}
+    },
+    {
+      "sources": [{"name": "Fortune", "url": "https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/"}],
+      "zh": {"title": "輝達晶片轉運爭議：Megaspeed涉嫌經馬來西亞轉移逾75億美元晶片", "summary": "據報道，新加坡雲端服務商Megaspeed被指透過其馬來西亞子公司Speedmatrix，轉移至少75億美元的輝達晶片，部分晶片據報用於上海的數據中心。新加坡表示正在調查該公司，Megaspeed則否認違規。"},
+      "ja": {"title": "エヌビディア製半導体の迂回輸出疑惑 メガスピードに調査", "summary": "シンガポールのクラウド事業者メガスピードが、マレーシアの子会社スピードマトリックスを通じて、少なくとも75億ドル相当のエヌビディア製チップを中国企業へ移転したと報じられています。一部のチップは上海のデータセンターで使用されたとされます。シンガポール当局は同社を調査中で、同社は違法行為を否定しています。"},
+      "en": {"title": "Nvidia chip diversion probe: Megaspeed accused of moving over $7.5 billion in chips", "summary": "Reports say Singapore cloud provider Megaspeed funneled at least $7.5 billion of Nvidia chips through its Malaysian subsidiary Speedmatrix, with some reportedly used in a Shanghai data center. Singapore says it is investigating the company, which denies any wrongdoing."}
+    },
+    {
+      "sources": [{"name": "Fortune", "url": "https://fortune.com/2026/11/11/megaspeed-nvidia-chips-china-singapore-malaysia/"}],
+      "zh": {"title": "美國收緊AI晶片遠程存取：法案待參議院審議，Oracle取消騰訊相關交易", "summary": "美國眾議院已通過《遠程存取安全法》（Remote Access Security Act），旨在封堵中國企業透過境外數據中心使用AI處理器的漏洞，法案現待參議院審議。金融時報報道，Oracle因美方關注取消了一項價值70億美元、讓騰訊使用東南亞數據中心10萬顆AI晶片的交易。"},
+      "ja": {"title": "米国、中国企業による海外AIチップ利用を規制へ 法案は上院に", "summary": "米下院は、中国企業が海外のデータセンターにあるAIプロセッサーを利用できる抜け穴を塞ぐ「リモートアクセス安全法」を可決し、法案は上院で審議されています。フィナンシャル・タイムズによると、米当局の懸念を受けてオラクルは、テンセントに東南アジアのデータセンターで10万個のAIチップを利用させる70億ドルの契約を取り消しました。"},
+      "en": {"title": "US moves to close AI chip remote-access loophole; Oracle drops $7B Tencent deal", "summary": "The House has passed the Remote Access Security Act, which would close a loophole that lets Chinese firms use AI processors housed in overseas data centers; the bill is now before the Senate. The Financial Times reported that Oracle canceled a $7 billion deal to give Tencent access to 100,000 AI chips in Southeast Asian data centers after US officials raised concerns."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}],
+      "zh": {"title": "日經225收升2.11%，報58,711點", "summary": "日經225指數周五收於58,711.11點，上升2.11%，連續第二個交易日上漲。投資者在AI相關股經歷一輪拋售後重新買入，同時也在評估AI行業投資放緩與融資風險。"},
+      "ja": {"title": "日経平均は2.11%高の58,711円で終了 2日続伸", "summary": "日経平均株価は金曜日、2.11%高の58,711.11円で終えました。2営業日連続の上昇です。AI関連株が大きく売られた後に買いが戻りましたが、AI分野の投資鈍化や資金調達リスクへの懸念は残っています。"},
+      "en": {"title": "Nikkei 225 closes up 2.11% at 58,711, second straight gain", "summary": "The Nikkei 225 closed at 58,711.11 on Friday, up 2.11% and extending its gains to a second session. Investors bought back battered AI-related shares, while still weighing a possible slowdown in AI investment and debt-financing risks."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}],
+      "zh": {"title": "日股半導體與AI相關股領漲", "summary": "Lasertec上漲約10%，Kioxia上漲8.9%，Advantest上漲7.1%，東京電子上漲4.4%，軟銀集團上漲3.1%，在日經225反彈中表現突出。"},
+      "ja": {"title": "半導体・AI関連株が上昇を主導", "summary": "レーザーテックは約10%、キオクシアは8.9%、アドバンテストは7.1%、東京エレクトロンは4.4%、ソフトバンクグループは3.1%上昇しました。半導体・AI関連株が日経平均の反発を主導しました。"},
+      "en": {"title": "Japan's chip and AI-related shares lead the rebound", "summary": "Lasertec rose about 10%, Kioxia 8.9%, Advantest 7.1%, Tokyo Electron 4.4% and SoftBank Group 3.1%, leading the Nikkei's rebound."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/stock-market"}],
+      "zh": {"title": "日本煙草據報探討與Altria共同收購Imperial Brands", "summary": "據報道，日本煙草（JT）正與Altria Group探討共同收購英國菸草商Imperial Brands的可能性，JT股價周五上漲4.5%。此消息反映菸草行業持續整合。"},
+      "ja": {"title": "JT、アルトリアと英インペリアル・ブランズ買収を検討との報道", "summary": "報道によると、日本たばこ産業（JT）が米アルトリア・グループと共同で英国のたばこ大手インペリアル・ブランズの買収を検討しているとされます。JT株は金曜日に4.5%上昇しました。たばこ業界では再編が続いています。"},
+      "en": {"title": "Japan Tobacco reportedly explores Imperial Brands deal with Altria", "summary": "Japan Tobacco is reportedly exploring a possible acquisition of British cigarette maker Imperial Brands alongside Altria Group. JT shares rose 4.5% on Friday, highlighting ongoing consolidation in the tobacco industry."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/japan/tokyo-core-cpi"}],
+      "zh": {"title": "東京核心CPI 11月升2.9%，低於市場預期", "summary": "東京都區部11月核心CPI同比上升2.9%，高於10月的2.6%，但低於市場預期的3.0%，為2025年7月以來最快升幅，已連續三個月高於日銀2%目標。不含生鮮食品及能源的CPI升2.5%，同樣低於預期。"},
+      "ja": {"title": "東京都区部の11月コアCPIは2.9%上昇、予想を下回る", "summary": "東京都区部の11月のコアCPIは前年同月比2.9%上昇し、10月の2.6%から加速しましたが、市場予想の3.0%は下回りました。2025年7月以来の伸びで、日銀の目標2%を3カ月連続で上回っています。生鮮食品とエネルギーを除く指数は2.5%上昇でした。"},
+      "en": {"title": "Tokyo core CPI rises 2.9% in November, below forecasts", "summary": "Core consumer prices in Tokyo's central wards rose 2.9% year on year in November, up from 2.6% in October but below the 3.0% forecast. It was the fastest pace since July 2025 and the third straight month above the BOJ's 2% target. The core-core measure excluding fresh food and energy rose 2.5%, also below forecasts."}
+    },
+    {
+      "sources": [
+        {"name": "New Straits Times (Reuters)", "url": "https://www.nst.com.my/amp/business/economy/2026/11/1580260/bank-japan-governor-says-central-bank-should-keep-raising-rates"},
+        {"name": "Nation Thailand (Jiji Press)", "url": "https://www.nationthailand.com/news/40073698"}
+      ],
+      "zh": {"title": "日銀總裁植田和男：應繼續加息", "summary": "植田和男在國會表示，日銀應繼續提高政策利率，同時需要使基本通脹穩定在2%附近。日銀10月會議維持政策利率於1.25%，為1995年4月以來最高水平。他也提醒，日圓疲弱可能推高企業的售價。"},
+      "ja": {"title": "植田総裁「利上げを続けるべき」", "summary": "植田和男総裁は国会で、基調的な物価上昇率を2%程度に安定させるため、政策金利の引き上げを続けるべきだと述べました。日銀は10月会合で政策金利を1.25%に据え置いており、これは1995年4月以来の高水準です。円安が企業の販売価格を押し上げる可能性にも言及しました。"},
+      "en": {"title": "BOJ Governor Ueda says rate hikes should continue", "summary": "Governor Kazuo Ueda told parliament the BOJ should keep raising the policy rate while anchoring underlying inflation around 2%. The BOJ held its policy rate at 1.25% in October, the highest since April 1995. He also warned that a weak yen could push up the prices businesses charge."}
+    },
+    {
+      "sources": [{"name": "Nation Thailand (Jiji Press)", "url": "https://www.nationthailand.com/news/40073698"}],
+      "zh": {"title": "日本7–9月個人消費實質下降0.3%", "summary": "日本政府的GDP數據顯示，7至9月實質個人消費較前三個月下降0.3%。植田和男表示，這一下滑並不意外。"},
+      "ja": {"title": "7〜9月期の個人消費は実質0.3%減", "summary": "政府のGDP統計によると、7〜9月期の実質個人消費は前期比0.3%減少しました。植田総裁は、この減少は予想外ではなかったと述べています。"},
+      "en": {"title": "Japan's private consumption fell 0.3% in July–September", "summary": "Government GDP figures show real private consumption fell 0.3% in the July–September quarter from the previous three months. Governor Ueda said the decline came as no surprise."}
+    },
+    {
+      "sources": [{"name": "InvestmentNews", "url": "https://www.investmentnews.com/equities/october-cpi-comes-in-hot-raising-odds-of-a-bigger-than-expected-rate-hike/268961"}],
+      "zh": {"title": "美國10月CPI超預期 12月加息機率升至約85%", "summary": "美聯儲9月加息，為2023年7月以來首次，10月維持利率不變。10月CPI公布後，CME FedWatch顯示12月加息25個基點（至4.00%–4.25%）的機率約為84.7%，加息50個基點的機率升至15.3%。"},
+      "ja": {"title": "米10月CPIが予想上振れ 12月利上げ観測が強まる", "summary": "FRBは9月に利上げを実施しました（2023年7月以来初）。10月は据え置きました。10月CPI発表後、CMEのFedWatchによると、12月に0.25ポイント（4.00〜4.25%）の利上げとなる確率は約84.7%、0.5ポイントの利上げ確率は15.3%に上がりました。"},
+      "en": {"title": "Hot October CPI lifts odds of a December Fed hike to about 85%", "summary": "The Fed raised rates in September for the first time since July 2023 and held in October. After the October CPI report, CME FedWatch put the odds of a 25-basis-point hike to 4.00%–4.25% in December at 84.7%, and the odds of a 50-basis-point hike at 15.3%."}
+    },
+    {
+      "sources": [{"name": "InvestmentNews", "url": "https://www.investmentnews.com/equities/october-cpi-comes-in-hot-raising-odds-of-a-bigger-than-expected-rate-hike/268961"}],
+      "zh": {"title": "美國10月CPI月增0.4%、核心月增0.3%，均高於預期", "summary": "美國勞工統計局公布，10月CPI月增0.4%，高於預期的0.3%；核心CPI月增0.3%，高於預期的0.2%。因政府停擺，當局未公布同比數字。10月就業報告亦好於預期。"},
+      "ja": {"title": "米10月CPIは前月比0.4%上昇、コアは0.3%上昇で予想を上回る", "summary": "米労働統計局によると、10月のCPIは前月比0.4%上昇し、予想の0.3%を上回りました。コアCPIは前月比0.3%上昇で、予想の0.2%を上回っています。政府閉鎖の影響で前年同月比は公表されませんでした。10月の雇用統計も予想より良好でした。"},
+      "en": {"title": "US October CPI runs hotter than expected: headline +0.4% m/m, core +0.3%", "summary": "The Bureau of Labor Statistics reported October CPI rose 0.4% month on month, above the 0.3% forecast, and core CPI rose 0.3%, above the 0.2% forecast. No year-on-year figures were published due to a lapse in appropriations. The October jobs report also beat expectations."}
+    },
+    {
+      "sources": [{"name": "Devdiscourse (Reuters)", "url": "https://www.devdiscourse.com/article/international/3999046-ecb-keeps-december-rate-hike-on-the-table-amid-mounting-inflation-risks"}],
+      "zh": {"title": "歐洲央行10月維持利率不變，12月加息仍在考慮之中", "summary": "歐洲央行10月29日維持利率不變，但警告能源價格上漲推高通脹風險，12月加息仍在考慮之中。歐央行今年已加息兩次。拉加德宣布將提前卸任。法國10年期國債相對德國的利差達155個基點，為數十年高位。"},
+      "ja": {"title": "ECB、10月は金利据え置き 12月の利上げ余地は残す", "summary": "欧州中央銀行（ECB）は10月29日に金利を据え置きましたが、エネルギー価格の上昇による物価リスクを警告し、12月の利上げを排除しない姿勢を示しました。今年の利上げは2回です。ラガルド総裁は任期を前倒しで退くと発表しました。フランスの10年国債とドイツ国債の利回り格差は155bpで、数十年ぶりの水準です。"},
+      "en": {"title": "ECB holds rates in October, keeps December hike on the table", "summary": "The ECB left rates unchanged on October 29 but warned that high and rising energy costs are fuelling inflation risks, keeping a December hike in play after two increases this year. President Christine Lagarde announced she will step down early. France's 10-year spread over Germany reached 155 basis points, a multi-decade high."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/commodity/crude-oil"}],
+      "zh": {"title": "原油周五跌至約83美元，有望連續第四周下跌", "summary": "WTI原油收於83.33美元，跌1.88%；布蘭特原油收於94.00美元，跌2.48%。市場擔心供應過剩，但中東能源設施與油輪遭襲的風險仍在。OPEC+將於週日開會，討論2027年的供應策略。"},
+      "ja": {"title": "原油は金曜に約83ドルまで下落、4週連続安の見通し", "summary": "WTI原油は1.88%安の83.33ドル、北海ブレントは2.48%安の94.00ドルで引けました。供給過剰への懸念が強まる一方、中東のエネルギー施設やタンカーへの攻撃リスクは残っています。OPEC+は日曜日に会合を開き、2027年の供給方針を協議する予定です。"},
+      "en": {"title": "Oil falls to about $83 on Friday, heading for a fourth weekly decline", "summary": "WTI crude closed at $83.33, down 1.88%, and Brent at $94.00, down 2.48%. Concerns about a looming supply surplus outweighed continued attacks on Middle East energy infrastructure and tankers. OPEC+ meets on Sunday to discuss its 2027 supply strategy."}
+    },
+    {
+      "sources": [{"name": "Trading Economics", "url": "https://tradingeconomics.com/commodity/crude-oil"}],
+      "zh": {"title": "黃金周五升2.16%至約3,644美元", "summary": "現貨黃金收於約3,644美元，上漲2.16%；銅價上漲3.11%。以上為Trading Economics所列周五的商品報價。"},
+      "ja": {"title": "金は2.16%高の約3,644ドル、銅も上昇", "summary": "金は2.16%高の約3,644ドルで取引を終えました。銅も3.11%上昇しています。いずれもTrading Economicsが掲載した金曜日の商品価格です。"},
+      "en": {"title": "Gold rises 2.16% to about $3,644; copper up 3.11%", "summary": "Gold closed near $3,644 an ounce, up 2.16%, and copper rose 3.11%, according to Trading Economics commodity quotes for Friday."}
+    }
+  ]
+}
